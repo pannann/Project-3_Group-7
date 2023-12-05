@@ -62,7 +62,6 @@
 60,North Park Nursing Home,450 Rustic Rd,LTCH,Respiratory,Rhinovirus,2016-11-26,2016-12-26,Inactive,-79.48187197868482,43.71729432043269
 61,Extendicare Craiglee,102 Craiglee Dr,LTCH,Respiratory,Rhinovirus,2016-11-24,2016-12-11,Inactive,-79.2528019,43.7067792
 62,Humber Valley Terrace,95 Humber College Blvd,LTCH,Enteric,Norovirus-like,2016-11-23,2016-12-12,Inactive,-79.5994248,43.7307129
-63,Chartwell Scarlett Height Retirement Residence -,"4005 Eglinton Ave W - 2nd, 7th, 8th & 9th Fl",Retirement Home,Respiratory,Rhinovirus,2016-11-23,2016-12-05,Inactive,,
 64,St. John's Rehabilitation Hospital - A3,285 Cummer Ave,Hospital-Chronic Care,Respiratory,Influenza A,2016-11-18,2016-11-25,Inactive,-79.40424676206896,43.789755968965515
 65,Ehatare Nursing Home,40 Old Kingston Rd,LTCH,Respiratory,Rhinovirus,2016-11-18,2016-12-05,Inactive,-79.1825648,43.7754026
 66,Main Street Terrace,77 Main St,LTCH,Enteric,Unable to identify,2016-11-18,2016-11-30,Inactive,-79.29894248888888,43.681406233333334
@@ -70,7 +69,6 @@
 68,St. Joseph's Health Centre - 6G,30 The Queensway,Hospital-Acute Care,Respiratory,Respiratory syncytial virus,2016-11-12,2016-12-04,Inactive,-79.450101,43.639359
 69,The Salvation Army Toronto Grace Health Centre - Unit 2,47 Austin Terr,Hospital-Chronic Care,Enteric,Clostridium difficile,2016-11-09,2016-12-13,Inactive,-79.415943,43.678115
 70,St Clair O'Connor Nursing Home,2701 St Clair Ave E,LTCH,Enteric,Norovirus-like,2016-11-09,2016-11-18,Inactive,-79.3117512,43.7055002
-71,Centre for Addiction and Mental Health - Queen Site -,1001 Queen St W - Unit 2-2,Hospital-Psychiatric,Respiratory,Rhinovirus,2016-11-08,2016-11-17,Inactive,,
 72,Fudger House - 2E,439 Sherbourne St,LTCH,Enteric,Unable to identify,2016-11-01,2016-11-06,Inactive,-79.373735,43.666208
 73,Gibson Long Term Care Centre - Unit 4,1925 Steeles Ave E,LTCH,Respiratory,Influenza A,2016-11-01,2016-11-15,Inactive,-79.3758609,43.807618
 74,West Park Healthcare Centre - 2WF,82 Buttonwood Ave,Hospital-Chronic Care,Respiratory,Rhinovirus,2016-10-26,2016-11-04,Inactive,-79.5098225,43.687805
@@ -178,7 +176,6 @@
 176,Seaton House,339 George St,Shelter,Respiratory,Streptococcus pyogenes,2016-03-17,2017-10-16,Inactive,-79.374262,43.659948
 177,Altamont Care Community,92 Island Rd,LTCH,Respiratory,Influenza A,2016-03-17,2016-04-04,Inactive,-79.13997840570175,43.7988385
 178,True Davidson Acres - 3 East,200 Dawes Rd,LTCH,Respiratory,Influenza A,2016-03-15,2016-03-25,Inactive,-79.298175,43.69582
-179,Centre for Addiction and Mental Health - Queen Street Site,1001 Queen St W - Unit 2-2,Hospital-Psychiatric,Respiratory,Unable to identify,2016-03-14,2016-03-23,Inactive,,
 180,Cummer Lodge - 2 North,205 Cummer Ave,LTCH,Respiratory,Streptococcus pyogenes,2016-03-14,2016-06-15,Inactive,-79.40816758965518,43.78889555517242
 181,Cummer Lodge - 2 North,205 Cummer Ave,LTCH,Enteric,Norovirus-like,2016-03-14,2016-03-29,Inactive,-79.40816758965518,43.78889555517242
 182,Ehatare Nursing Home,40 Old Kingston Rd,LTCH,Respiratory,Unable to identify,2016-03-14,2016-03-24,Inactive,-79.1825648,43.7754026
@@ -216,8 +213,6 @@
 214,Toronto General Hospital - 5B,200 Elizabeth St,Hospital-Acute Care,Respiratory,Influenza B,2016-02-23,2016-03-07,Inactive,-79.3869528,43.6583672
 215,Bradgate Arms,54 Foxbar Rd,Retirement Home,Respiratory,Respiratory syncytial virus,2016-02-22,2016-03-02,Inactive,-79.40082,43.6866
 216,St Clair O'Connor Nursing Home - 3rd Fl,2701 St Clair Ave E,LTCH,Respiratory,Rhinovirus,2016-02-22,2016-03-04,Inactive,-79.3117512,43.7055002
-217,Providence Healthcare - Houses Of Providence -,3276 St Clair Ave E - 2 West (Elm & Pine),LTCH,Respiratory,Influenza A,2016-02-21,2016-02-25,Inactive,,
-218,Eatonville Care Centre,420 The West Mall,LTCH,Respiratory,Influenza A,2016-02-18,2016-03-12,Inactive,,
 219,Sunnybrook Health Sciences Centre - LTSE,2075 Bayview Ave,LTCH,Respiratory,Respiratory syncytial virus,2016-02-18,2016-03-05,Inactive,-79.3792695,43.7235801
 220,Holland Bloorview Kids Rehabilitation Hospital - BIRT,150 Kilgour Rd,Hospital-Chronic Care,Respiratory,Influenza A,2016-02-17,2016-02-25,Inactive,-79.37434881971065,43.7182666
 221,Fudger House,439 Sherbourne St,LTCH,Respiratory,Influenza A,2016-02-17,2016-03-02,Inactive,-79.373735,43.666208
@@ -226,7 +221,6 @@
 224,Mount Sinai Hospital - 10 South,600 University Ave,Hospital-Acute Care,Respiratory,Influenza A,2016-02-09,2016-02-14,Inactive,-79.390445,43.657536
 225,St. John's Rehabilitation Hospital - A3,285 Cummer Ave,Hospital-Chronic Care,Respiratory,Influenza A,2016-02-09,2016-02-23,Inactive,-79.40424676206896,43.789755968965515
 226,Mount Sinai Hospital - 10 North,600 University Ave,Hospital-Acute Care,Respiratory,Influenza A,2016-02-08,2016-02-16,Inactive,-79.390445,43.657536
-227,West Park Long Term Care Centre - 1st Fl -,82 Buttonwood Ave - (Kingsway/Ilaaci unit),LTCH,Respiratory,Respiratory syncytial virus,2016-02-08,2016-02-18,Inactive,,
 228,West Park Healthcare Centre - 3EC,82 Buttonwood Ave,Hospital-Chronic Care,Respiratory,Influenza A,2016-02-05,2016-02-19,Inactive,-79.5098225,43.687805
 229,Hawthorne Place Care Centre,2045 Finch Ave W,LTCH,Enteric,Norovirus-like,2016-02-05,2016-02-19,Inactive,-79.5222631,43.7562487
 230,Belmont House - 2 Walker Wing,55 Belmont St,LTCH,Respiratory,Respiratory syncytial virus,2016-02-04,2016-02-16,Inactive,-79.39170138466517,43.67449825
@@ -242,7 +236,6 @@
 240,Toronto Rehabilitation Institute - University Centre-8 South,550 University Ave,Hospital-Chronic Care,Respiratory,Influenza A,2016-01-28,2016-02-05,Inactive,-79.389958,43.65667
 241,Holland Bloorview Kids Rehabilitation Hospital - 3W BIRT,150 Kilgour Rd,Hospital-Chronic Care,Respiratory,Respiratory syncytial virus,2016-01-28,2016-02-08,Inactive,-79.37434881971065,43.7182666
 242,St. Joseph's Health Centre - 6G,30 The Queensway,Hospital-Acute Care,Respiratory,Influenza A,2016-01-28,2016-02-13,Inactive,-79.450101,43.639359
-243,Seven Oaks - 1st & 4th Fl,9 Nielson Rd,LTCH,Respiratory,Metapneumovirus,2016-01-27,2016-02-07,Inactive,,
 244,Salvation Army Toronto Grace Health Centre - PACR (unit 4),47 Austin Terrace,Hospital-Chronic Care,Respiratory,Respiratory syncytial virus,2016-01-25,2016-02-07,Inactive,-79.415943,43.678115
 245,Wellesley Central Place,160 Wellesley St E,LTCH,Respiratory,Influenza A,2016-01-25,2016-02-03,Inactive,-79.375496,43.667154
 246,West Park Long Term Care Centre - 2nd Fl Weston/Mulholland,82 Buttonwood Ave,LTCH,Respiratory,Respiratory syncytial virus,2016-01-25,2016-02-11,Inactive,-79.5098225,43.687805
@@ -254,9 +247,7 @@
 252,Chester Village,3555 Danforth Ave,LTCH,Respiratory,Influenza B,2016-01-19,2016-02-03,Inactive,-79.27409672758621,43.69413068275862
 253,Sunnybrook Health Sciences Centre - LSSW,2075 Bayview Ave,LTCH,Respiratory,Coronavirus,2016-01-19,2016-01-27,Inactive,-79.3792695,43.7235801
 254,The O'Neill Centre,33 Christie St,LTCH,Enteric,Unable to identify,2016-01-19,2016-01-25,Inactive,-79.4186528,43.6647391
-255,Isabel & Arthur Meighen Health Centre - 3rd Fl -,155 Millwood Rd -  (Lawrence & Fisher unit),LTCH,Respiratory,Influenza A,2016-01-15,2016-01-26,Inactive,,
 256,Villa Colombo - 2nd Fl - Fusco Wing,40 Playfair Ave,LTCH,Enteric,Norovirus-like,2016-01-14,2016-01-29,Inactive,-79.45668174072816,43.71094909999999
-257,Lakeshore Lodge - 3rd Fl,3197 Lakeshore Blvd W,LTCH,Enteric,Norovirus-like,2016-01-13,2016-01-22,Inactive,,
 258,"Midland Gardens Care Community - 3rd, 4th & 6th Fl",130 Midland Ave,LTCH,Respiratory,Respiratory syncytial virus,2016-01-11,2016-02-01,Inactive,-79.2469846,43.7077593
 259,Sunnybrook Health Sciences Centre - LFSW,2075 Bayview Ave,LTCH,Respiratory,Enterovirus/Rhinovirus,2016-01-11,2016-01-18,Inactive,-79.3792695,43.7235801
 260,Altamont Care Community,92 Island Rd,LTCH,Respiratory,Coronavirus,2016-01-11,2016-01-26,Inactive,-79.13997840570175,43.7988385
@@ -266,7 +257,6 @@
 264,Elm Grove Living Centre - 1st & 3rd Fl,35 Elm Grove Ave,LTCH,Respiratory,Coronavirus,2016-01-06,2016-01-15,Inactive,-79.43074080619229,43.6403384
 265,Deerwood Creek Care Community,70 Humberline Dr,LTCH,Enteric,Norovirus-like,2016-01-04,2016-01-25,Inactive,-79.616344,43.731729
 266,The Heritage Nursing Home,1195 Queen St E,LTCH,Enteric,Norovirus-like,2016-01-04,2016-01-18,Inactive,-79.3316241,43.66280613333333
-267,Fairview Nursing Home,14 Cross St,LTCH,Respiratory,Metapneumovirus,2016-01-03,2016-01-21,Inactive,,
 268,Belmont House - 5WW,55 Belmont St,LTCH,Respiratory,Unable to identify,2017-12-29,2018-01-10,Inactive,-79.39170138466517,43.67449825
 269,North Park Nursing Home - 2nd Fl,450 Rustic Rd,LTCH,Respiratory,Unable to identify,2017-12-29,2018-01-26,Inactive,-79.48187197868482,43.71729432043269
 270,Ina Grafton Gage Home - 1st Fl,40 Bell Estate Rd,LTCH,Respiratory,Unable to identify,2017-12-29,2018-01-08,Inactive,-79.2753435,43.7058073
@@ -274,7 +264,6 @@
 272,Toronto General Hospital - 8 Eaton South,200 Elizabeth St,Hospital-Acute Care,Respiratory,Influenza A,2017-12-28,2018-01-05,Inactive,-79.3869528,43.6583672
 273,Baycrest Hospital - 3E,3560 Bathurst St,Hospital-Chronic Care,Respiratory,Influenza A,2017-12-27,2018-01-05,Inactive,-79.4361036,43.7292745
 274,William Osler Health System - 10th Fl Medicine/Respiratory,101 Humber College Blvd,Hospital-Acute Care,Respiratory,Influenza A,2017-12-26,2018-01-02,Inactive,-79.5991896,43.7306053
-275,Centre for Addiction and Mental Health - Queen Site -,1001 Queen St W - Unit 1-2,Hospital-Psychiatric,Respiratory,Influenza A,2017-12-26,2018-01-10,Inactive,,
 276,Leaside Retirement Residence - Building 10,10 William Morgan Dr,Retirement Home,Respiratory,Influenza A,2017-12-25,2018-01-09,Inactive,-79.341769,43.709379
 277,Sunnybrook Health Sciences Centre - LTSW,2075 Bayview Ave,LTCH,Respiratory,Influenza A,2017-12-25,2018-01-03,Inactive,-79.3792695,43.7235801
 278,Castleview Wychwood Tower - 5th Fl,351 Christie St,LTCH,Respiratory,Unable to identify,2017-12-24,2018-01-05,Inactive,-79.42113793274277,43.673349
@@ -283,7 +272,6 @@
 281,"St. Hilda's Towers - Dufferin Tower - MED, RIU & TCP",2339 Dufferin St,Retirement Home,Enteric,Unable to identify,2017-12-22,2017-12-28,Inactive,-79.449681,43.69459
 282,St. Joseph's Health Centre - 6G,30 The Queensway,Hospital-Acute Care,Respiratory,Influenza A,2017-12-22,2017-12-30,Inactive,-79.450101,43.639359
 283,Midland Gardens Care Community,130 Midland Ave,LTCH,Respiratory,Respiratory syncytial virus,2017-12-21,2018-01-13,Inactive,-79.2469846,43.7077593
-284,Centre for Addiction and Mental Health - Queen Site -,1001 Queen St W - Unit 1-3 LGUB,Hospital-Psychiatric,Respiratory,Unable to identify,2017-12-21,2017-12-30,Inactive,,
 285,Baycrest Hospital - 7 East,3560 Bathurst St,Hospital-Chronic Care,Respiratory,Influenza A,2017-12-20,2018-01-03,Inactive,-79.4361036,43.7292745
 286,Sunnybrook Health Sciences Centre - CrCU,2075 Bayview Ave,Hospital-Acute Care,Enteric,Clostridium difficile,2017-12-20,2018-05-01,Inactive,-79.3792695,43.7235801
 287,Belmont House - 4WW,55 Belmont St,LTCH,Enteric,Norovirus-like,2017-12-20,2018-01-03,Inactive,-79.39170138466517,43.67449825
@@ -304,12 +292,10 @@
 302,Sunnybrook Health Sciences Centre - LSSE & LSSW,2075 Bayview Ave,LTCH,Respiratory,Enterovirus/Rhinovirus,2017-12-12,2017-12-27,Inactive,-79.3792695,43.7235801
 303,Extendicare Bayview,550 Cummer Ave,LTCH,Respiratory,Enterovirus/Rhinovirus,2017-12-11,2018-01-05,Inactive,-79.3904512,43.7932278
 304,Extendicare Guildwood,60 Guildwood Pky,LTCH,Respiratory,Influenza A,2017-12-11,2018-01-02,Inactive,-79.203089,43.7462823
-305,Centre for Addiction and Mental Health - Queen Site,1001 Queen St W - 80 Workman Way - 3rd Fl,Hospital-Psychiatric,Enteric,Unable to identify,2017-12-11,2017-12-18,Inactive,,
 306,The Hospital for Sick Children - 7D,555 University Ave,Hospital-Acute Care,Enteric,Norovirus-like,2017-12-11,2017-12-18,Inactive,-79.387438,43.657372
 307,Centre for Addiction and Mental Health - Unit 5,250 College St,Hospital-Psychiatric,Enteric,Unable to identify,2017-12-10,2017-12-18,Inactive,-79.3993314,43.6598547
 308,St. Bernard's Residence,685 Finch Ave W,Retirement Home,Respiratory,Unable to identify,2017-12-08,2017-12-18,Inactive,-79.4561852,43.7709198
 309,North York General Hospital - Seniors' Health Centre- 3rd Fl,2 Buchan Crt,LTCH,Respiratory,Unable to identify,2017-12-08,2017-12-26,Inactive,-79.35998,43.772849
-310,Yee Hong Centre For Geriatric Care - Scarborough Finch -,60 Scottfield Dr - 4th Fl,LTCH,Enteric,Norovirus-like,2017-12-08,2017-12-20,Inactive,,
 311,Sunnybrook Health Sciences Centre - D4,2075 Bayview Ave,Hospital-Acute Care,Respiratory,Coronavirus,2017-12-08,2017-12-21,Inactive,-79.3792695,43.7235801
 312,Sunnybrook Health Sciences Centre - LGSE,2075 Bayview Ave,LTCH,Respiratory,Parainfluenza,2017-12-07,2017-12-14,Inactive,-79.3792695,43.7235801
 313,Bridgepoint Active Healthcare - 9 South,1 Bridgepoint Dr,Hospital-Chronic Care,Respiratory,Respiratory syncytial virus,2017-12-07,2017-12-14,Inactive,-79.3554469,43.6658608
@@ -340,7 +326,6 @@
 338,147 Elder Street,147 Elder St,Retirement Home,Respiratory,Unable to identify,2017-10-31,2017-11-16,Inactive,-79.454186,43.7626531
 339,"True Davidson Acres - 1 West, 2 East & 2 West",200 Dawes Rd,LTCH,Enteric,Norovirus-like,2017-10-31,2017-11-08,Inactive,-79.298175,43.69582
 340,Kensington Gardens - North Building - 1 East,45 Brunswick Ave,LTCH,Respiratory,Unable to identify,2017-10-27,2017-11-05,Inactive,-79.404305,43.658784
-341,Yee Hong Centre for Geriatric Care - Scarborough Finch -,60 Scottfield Dr - 2nd Fl,LTCH,Respiratory,Unable to identify,2017-10-19,2017-10-28,Inactive,,
 342,Vermont Square - 3rd Fl,914 Bathurst St,LTCH,Respiratory,Unable to identify,2017-10-17,2017-11-06,Inactive,-79.4126122,43.6682389
 343,McCall Centre for Continuing Care - 3rd Fl Rehab,140 Sherway Dr,Hospital-Chronic Care,Respiratory,Unable to identify,2017-10-17,2017-10-26,Inactive,-79.562235,43.610033
 344,Sunnybrook Health Sciences Centre - LSSE,2075 Bayview Ave,LTCH,Respiratory,Enterovirus/Rhinovirus,2017-10-16,2017-10-29,Inactive,-79.3792695,43.7235801
@@ -352,7 +337,6 @@
 350,Bendale Acres - 1st Fl West & 5th Fl,2920 Lawrence Ave E,LTCH,Respiratory,Rhinovirus,2017-09-14,2017-09-27,Inactive,-79.2516534,43.7543919
 351,Seven Oaks - 5th Fl,9 Neilson Rd,LTCH,Respiratory,Rhinovirus,2017-09-13,2017-09-25,Inactive,-79.2034339,43.7794412
 352,Extendacare Rouge Valley,551 Conlins Rd,LTCH,Enteric,Norovirus-like,2017-09-13,2017-09-20,Inactive,-79.1894286,43.8029937
-353,Providence Healthcare - Houses of Providence - HOP 1 West,3276 St Clair Ave E - Balsam & Maple,LTCH,Respiratory,Rhinovirus,2017-09-12,2017-09-20,Inactive,,
 354,The Wexford - 5th Fl,1860 Lawrence Ave E,LTCH,Respiratory,Rhinovirus,2017-09-12,2017-09-26,Inactive,-79.3024148,43.7438388
 355,Cummer Lodge - 3rd Fl North,205 Cummer Ave,LTCH,Respiratory,Rhinovirus,2017-09-12,2017-10-10,Inactive,-79.40816758965518,43.78889555517242
 356,Seniors' Health Centre - 1st Fl,2 Buchan Crt,LTCH,Respiratory,Rhinovirus,2017-09-11,2017-09-19,Inactive,-79.35998,43.772849
@@ -377,10 +361,8 @@
 375,Altamont Care Community,92 Island Rd,LTCH,Respiratory,Rhinovirus,2017-08-09,2017-08-26,Inactive,-79.13997840570175,43.7988385
 376,Extendicare Scarborough,3830 Lawrence Ave E,LTCH,Respiratory,Rhinovirus,2017-08-07,2017-08-18,Inactive,-79.210221,43.763575
 377,Mon Sheong Scarborough Long Term Care Home - 1st Fl,2030 McNicoll Ave,LTCH,Respiratory,Influenza A,2017-08-05,2017-08-26,Inactive,-79.2994857,43.8128599
-378,Centre for Addiction and Mental Health - Queen Street Site -,1001 Queen St W - 80 Workman Way - 2nd Fl GAU-A,Hospital-Chronic Care,Enteric,Unable to identify,2017-08-04,2017-08-09,Inactive,,
 379,Yee Hong Centre for Geriatric Care - McNicoll Site,2311 McNicoll Ave,LTCH,Respiratory,Adenovirus,2017-08-04,2017-08-11,Inactive,-79.2899939,43.8144476
 380,Westside,1145 Albion Rd,LTCH,Respiratory,Rhinovirus,2017-08-04,2017-08-21,Inactive,-79.5667899,43.7373503
-381,Weston Terrace Care Community - Franklin Carmichael Unit,2005 Lawrence Ave W - 1st Fl,LTCH,Respiratory,Unable to identify,2017-08-03,2017-08-11,Inactive,,
 382,Valleyview Residence - 4th Fl,541 Finch Ave W,LTCH,Respiratory,Parainfluenza,2017-08-01,2017-08-18,Inactive,-79.4482104,43.7727096
 383,Bridgepoint Active Healthcare - 6 South,14 St Matthews Rd,Hospital-Chronic Care,Enteric,Unable to identify,2017-08-01,2017-08-14,Inactive,-79.3537925,43.6660438
 384,Baycrest Apotex - 5 EI,3560 Bathurst St,LTCH,Respiratory,Rhinovirus,2017-08-01,2017-08-10,Inactive,-79.4361036,43.7292745
@@ -433,7 +415,6 @@
 431,Deerwood Creek Care Community - 3A,70 Humberline Dr,LTCH,Respiratory,Influenza A,2017-04-15,2017-04-26,Inactive,-79.616344,43.731729
 432,Sunnybrook Health Sciences Centre - K2C,2075 Bayview Ave,LTCH,Respiratory,Influenza A,2017-04-12,2017-04-20,Inactive,-79.3792695,43.7235801
 433,Providence Healthcare - Unit D3,3276 St Clair Ave E,Hospital-Chronic Care,Respiratory,Influenza A,2017-04-09,2017-04-16,Inactive,-79.2861565,43.7135926
-434,Scarborough And Rouge Hospital - Scarborough General Site -,3050 Lawrence Ave E - CP1,Hospital-Acute Care,Respiratory,Respiratory syncytial virus,2017-04-07,2017-04-24,Inactive,,
 435,Cheltenham Care Community - 1st Fl,5935 Bathurst St,LTCH,Respiratory,Metapneumovirus,2017-04-07,2017-04-16,Inactive,-79.44484073636364,43.78182523636364
 436,Chartwell Gibson Retirement Residence,1955 Steeles Ave E,Retirement Home,Respiratory,Influenza A,2017-04-05,2017-04-20,Inactive,-79.3726983,43.8083147
 437,Chartwell Gibson Long Term Care - 3rd Fl,1925 Steeles Ave E,LTCH,Respiratory,Respiratory syncytial virus,2017-04-04,2017-04-19,Inactive,-79.3758609,43.807618
@@ -475,13 +456,10 @@
 473,Lakeside Long Term Care Centre,150 Dunn Ave,LTCH,Respiratory,Influenza A,2017-03-07,2017-03-20,Inactive,-79.4326664,43.6356584
 474,Forest Hill Place,645 Castlefield Ave,Retirement Home,Respiratory,Metapneumovirus,2017-03-06,2017-03-13,Inactive,-79.4247813,43.7065006
 475,St. Hilda's Towers - OCP & TCP,2339 Dufferin St,Retirement Home,Enteric,Unable to identify,2017-03-06,2017-03-17,Inactive,-79.449681,43.69459
-476,Centre for Addiction and Mental Health - Queen Site -,1001 Queen St W - Unit 2-4,Hospital-Psychiatric,Enteric,Unable to identify,2017-03-05,2017-03-11,Inactive,,
 477,Kensington Gardens - South Building - 2 East,25 Brunswick Ave,LTCH,Enteric,Norovirus-like,2017-03-04,2017-03-13,Inactive,-79.40368867487679,43.6581346
 478,Kensington Gardens - North Building - 2 East & 2 West,45 Brunswick Ave,LTCH,Enteric,Norovirus-like,2017-03-04,2017-03-14,Inactive,-79.404305,43.658784
 479,The Annex Retirement Residence,123 Spadina Rd,Retirement Home,Enteric,Unable to identify,2017-03-03,2017-03-16,Inactive,-79.405505,43.67175
-480,Amica At Bayview - 2nd  Fl & 4th Fl,15 Barbery Pl,Retirement Home,Respiratory,Influenza A,2017-03-01,2017-03-17,Inactive,,
 481,St. John's Rehabilitation Hospital - A3,285 Cummer Ave,Hospital-Chronic Care,Respiratory,Respiratory syncytial virus,2017-02-28,2017-03-10,Inactive,-79.40424676206896,43.789755968965515
-482,Yee Hong Centre For Geriatric Care - Scarborough Finch -,60 Scottfield Dr - 3rd & 5th Fl,LTCH,Respiratory,Coronavirus,2017-02-27,2017-03-12,Inactive,,
 483,Extendicare Bayview,550 Cummer Ave,LTCH,Respiratory,Influenza A,2017-02-26,2017-03-15,Inactive,-79.3904512,43.7932278
 484,Kensington Gardens - North Building - 2 West,25 Brunswick Ave,LTCH,Respiratory,Influenza A,2017-02-22,2017-03-01,Inactive,-79.40368867487679,43.6581346
 485,Cedarhurst Dementia Care Home,2601 Bayview Ave,Retirement Home,Enteric,Norovirus-like,2017-02-21,2017-03-06,Inactive,-79.3845412,43.7508959
@@ -496,7 +474,6 @@
 494,Sunnybrook Health Sciences Centre - LTSE,2075 Bayview Ave,LTCH,Respiratory,Respiratory syncytial virus,2017-02-14,2017-02-23,Inactive,-79.3792695,43.7235801
 495,Fudger House - 3 East & 3 West,439 Sherbourne St,LTCH,Respiratory,Metapneumovirus,2017-02-13,2017-02-21,Inactive,-79.373735,43.666208
 496,Villa Colombo - 4th Fl Fusco & 5th Fl Fidani,40 Playfair Ave,LTCH,Respiratory,Influenza A,2017-02-12,2017-03-01,Inactive,-79.45668174072816,43.71094909999999
-497,UHN Toronto Rehabilitation Institute - University Centre -,550 University Ave - 6 South,Hospital-Chronic Care,Respiratory,Influenza A,2017-02-10,2017-02-19,Inactive,,
 498,Kingsway Retirement Home - 2nd Fl,4251 Dundas St W,Retirement Home,Enteric,Norovirus-like,2017-02-10,2017-02-21,Inactive,-79.513986,43.6591255
 499,Mon Sheong Scarborough Long Term Care Centre,2030 McNicoll Ave,LTCH,Respiratory,Influenza A,2017-02-10,2017-02-23,Inactive,-79.2994857,43.8128599
 500,Sunnybrook Health Sciences Centre - LGSW,2075 Bayview Ave,LTCH,Respiratory,Coronavirus,2017-02-10,2017-02-22,Inactive,-79.3792695,43.7235801
@@ -514,7 +491,6 @@
 512,Weston Terrace Care Community - Units 1A & 4A,2005 Lawrence Ave W,LTCH,Respiratory,Influenza A,2017-02-06,2017-02-16,Inactive,-79.51072231818182,43.70133497272727
 513,Cummer Lodge - 2 North,205 Cummer Ave,LTCH,Respiratory,Respiratory syncytial virus,2017-02-06,2017-03-03,Inactive,-79.40816758965518,43.78889555517242
 514,Yee Hong Centre For Geriatric Care - Scarborough Finch,60 Scottfield Dr,LTCH,Respiratory,Influenza A,2017-02-05,2017-02-28,Inactive,-79.25453972658863,43.8086905
-515,Lakeshore Lodge - 2nd Fl,3197 Lakeshore Blvd W,LTCH,Respiratory,Influenza A,2017-02-03,2017-02-14,Inactive,,
 516,Extendicare Scarborough,3830 Lawrence Ave E,LTCH,Respiratory,Influenza A,2017-02-02,2017-02-14,Inactive,-79.210221,43.763575
 517,Living Life On The Avenue,1066 Avenue Rd,Retirement Home,Enteric,Norovirus-like,2017-02-02,2017-02-14,Inactive,-79.410136,43.705781
 518,Princess Margaret Hospital - 14A,610 University Ave,Hospital-Acute Care,Respiratory,Influenza A,2017-02-02,2017-02-10,Inactive,-79.390408,43.65813
@@ -554,7 +530,6 @@
 552,Harmony Hills Care Community,1800 O'Connor Dr,LTCH,Enteric,Norovirus-like,2017-01-20,2017-02-10,Inactive,-79.30522822012195,43.7204409
 553,Sunnybrook Health Sciences Centre  - LGSE,2075 Bayview Ave,LTCH,Respiratory,Influenza A,2017-01-19,2017-02-09,Inactive,-79.3792695,43.7235801
 554,Sunnybrook Health Sciences Centre - LGSW,2075 Bayview Ave,LTCH,Respiratory,Influenza A,2017-01-19,2017-02-02,Inactive,-79.3792695,43.7235801
-555,Sunnybrook Holland Orthopaedic & Arthritic Centre -,43 Wellesley St E - 17E Holland Centre,Hospital-Chronic Care,Respiratory,Influenza A,2017-01-19,2017-02-01,Inactive,,
 556,William Osler Health System - 7 West,101 Humber College Blvd,Hospital-Acute Care,Respiratory,Influenza A,2017-01-19,2017-01-27,Inactive,-79.5991896,43.7306053
 557,Sunnybrook Health Sciences Centre - LSSE,2075 Bayview Ave,LTCH,Respiratory,Influenza A,2017-01-19,2017-01-29,Inactive,-79.3792695,43.7235801
 558,Harold and Grace Baker Centre - C Wing,1 Northwestern Ave,LTCH,Respiratory,Influenza A,2017-01-18,2017-01-22,Inactive,-79.4688897,43.6987718
@@ -570,18 +545,14 @@
 568,William Osler Health System - 10th Level,101 Humber College Blvd,Hospital-Acute Care,Respiratory,Influenza A,2017-01-17,2017-01-25,Inactive,-79.5991896,43.7306053
 569,Elim Springs Retirement Residence,3838 Bloor St W,Retirement Home,Respiratory,Influenza A,2017-01-17,2017-01-29,Inactive,-79.53856441764707,43.641243394117645
 570,Village of Humber Heights - Brule,2245 Lawrence Ave W,LTCH,Respiratory,Respiratory syncytial virus,2017-01-16,2017-02-06,Inactive,-79.527245,43.6972121
-571,"Leisureworld Caregiving Centre - Rockcliffe - Ground,",3015 Lawrence Ave E - 1st & 2nd Fl,LTCH,Respiratory,Influenza A,2017-01-16,2017-01-27,Inactive,,
 572,Baycrest Apotex Centre - 6EI,3560 Bathurst St,LTCH,Respiratory,Influenza A,2017-01-16,2017-01-24,Inactive,-79.4361036,43.7292745
 573,Extendicare Craiglee,102 Craiglee Dr,LTCH,Enteric,Norovirus-like,2017-01-16,2017-02-02,Inactive,-79.2528019,43.7067792
-574,Scarborough and Rouge Hospital - General Campus -,3050 Lawrence Ave E - CP1,Hospital-Acute Care,Respiratory,Metapneumovirus,2017-01-15,2017-01-30,Inactive,,
 575,McCall Centre for Continuing Care - 3rd Fl Rehabilitation,140 Sherway Dr,Hospital-Chronic Care,Respiratory,Influenza A,2017-01-14,2017-01-23,Inactive,-79.562235,43.610033
 576,Fieldstone Commons Care Community,1000 Ellesmere Rd,LTCH,Respiratory,Influenza A,2017-01-14,2017-02-01,Inactive,-79.277814,43.766995
 577,McCall Centre for Continuing Care - 3rd Fl,140 Sherway Dr,Hospital-Chronic Care,Enteric,Norovirus-like,2017-01-14,2017-01-25,Inactive,-79.562235,43.610033
 578,Atrium At Kew Beach,500 Kingston Rd,Retirement Home,Respiratory,Influenza A,2017-01-13,2017-01-29,Inactive,-79.3026915478865,43.6778819
-579,Hellenic Care For Seniors,215 Tyrrell Ave,LTCH,Respiratory,Influenza A,2017-01-13,2017-01-31,Inactive,,
 580,Momiji Health Care Society,3555 Kingston Rd,Retirement Home,Enteric,Norovirus-like,2017-01-13,2017-01-26,Inactive,-79.216648,43.7387915
 581,Cheltenham Care Community,5935 Bathurst St,LTCH,Respiratory,Respiratory syncytial virus,2017-01-13,2017-02-06,Inactive,-79.44484073636364,43.78182523636364
-582,St. Hilda's Towers - Dufferin Tower - Transitional Care Unit,2339 Dufferin St - TCP & RIU,Retirement Home,Respiratory,Coronavirus,2017-01-13,2017-01-23,Inactive,,
 583,St. Hilda's Towers - Dufferin Tower - Transitional Care Unit,2339 Dufferin St,Retirement Home,Enteric,Unable to identify,2017-01-13,2017-01-24,Inactive,-79.449681,43.69459
 584,Chartwell Lansing Retirement Residence,10 Senlac Rd,Retirement Home,Respiratory,Influenza A,2017-01-13,2017-01-27,Inactive,-79.4227967,43.7590704
 585,Vermont Square - 6th & 7th Fl,914 Bathurst St,LTCH,Respiratory,Influenza A,2017-01-12,2017-01-23,Inactive,-79.4126122,43.6682389
@@ -606,11 +577,9 @@
 604,The Russell Hill Retirement Residence,262 St Clair Ave E,Retirement Home,Respiratory,Influenza A,2017-01-09,2017-01-23,Inactive,-79.3836022,43.6904379
 605,The Teddington Retirement Residence,4 Teddington Park Ave,Retirement Home,Respiratory,Influenza A,2017-01-09,2017-01-24,Inactive,-79.4040004,43.733129
 606,St. George Care Community,225 St George St,LTCH,Respiratory,Influenza A,2017-01-08,2017-01-21,Inactive,-79.401462,43.672538
-607,UHN Toronto Rehabilitation Institute - University Centre,550 University Ave - 6 South,Hospital-Chronic Care,Respiratory,Influenza A,2017-01-06,2017-01-13,Inactive,,
 608,Providence Healthcare - B4,3276 St Clair Ave E,Hospital-Chronic Care,Respiratory,Influenza A,2017-01-06,2017-01-20,Inactive,-79.2861565,43.7135926
 609,The O'Neill Centre - 5th Fl,33 Christie St,LTCH,Respiratory,Influenza A,2017-01-06,2017-01-23,Inactive,-79.4186528,43.6647391
 610,Chartwell Grenadier Retirement Residence,2100 Bloor St W,Retirement Home,Respiratory,Coronavirus,2017-01-06,2017-01-19,Inactive,-79.4711165,43.6524038
-611,Fairview Nursing Home - King Neighbourhood,14 Cross St,LTCH,Respiratory,Respiratory syncytial virus,2017-01-06,2017-02-01,Inactive,,
 612,Cheltenham Care Community,5935 Bathurst St,LTCH,Enteric,Unable to identify,2017-01-06,2017-01-18,Inactive,-79.44484073636364,43.78182523636364
 613,Shepherd Lodge - 5th Fl,3760 Sheppard Ave E,LTCH,Enteric,Norovirus-like,2017-01-06,2017-01-14,Inactive,-79.294078,43.782836
 614,The Claremont Retirement Residence,305 Balliol St,Retirement Home,Respiratory,Influenza A,2017-01-05,2017-01-16,Inactive,-79.386874,43.699176
@@ -626,7 +595,6 @@
 624,Tendercare Living Centre,1020 McNicoll Ave,LTCH,Respiratory,Influenza A,2017-01-04,2017-01-28,Inactive,-79.3361316,43.8042581
 625,Sunnybrook Health Sciences Centre - D4,2075 Bayview Ave,Hospital-Acute Care,Respiratory,Influenza A,2017-01-03,2017-01-11,Inactive,-79.3792695,43.7235801
 626,Canterbury Place Retirement Residence,1 Canterbury Pl,Retirement Home,Respiratory,Influenza A,2017-01-03,2017-01-28,Inactive,-79.4141725,43.7719895
-627,"Providence Healthcare - Houses Of Providence - Fl 1, West &",3276 St Clair Ave E - F3 East,LTCH,Respiratory,Influenza A,2017-01-03,2017-01-17,Inactive,,
 628,Hellenic Home - 2B & Ground,2411 Lawrence Ave E,LTCH,Enteric,Norovirus-like,2017-01-03,2017-01-09,Inactive,-79.2746356,43.7493249
 629,Scarborough Hospital - Birchmount Campus - 3A,3030 Birchmount Rd,Hospital-Acute Care,Respiratory,Influenza A,2017-01-03,2017-01-12,Inactive,-79.309054,43.801891
 630,Nisbet Lodge,740 Pape Ave,LTCH,Enteric,Unable to identify,2017-01-02,2017-01-14,Inactive,-79.3456271,43.6804485
@@ -639,7 +607,6 @@
 637,Drs. Paul and John Rekai Centre,345 Sherbourne St,LTCH,Respiratory,Influenza A,2017-01-01,2017-01-20,Inactive,-79.37243630597754,43.662702249999995
 638,Toronto Grace Health Centre - Unit 2 & 3,47 Austin Terr,Hospital-Chronic Care,Respiratory,Influenza A,2017-01-01,2017-01-12,Inactive,-79.415943,43.678115
 639,Eatonville Care Centre,420 The East Mall,LTCH,Respiratory,Influenza A,2018-12-31,2019-01-25,Inactive,-79.560686,43.64745
-640,Princess Margaret Hospital - 15B,610 Universtiy Ave,Hospital-Acute Care,Respiratory,Respiratory syncytial virus,2018-12-31,2019-01-08,Inactive,,
 641,Villa Colombo - 4th Fl Fusco,40 Playfair Ave,LTCH,Enteric,Unable to identify,2018-12-29,2019-01-12,Inactive,-79.45668174072816,43.71094909999999
 642,Hellenic Home  (Scarborough) - 2A & 3A,2411 Lawrence Ave E,LTCH,Enteric,Norovirus-like,2018-12-28,2019-01-16,Inactive,-79.2746356,43.7493249
 643,Hillcrest Reactivation Centre - 2nd Fl,47 Austin Terr,Hospital-Chronic Care,Respiratory,Unable to identify,2018-12-28,2019-01-08,Inactive,-79.415943,43.678115
@@ -713,7 +680,6 @@
 711,Fudger House - 2 & 3 East,439 Sherbourne St,LTCH,Respiratory,Unable to identify,2018-09-20,2018-10-05,Inactive,-79.373735,43.666208
 712,Altamont Care Community,92 Island Rd,LTCH,Respiratory,Parainfluenza,2018-09-14,2018-09-24,Inactive,-79.13997840570175,43.7988385
 713,Norfinch Care Community - 3A,22 Norfinch Dr,LTCH,Respiratory,Unable to identify,2018-09-12,2018-09-21,Inactive,-79.52465315351665,43.75628127207558
-714,Fairview Nursing Home - Dundas & Queen,14 Cross St,LTCH,Respiratory,Unable to identify,2018-09-12,2018-09-25,Inactive,,
 715,Rockcliffe Care Community,3015 Lawrence Ave E,LTCH,Respiratory,Unable to identify,2018-09-11,2018-09-25,Inactive,-79.2468577,43.7550969
 716,North Park Nursing Home,450 Rustic Rd,LTCH,Respiratory,Unable to identify,2018-09-07,2018-09-18,Inactive,-79.48187197868482,43.71729432043269
 717,Harold and Grace Baker Centre - A Wing & C Wing,1 Northwestern Ave,LTCH,Respiratory,Unable to identify,2018-09-06,2018-09-24,Inactive,-79.4688897,43.6987718
@@ -844,7 +810,6 @@
 842,Better Living at Thompson House - 3rd Fl,1 Overland Dr,LTCH,Respiratory,Unable to identify,2018-03-14,2018-04-09,Inactive,-79.347342,43.732464
 843,Sunnybrook Health Sciences Centre - LTSW & LTSE,2075 Bayview Ave,LTCH,Respiratory,Influenza A,2018-03-14,2018-03-24,Inactive,-79.3792695,43.7235801
 844,Sunnybrook Health Sciences Centre - LFSE,2075 Bayview Ave,LTCH,Respiratory,Influenza A,2018-03-13,2018-03-22,Inactive,-79.3792695,43.7235801
-845,The Briton House Retirement Residence,700 & 720 Mount Pleasant Rd,Retirement Home,Enteric,Unable to identify,2018-03-13,2018-03-26,Inactive,,
 846,The O'Neill Centre - 5th Fl,33 Christie St,LTCH,Respiratory,Influenza A,2018-03-13,2018-03-20,Inactive,-79.4186528,43.6647391
 847,William Osler Health System - 10th Level,101 Humber College Blvd,Hospital-Acute Care,Respiratory,Respiratory syncytial virus,2018-03-12,2018-03-16,Inactive,-79.5991896,43.7306053
 848,Seven Oaks,9 Neilson Rd,LTCH,Respiratory,Influenza B,2018-03-12,2018-03-29,Inactive,-79.2034339,43.7794412
@@ -874,7 +839,6 @@
 872,Ehatare Nursing Home - 4th Fl,40 Old Kingston Rd,LTCH,Enteric,Norovirus-like,2018-03-01,2018-03-13,Inactive,-79.1825648,43.7754026
 873,Chartwell Trilogy Long Term Care Residence - 4th & 5th Fl,340 McCowan Rd,LTCH,Respiratory,Influenza B,2018-02-28,2018-03-15,Inactive,-79.238633,43.73837
 874,V Care Retirement Home,8 Bridlington St,Retirement Home,Respiratory,Influenza A,2018-02-28,2018-03-07,Inactive,-79.23957495245271,43.770706279127864
-875,Providence Healthcare - Houses of Providence - 3rd Fl East -,3276 St Clair Ave E - & West,LTCH,Respiratory,Influenza A,2018-02-28,2018-03-09,Inactive,,
 876,Fieldstone Commons Care Community,1000 Ellesmere Rd,LTCH,Respiratory,Influenza B,2018-02-28,2018-03-12,Inactive,-79.277814,43.766995
 877,Belmont House - 4th Fl,55 Belmont,LTCH,Respiratory,Influenza B,2018-02-27,2018-03-05,Inactive,-79.505002,43.839483
 878,Cummer Lodge - 4 South,205 Cummer Ave,LTCH,Respiratory,Influenza B,2018-02-27,2018-03-05,Inactive,-79.40816758965518,43.78889555517242
@@ -884,7 +848,6 @@
 882,Rockcliffe Care Community,3015 Lawrence Ave E,LTCH,Respiratory,Unable to identify,2018-02-26,2018-03-14,Inactive,-79.2468577,43.7550969
 883,The Westbury - 4th Fl,495 The West Mall,LTCH,Respiratory,Unable to identify,2018-02-26,2018-03-08,Inactive,-79.567866,43.648303
 884,Nisbet Lodge,740 Pape Ave,LTCH,Respiratory,Influenza B,2018-02-24,2018-03-13,Inactive,-79.3456271,43.6804485
-885,Sinai Health System - Mount Sinai Hospital -,600 University Ave - 12 South & EXAU,Hospital-Acute Care,Respiratory,Influenza A,2018-02-23,2018-03-02,Inactive,,
 886,New Horizons Tower,1140 Bloor St W,Retirement Home,Respiratory,Influenza B,2018-02-23,2018-03-17,Inactive,-79.43604266376147,43.659954600000006
 887,The Hospital for Sick Children - 8A,555 University Ave,Hospital-Acute Care,Enteric,Norovirus-like,2018-02-23,2018-03-02,Inactive,-79.387438,43.657372
 888,Chester Villiage - Diamond Unit,3555 Danforth Ave,LTCH,Respiratory,Influenza B,2018-02-23,2018-03-04,Inactive,-79.27409672758621,43.69413068275862
@@ -892,7 +855,6 @@
 890,Holland Bloorview Kids Rehabilitation Hospital - 3 East CCC,150 Kilgour Rd,Hospital-Chronic Care,Respiratory,Unable to identify,2018-02-21,2018-02-27,Inactive,-79.37434881971065,43.7182666
 891,Yee Hong Centre for Geriatric Care - Scarborough Finch -,60 Scottfield Dr - 6th Fl,LTCH,Respiratory,Influenza B,2018-02-21,2018-03-02,Inactive,-79.25453972658863,43.8086905
 892,West Park Healthcare Centre - ABI,82 Buttonwood Ave,Hospital-Chronic Care,Respiratory,Unable to identify,2018-02-21,2018-02-27,Inactive,-79.5098225,43.687805
-893,Hellenic Care for Seniors - Ground Fl,215 Tyrell Ave,LTCH,Respiratory,Influenza A,2018-02-21,2018-03-01,Inactive,,
 894,Deerwood Creek Care Community - 2nd Fl,70 Humberline Dr,LTCH,Respiratory,Influenza A,2018-02-21,2018-03-09,Inactive,-79.616344,43.731729
 895,Humber River Hospital - Reactivation Care Centre - F6E,2111 Finch Ave W,Hospital-Chronic Care,Respiratory,Influenza B,2018-02-20,2018-02-25,Inactive,-79.5260221,43.7536378
 896,Centre for Addiction and Mental Health - Queen St - Unit 2-3,1001 Queen St W,Hospital-Psychiatric,Respiratory,Unable to identify,2018-02-20,2018-03-05,Inactive,-79.4186199,43.6438339
@@ -917,10 +879,7 @@
 915,Amica at Bayview,15 Barberry Pl,Retirement Home,Respiratory,Influenza A,2018-02-15,2018-03-03,Inactive,-79.3841852,43.7658146
 916,The Scarborough and Rouge Hospital - General Site - CP1,3050 Lawrence Ave E,Hospital-Acute Care,Enteric,Norovirus-like,2018-02-15,2018-02-23,Inactive,-79.246316,43.7566259
 917,Downsview Long Term Care Centre - 2 East,3595 Keele St,LTCH,Respiratory,Influenza B,2018-02-14,2018-02-26,Inactive,-79.48781545714286,43.751348042857146
-918,University Health Network - Toronto Rehabilitation Institute,550 University Ave - University Centre - 6 South,Hospital-Chronic Care,Respiratory,Influenza B,2018-02-14,2018-02-25,Inactive,,
-919,North York General Hospital - Reactivation Care Centre -,2111 Finch Ave W - 6 West,Hospital-Chronic Care,Respiratory,Influenza B,2018-02-13,2018-02-23,Inactive,,
 920,True Davidson Acres - 1 West Unit,200 Dawes Rd,LTCH,Respiratory,Influenza B,2018-02-13,2018-02-22,Inactive,-79.298175,43.69582
-921,Centre for Addiction and Mental Health - College Site -,250 College St - EPU 10th Fl,Hospital-Psychiatric,Respiratory,Influenza B,2018-02-13,2018-02-22,Inactive,,
 922,Elm Grove Living Centre,35 Elm Grove Ave,LTCH,Respiratory,Influenza B,2018-02-12,2018-02-24,Inactive,-79.43074080619229,43.6403384
 923,Humber Valley Terrace,95 Humber College Blvd,LTCH,Respiratory,Influenza A,2018-02-12,2018-02-27,Inactive,-79.5994248,43.7307129
 924,Mon Sheong Scarborough Long Term Care Centre - 3rd Fl,2030 McNicoll Ave,LTCH,Respiratory,Influenza A,2018-02-12,2018-03-06,Inactive,-79.2994857,43.8128599
@@ -962,10 +921,7 @@
 960,Harmony Hill Care Community,1800 O'Connor Dr,LTCH,Respiratory,Influenza B,2018-01-31,2018-02-14,Inactive,-79.30522822012195,43.7204409
 961,Harold and Grace Baker Centre - 1st Fl,1 Northwestern Ave,LTCH,Respiratory,Influenza A,2018-01-31,2018-02-16,Inactive,-79.4688897,43.6987718
 962,Sunnybrook Health Sciences Centre - LTSE,2075 Bayview Ave,LTCH,Respiratory,Influenza B,2018-01-30,2018-02-07,Inactive,-79.3792695,43.7235801
-963,The Briton House Retirement Centre - North & South Tower,"700 & 720 Mount Pleasant Rd - 6th, 7th, 8th & 9th Fl",Retirement Home,Respiratory,Unable to identify,2018-01-30,2018-02-14,Inactive,,
 964,Providence Healthcare - A5 East,3276 St Clair Ave E,Hospital-Chronic Care,Respiratory,Influenza B,2018-01-29,2018-02-06,Inactive,-79.2861565,43.7135926
-965,Trillium Health Partners - Queensway Health Centre -,150 Sherway Dr - Complex Care Unit,Hospital-Acute Care,Enteric,Unable to identify,2018-01-29,2018-02-05,Inactive,,
-966,Providence Healthcare - Houses of Providence - HOP 4E -,3276 St Clair Ave E - Juniper House,LTCH,Respiratory,Influenza A,2018-01-27,2018-02-07,Inactive,,
 967,Ivan Franko Home - 3rd Fl,767 Royal York Rd,LTCH,Respiratory,Unable to identify,2018-01-26,2018-02-06,Inactive,-79.50674173953753,43.637744850000004
 968,Weston Gardens Retirement Residence - 5th Fl,303 Queens Dr,Retirement Home,Enteric,Unable to identify,2018-01-26,2018-02-03,Inactive,-79.502215,43.70758
 969,Cedarvale Terrace - 4th Fl,429 Walmer Rd,LTCH,Respiratory,Unable to identify,2018-01-26,2018-02-15,Inactive,-79.412483,43.685423
@@ -992,7 +948,6 @@
 990,West Park Healthcare Centre - 2EC,82 Buttonwood Ave,Hospital-Chronic Care,Respiratory,Influenza B,2018-01-22,2018-02-06,Inactive,-79.5098225,43.687805
 991,Extendicare Guildwood - East Wing,60 Guildwood Pky,LTCH,Respiratory,Unable to identify,2018-01-21,2018-02-12,Inactive,-79.203089,43.7462823
 992,Seaton House - 4th Fl,339 George St,Shelter,Respiratory,Influenza A,2018-01-21,2018-02-12,Inactive,-79.374262,43.659948
-993,Centre for Addiction and Mental Health - Queen Site -,1001 Queen St W - Unit 1-3,Hospital-Psychiatric,Respiratory,Influenza A,2018-01-21,2018-01-29,Inactive,,
 994,Midland Gardens Care Community,130 Midland Ave,LTCH,Respiratory,Influenza B,2018-01-21,2018-02-07,Inactive,-79.2469846,43.7077593
 995,Hawthorne Place Care Centre,2045 Finch Ave W,LTCH,Enteric,Norovirus-like,2018-01-20,2018-02-14,Inactive,-79.5222631,43.7562487
 996,Extendicare Rouge Valley - Highland Creek House,551 Conlins Rd,LTCH,Respiratory,Unable to identify,2018-01-20,2018-01-29,Inactive,-79.1894286,43.8029937
@@ -1009,7 +964,6 @@
 1007,The Kensington Place Retirement Residence,866 Sheppard Ave W,Retirement Home,Respiratory,Unable to identify,2018-01-16,2018-01-24,Inactive,-79.45390335882352,43.752403364705884
 1008,Deerwood Creek Care Community - 2B & 3A,70 Humberline Dr,LTCH,Respiratory,Unable to identify,2018-01-16,2018-02-12,Inactive,-79.616344,43.731729
 1009,Mackenzie Health - RCC 4E,2111 Finch Ave W,Hospital-Chronic Care,Respiratory,Influenza A,2018-01-16,2018-01-25,Inactive,-79.5260221,43.7536378
-1010,McCall Centre for Continuing Care - Interim LTC Unit,140 Sherway Dr - 2nd & 4th Fl,LTCH,Respiratory,Influenza B,2018-01-16,2018-01-31,Inactive,,
 1011,The O'Neill Centre,33 Christie St,LTCH,Respiratory,Influenza A,2018-01-16,2018-02-05,Inactive,-79.4186528,43.6647391
 1012,Cheltenham Care Community,5935 Bathurst St,LTCH,Respiratory,Influenza A,2018-01-16,2018-01-29,Inactive,-79.44484073636364,43.78182523636364
 1013,Chartwell Gibson Retirement Residence,1955 Steeles Ave E,Retirement Home,Respiratory,Influenza B,2018-01-16,2018-01-31,Inactive,-79.3726983,43.8083147
@@ -1026,7 +980,6 @@
 1024,Chartwell White Eagle Long Term Care Residence,138 Dowling Ave,LTCH,Respiratory,Influenza A,2018-01-13,2018-01-28,Inactive,-79.439009,43.637221
 1025,Villa Colombo - 2 Fusco,40 Playfair Ave,LTCH,Enteric,Norovirus-like,2018-01-13,2018-01-28,Inactive,-79.45668174072816,43.71094909999999
 1026,Kipling Acres,2233 Kipling Ave,LTCH,Respiratory,Influenza B,2018-01-12,2018-02-16,Inactive,-79.571631,43.725014
-1027,Salvation Army Toronto Grace Health Centre - Rehab Unit -,650 Church St - 5th Fl,Hospital-Chronic Care,Respiratory,Influenza B,2018-01-12,2018-01-20,Inactive,,
 1028,Castleview Wychwood Towers - 7th Fl,351 Christie St,LTCH,Respiratory,Influenza B,2018-01-12,2018-01-20,Inactive,-79.42113793274277,43.673349
 1029,Lakeside Long Term Care Centre,150 Dunn Ave,LTCH,Respiratory,Metapneumovirus,2018-01-11,2018-01-22,Inactive,-79.4326664,43.6356584
 1030,Amica at the Balmoral Club,155 Balmoral Ave,Retirement Home,Respiratory,Influenza A,2018-01-11,2018-01-25,Inactive,-79.400293,43.68429
@@ -1042,7 +995,6 @@
 1040,Altamont Care Community,92 Island Rd,LTCH,Respiratory,Influenza B,2018-01-09,2018-01-22,Inactive,-79.13997840570175,43.7988385
 1041,Wesburn Manor,400 The West Mall,LTCH,Respiratory,Influenza A,2018-01-09,2018-01-30,Inactive,-79.567569,43.643719
 1042,Kensington Place Retirement Residence,866 Sheppard Ave W,Retirement Home,Enteric,Norovirus-like,2018-01-08,2018-01-16,Inactive,-79.45390335882352,43.752403364705884
-1043,Fairview Nursing Home,14 Cross St,LTCH,Respiratory,Influenza A,2018-01-08,2018-01-23,Inactive,,
 1044,Rose of Sharon Long Term Care Home,17 Maplewood Ave,LTCH,Respiratory,Influenza B,2018-01-08,2018-01-22,Inactive,-79.4217949,43.6858942
 1045,Tendercare Living Centre,1020 McNicoll Ave,LTCH,Respiratory,Influenza B,2018-01-08,2018-01-23,Inactive,-79.3361316,43.8042581
 1046,Hellenic Home - Scarborough  - Unit 3B,2411 Lawrence Ave E,LTCH,Respiratory,Influenza A,2018-01-08,2018-02-05,Inactive,-79.2746356,43.7493249
@@ -1108,7 +1060,6 @@
 1106,Unity Health Toronto - St Michael's Hospital - 17th Fl,30 Bond St,Hospital-Acute Care,Respiratory,Influenza A,2019-11-30,2019-12-06,Inactive,-79.3784327,43.6542289
 1107,Yee Hong Centre Scarborough Finch - 4th Fl,60 Scottfield Dr,LTCH,Respiratory,Influenza A,2019-11-27,2019-12-08,Inactive,-79.25453972658863,43.8086905
 1108,Eatonville Care Centre,420 The East Mall,LTCH,Enteric,Norovirus-like,2019-11-25,2019-12-17,Inactive,-79.560686,43.64745
-1109,Unity Health Toronto - Houses Of Providence - 1st Fl - Maple,3276 St Clair Ave E - 2nd Fl East (Spruce/Chestnut),LTCH,Respiratory,Respiratory syncytial virus,2019-11-25,2019-12-09,Inactive,,
 1110,Sinai Health System - Mount Sinai Hospital - 10 North,600 University Ave,Hospital-Acute Care,Enteric,Unable to identify,2019-11-22,2019-11-27,Inactive,-79.390445,43.657536
 1111,Fountain View Care Community - 1st & 2nd Fl,1800 O'Connor Dr,LTCH,Respiratory,Unable to identify,2019-11-21,2019-12-09,Inactive,-79.30522822012195,43.7204409
 1112,Tendercare Living Centre - 2nd Fl,1020 McNicoll Ave,LTCH,Respiratory,Respiratory syncytial virus,2019-11-20,2019-12-11,Inactive,-79.3361316,43.8042581
@@ -1122,7 +1073,6 @@
 1120,Centre for Addiction and Mental Health - GAU-A,1001 Queen St W,Hospital-Psychiatric,Respiratory,Unable to identify,2019-10-15,2019-10-26,Inactive,-79.4186199,43.6438339
 1121,Mon Sheong Home for the Aged - 4th & 5th Fl,36 D'Arcy St,LTCH,Respiratory,Unable to identify,2019-10-09,2019-10-21,Inactive,-79.39325999536922,43.655300499999996
 1122,White Eagle,138 Dowling Ave,LTCH,Respiratory,Unable to identify,2019-10-09,2019-10-30,Inactive,-79.439009,43.637221
-1123,Fairview Nursing Home - 1st Fl,14 Cross St,LTCH,Respiratory,Unable to identify,2019-10-08,2019-10-16,Inactive,,
 1124,Tony Stacey Centre for Veterans Care,59 Lawson Rd,LTCH,Respiratory,Unable to identify,2019-10-08,2019-10-21,Inactive,-79.16359737687672,43.78421151514884
 1125,Altamont Care Community,92 Island Rd,LTCH,Respiratory,Unable to identify,2019-10-07,2019-10-22,Inactive,-79.13997840570175,43.7988385
 1126,Kennedy Lodge,1400 Kennedy Rd,LTCH,Respiratory,Rhinovirus,2019-10-07,2019-10-22,Inactive,-79.28034723089634,43.763144877160734
@@ -1207,16 +1157,13 @@
 1205,Chartwell Westbury Long Term Care Residence - 3rd & 7th Fl,495 The West Mall,LTCH,Respiratory,Influenza A,2019-04-23,2019-05-03,Inactive,-79.567866,43.648303
 1206,West Park Healthcare Centre - 2WF,82 Buttonwood Ave,Hospital-Chronic Care,Respiratory,Unable to identify,2019-04-18,2019-04-27,Inactive,-79.5098225,43.687805
 1207,Kensington Place Retirement Residence,866 Sheppard Ave W,Retirement Home,Respiratory,Influenza A,2019-04-17,2019-04-30,Inactive,-79.45390335882352,43.752403364705884
-1208,Chartwell Grenadier Retirement Residence -,2100 Bloor St W - 2nd & 3rd Fl - Tower A,Retirement Home,Respiratory,Influenza A,2019-04-16,2019-04-27,Inactive,,
 1209,Extendicare Bayview,550 Cummer Ave,LTCH,Respiratory,Unable to identify,2019-04-16,2019-05-01,Inactive,-79.3904512,43.7932278
 1210,Seven Oaks - 4th Fl,9 Neilson Rd,LTCH,Respiratory,Influenza A,2019-04-16,2019-05-03,Inactive,-79.2034339,43.7794412
 1211,One Kenton Place,1 Kenton Dr,Retirement Home,Respiratory,Unable to identify,2019-04-12,2019-04-21,Inactive,-79.4432169,43.77803
 1212,Yee Hong Centre for Geriatric Care (McNicoll) - 2nd Fl,2311 McNicoll Ave,LTCH,Respiratory,Influenza A,2019-04-12,2019-04-23,Inactive,-79.2899939,43.8144476
-1213,Mackenzie Health - RCC - 4 East & 4 West,211 Finch Ave W,Hospital-Chronic Care,Respiratory,Influenza A,2019-04-11,2019-04-18,Inactive,,
 1214,Chartwell Scarlett Heights Retirement Residence,4005 Eglinton Ave W,Retirement Home,Enteric,Unable to identify,2019-04-10,2019-04-16,Inactive,-79.5125369,43.6836338
 1215,Baycrest Hospital - 3 West,3560 Bathurst St,Hospital-Chronic Care,Respiratory,Influenza A,2019-04-09,2019-04-14,Inactive,-79.4361036,43.7292745
 1216,Sunnybrook Health Sciences Centre - Unit F2,2075 Bayview Ave,Hospital-Acute Care,Respiratory,Influenza A,2019-04-06,2019-04-17,Inactive,-79.3792695,43.7235801
-1217,Holland Bloorview Kids Rehabilitation Hospital -,150 Kilgour Rd - BIRT Wing 3rd Fl,Hospital-Chronic Care,Respiratory,Enterovirus/Rhinovirus,2019-04-05,2019-04-12,Inactive,,
 1218,"Yee Hong Centre for Geriatric Care (Finch) - 2nd, 5th &",60 Scottfield Dr - 6th Fl,LTCH,Respiratory,Influenza A,2019-04-03,2019-04-24,Inactive,-79.25453972658863,43.8086905
 1219,Castleview Wychwood Towers - 2nd Fl,351 Christie St,LTCH,Respiratory,Unable to identify,2019-04-02,2019-04-11,Inactive,-79.42113793274277,43.673349
 1220,Leaside Retirement Residence - Building 10 - 3rd & 6th Fl,10 William Morgan Dr,Retirement Home,Respiratory,Metapneumovirus,2019-04-02,2019-04-23,Inactive,-79.341769,43.709379
@@ -1228,7 +1175,6 @@
 1226,Chartwell Gibson Retirement Residence,1955 Steeles Ave E,Retirement Home,Respiratory,Unable to identify,2019-03-28,2019-04-11,Inactive,-79.3726983,43.8083147
 1227,Tapestry at Village Gate West - 3rd Fl,15 Summerland Terr,Retirement Home,Respiratory,Influenza A,2019-03-28,2019-04-06,Inactive,-79.532273,43.644044
 1228,Vermont Square - 3rd Fl,914 Bathurst St,LTCH,Respiratory,Parainfluenza,2019-03-28,2019-04-10,Inactive,-79.4126122,43.6682389
-1229,Centre for Addiction and Mental Health - Queen Site -,"1001 Queen St W -  GAU A & B, 2nd & 3rd Fl",Hospital-Psychiatric,Enteric,Norovirus-like,2019-03-27,2019-04-17,Inactive,,
 1230,Sunnybrook Health Sciences Centre - C4,2075 Bayview Ave,Hospital-Acute Care,Respiratory,Metapneumovirus,2019-03-25,2019-04-04,Inactive,-79.3792695,43.7235801
 1231,Mackenzie Health - RCC - 3 East & 3 West,2111 Finch Ave W,Hospital-Chronic Care,Respiratory,Influenza A,2019-03-24,2019-04-08,Inactive,-79.5260221,43.7536378
 1232,North York General Hospital - Seniors' Health Centre -1st Fl,2 Buchan Crt,LTCH,Enteric,Norovirus-like,2019-03-24,2019-04-03,Inactive,-79.35998,43.772849
@@ -1281,7 +1227,6 @@
 1279,The Wexford,1860 Lawrence Ave E,LTCH,Respiratory,Unable to identify,2019-03-01,2019-03-11,Inactive,-79.3024148,43.7438388
 1280,Carefree Lodge - Garden Level,306 Finch Ave E,LTCH,Respiratory,Influenza A,2019-02-28,2019-03-19,Inactive,-79.392388,43.7850419
 1281,Chartwell Scarlett Heights Retirement Residence - 2nd Fl,4005 Eglinton Ave W,Retirement Home,Respiratory,Influenza A,2019-02-27,2019-03-11,Inactive,-79.5125369,43.6836338
-1282,Humber River Hospital - Reactivation Care Centre,2111 Finch Ave W - Southlake Regional Health Centre - 5 East,Hospital-Chronic Care,Respiratory,Influenza A,2019-02-27,2019-03-08,Inactive,,
 1283,Seven Oaks - 3rd Fl,9 Neilson Rd,LTCH,Respiratory,Influenza A,2019-02-27,2019-03-09,Inactive,-79.2034339,43.7794412
 1284,St Clair O'Connor Nursing Home,2701 St Clair Ave E,LTCH,Respiratory,Metapneumovirus,2019-02-26,2019-03-19,Inactive,-79.3117512,43.7055002
 1285,Amica at Bayview,15 Barberry Pl,Retirement Home,Enteric,Unable to identify,2019-02-25,2019-03-08,Inactive,-79.3841852,43.7658146
@@ -1321,7 +1266,6 @@
 1319,Leaside Retirement Residence - 2nd & 3rd Fls - Building 10,10 William Morgan Dr,Retirement Home,Respiratory,Influenza A,2019-02-03,2019-02-15,Inactive,-79.341769,43.709379
 1320,Sunnybrook Health Sciences Centre - LSSE,2075 Bayview Ave,LTCH,Respiratory,Enterovirus/Rhinovirus,2019-02-03,2019-02-13,Inactive,-79.3792695,43.7235801
 1321,Village of Humber Heights Long Term Care - Brule,2245 Lawrence Ave W,LTCH,Respiratory,Unable to identify,2019-02-03,2019-02-13,Inactive,-79.527245,43.6972121
-1322,"West Park Long Term Care Centre - 1st Fl (Kingsway/Ilaali),","82 Buttonwood Ave - 2nd Fl (Hughes/Pritti), 3rd Fl (Glenwyld",LTCH,Respiratory,Influenza A,2019-02-03,2019-02-15,Inactive,,
 1323,St. George Care Community - 1st Fl,225 St George St,LTCH,Respiratory,Respiratory syncytial virus,2019-02-02,2019-02-11,Inactive,-79.401462,43.672538
 1324,Holland Bloorview Kids Rehabilitation Hospital - 3W BIRT,150 Kilgour Rd,Hospital-Chronic Care,Enteric,Unable to identify,2019-02-01,2019-02-05,Inactive,-79.37434881971065,43.7182666
 1325,Isabel & Arthur Meighen Manor - Davis & Coombs Units,155 Millwood Rd,LTCH,Enteric,Unable to identify,2019-02-01,2019-02-12,Inactive,-79.39273938941177,43.70006920470588
@@ -1352,7 +1296,6 @@
 1350,The Wexford - 6th Fl,1860 Lawrence Ave E,LTCH,Respiratory,Influenza A,2019-01-16,2019-01-27,Inactive,-79.3024148,43.7438388
 1351,Toronto Western Hospital - 8B,399 Bathurst St,Hospital-Acute Care,Respiratory,Respiratory syncytial virus,2019-01-16,2019-01-25,Inactive,-79.4059789,43.6537982
 1352,Chester Village,3555 Danforth Ave,LTCH,Respiratory,Influenza A,2019-01-15,2019-01-29,Inactive,-79.27409672758621,43.69413068275862
-1353,Elm Grove Living Centre,35 Elm Grove Rd,LTCH,Respiratory,Influenza A,2019-01-15,2019-01-25,Inactive,,
 1354,Chartwell Gibson Long Term Care Residence,1925 Steeles Ave E,LTCH,Respiratory,Respiratory syncytial virus,2019-01-14,2019-02-01,Inactive,-79.3758609,43.807618
 1355,Shepherd Lodge - 3rd & 4th Fl,3760 Sheppard Ave,LTCH,Respiratory,Respiratory syncytial virus,2019-01-14,2019-01-28,Inactive,-79.294078,43.782836
 1356,The Teddington,4 Teddington Park Ave,Retirement Home,Respiratory,Influenza A,2019-01-14,2019-01-29,Inactive,-79.4040004,43.733129
@@ -1364,12 +1307,10 @@
 1362,St. Joseph's Health Centre - 7M,30 The Queensway,Hospital-Acute Care,Respiratory,Influenza A,2019-01-11,2019-01-19,Inactive,-79.450101,43.639359
 1363,Bendale Acres - 4th Fl,2920 Lawrence Ave E,LTCH,Respiratory,Influenza A,2019-01-10,2019-01-21,Inactive,-79.2516534,43.7543919
 1364,Copernicus Lodge - 2nd & 4th Fl,66 Roncesvalles Ave,LTCH,Respiratory,Influenza A,2019-01-10,2019-01-28,Inactive,-79.447337,43.640435
-1365,Fairview Nursing Home - 2nd Fl,14 Cross St,LTCH,Respiratory,Unable to identify,2019-01-10,2019-01-23,Inactive,,
 1366,Ina Grafton Gage Home - 1st & 3rd Fl,40 Bell Estate Rd,LTCH,Respiratory,Influenza A,2019-01-10,2019-01-23,Inactive,-79.2753435,43.7058073
 1367,Deerwood Creek Care Community - 3A,70 Humberline Dr,LTCH,Respiratory,Respiratory syncytial virus,2019-01-09,2019-01-21,Inactive,-79.616344,43.731729
 1368,Fieldstone Commons Care Community,1000 Ellesmere Rd,LTCH,Respiratory,Influenza A,2019-01-09,2019-01-29,Inactive,-79.277814,43.766995
 1369,Sunnybrook Health Sciences Centre - LFSW,2075 Bayview Ave,LTCH,Respiratory,Enterovirus/Rhinovirus,2019-01-09,2019-01-22,Inactive,-79.3792695,43.7235801
-1370,Toronto Rehab Institute - Bickle Centre - North 3 -,"130 Dunn Ave - South 3, 4 & 5",Hospital-Chronic Care,Respiratory,Influenza A,2019-01-09,2019-01-23,Inactive,,
 1371,Westside - 4th Fl,1145 Albion Rd,LTCH,Respiratory,Influenza A,2019-01-09,2019-01-18,Inactive,-79.5667899,43.7373503
 1372,Hawthorne Place Care Centre - 2nd Fl South,2045 Finch Ave W,LTCH,Respiratory,Respiratory syncytial virus,2019-01-08,2019-01-17,Inactive,-79.5222631,43.7562487
 1373,St. Joseph's Health Centre - 2LM,30 The Queensway,Hospital-Acute Care,Respiratory,Influenza A,2019-01-08,2019-01-16,Inactive,-79.450101,43.639359
@@ -1406,7 +1347,6 @@
 1404,Harold & Grace Baker Centre,1 Northwestern Ave,LTCH,Respiratory,Coronavirus,2020-12-30,2021-02-13,Inactive,-79.4688897,43.6987718
 1405,University Health Network - Toronto General Hospital - 4MB,200 Elizabeth Street,Hospital-Acute Care,Respiratory,Coronavirus,2020-12-29,2021-01-12,Inactive,-79.3869528,43.6583672
 1406,Elm Grove Living Centre - 1st & 2nd Fl,35 Elm Grove Avenue,LTCH,Respiratory,Coronavirus,2020-12-29,2021-02-10,Inactive,-79.43074080619229,43.6403384
-1407,"Chartwell Grenadier Retirement Residence - 2nd, 3rd, 4th -",2100 Bloor Street - & 5th Fl Assisted Living,Retirement Home,Respiratory,Coronavirus,2020-12-29,2021-02-14,Inactive,,
 1408,Bendale Acres,2920 Lawrence Avenue East,LTCH,Respiratory,Coronavirus,2020-12-29,2021-02-24,Inactive,-79.2516534,43.7543919
 1409,Southlake Regional Health Centre - RCC Church Site-3B,200 Church Street,Hospital-Chronic Care,Respiratory,Coronavirus,2020-12-27,2021-01-30,Inactive,-79.510442,43.709345
 1410,Hellenic Care for Seniors - 1st Fl,215 Tyrrel Avenue,LTCH,Respiratory,Coronavirus,2020-12-27,2021-02-14,Inactive,-79.4297725,43.6768778
@@ -1429,17 +1369,12 @@
 1427,Extendicare Guildwood - West,60 Guildwood Pky,LTCH,Respiratory,Unable to identify,2020-12-22,2021-01-04,Inactive,-79.203089,43.7462823
 1428,Scarborough Health Network-Birchmount - G4A,3030 Birchmount Rd.,Hospital-Acute Care,Respiratory,Coronavirus,2020-12-21,2021-01-05,Inactive,-79.309054,43.801891
 1429,Baycrest Hospital - 5E,3560 Bathurst Street,Hospital-Chronic Care,Respiratory,Coronavirus,2020-12-21,2021-01-07,Inactive,-79.4361036,43.7292745
-1430,"One Kenton Place - 1st, 2nd, 3rd Fl",1-3 Kenton Road,LTCH,Respiratory,Coronavirus,2020-12-21,2021-01-16,Inactive,,
 1431,Queens Estate Retirement Residence,265 Queens Dr,Retirement Home,Respiratory,Coronavirus,2020-12-21,2021-01-21,Inactive,-79.504314,43.707185
 1432,University Health Network - Bickle Centre - 4South,130 Dunn Avenue,Hospital-Chronic Care,Respiratory,Coronavirus,2020-12-21,2021-01-26,Inactive,-79.433068,43.634967
 1433,Sunnybrook Health Sciences Centre - Veterans Centre - LDMH,2075 Bayview Ave,LTCH,Respiratory,Coronavirus,2020-12-20,2021-01-16,Inactive,-79.3792695,43.7235801
 1434,Terraces of Baycrest- Retirement Home,55 Ameer Avenue,Retirement Home,Respiratory,Coronavirus,2020-12-20,2021-02-16,Inactive,-79.4410166,43.7294379
-1435,North York General Hospital - Seniors Health Centre - 1st,"2 Buchan Court - 2nd, 3rd & 4th Fl",LTCH,Respiratory,Coronavirus,2020-12-18,2021-02-01,Inactive,,
 1436,Baycrest Apotex Centre - Jewish Home for the Aged,3560 Bathurst St,LTCH,Respiratory,Coronavirus,2020-12-18,2021-03-23,Inactive,-79.4361036,43.7292745
-1437,University Health Network - Toronto General Hospital,200 Elizabeth Street - Cath Lab,Hospital-Acute Care,Respiratory,Coronavirus,2020-12-17,2020-12-29,Inactive,,
-1438,Toronto East Health Network-Michael Garron Hospital -,825 Coxwell Avenue - CIU-A,Hospital-Acute Care,Respiratory,Coronavirus,2020-12-17,2020-12-30,Inactive,,
 1439,Trillium Health Partners - RCC Church Site - 1C,200 Church Street,Hospital-Chronic Care,Respiratory,Coronavirus,2020-12-17,2021-01-07,Inactive,-79.510442,43.709345
-1440,Sunnybrook Health Sciences Centre - St. John's Rehab -,285 Cummer Ave - A2,Hospital-Chronic Care,Respiratory,Coronavirus,2020-12-17,2021-01-27,Inactive,,
 1441,Leaside Retirement Living - Building 10 4th Fl,10-14 William Morgan Drive,Retirement Home,Respiratory,Coronavirus,2020-12-17,2021-02-22,Inactive,-79.341558,43.709353
 1442,Shepherd Terrace Retirement Home - Kitchen,3758 Sheppard Ave E,LTCH,Respiratory,Coronavirus,2020-12-16,2020-12-17,Inactive,-79.29459460107817,43.782512999999994
 1443,Retirement Suites By the Lake,2121 Kingston Road,Retirement Home,Respiratory,Coronavirus,2020-12-16,2021-01-04,Inactive,-79.2561528,43.6979544
@@ -1450,7 +1385,6 @@
 1448,Scarborough Health Network - Yee Hong Dialysis,60 Scottfield Drive,LTCH,Respiratory,Coronavirus,2020-12-14,2021-01-05,Inactive,-79.25453972658863,43.8086905
 1449,West Park Healthcare Centre - 2EC,82 Buttonwood Ave,Hospital-Chronic Care,Respiratory,Coronavirus,2020-12-13,2020-12-26,Inactive,-79.5098225,43.687805
 1450,"Ivan Franko Retirement Home - 2nd Fl, 2S, 2W",767 Royal York Rd,LTCH,Respiratory,Coronavirus,2020-12-13,2021-01-29,Inactive,-79.50674173953753,43.637744850000004
-1451,Donway Place Retirement Home,8 The Donway   E,Retirement Home,Respiratory,Coronavirus,2020-12-13,2021-02-05,Inactive,,
 1452,Hellenic Home for the Aged,2411 Lawrence Ave E,LTCH,Respiratory,Coronavirus,2020-12-13,2021-02-19,Inactive,-79.2746356,43.7493249
 1453,Unity Health Toronto - St. Joseph's Health Centre - 6M,30 The Queensway,Hospital-Acute Care,Respiratory,Coronavirus,2020-12-10,2021-01-01,Inactive,-79.450101,43.639359
 1454,Amica Bayview Gardens - 10th Fl,19 Rean Dr,Retirement Home,Respiratory,Coronavirus,2020-12-09,2020-12-25,Inactive,-79.38257754978882,43.76690666292305
@@ -1478,7 +1412,6 @@
 1476,William Osler Health System - 10th Level,101 Humber College Blvd,Hospital-Acute Care,Respiratory,Coronavirus,2020-11-30,2020-12-16,Inactive,-79.5991896,43.7306053
 1477,Mount Sinai Hospital - 12 South,600 University Avenue,Hospital-Acute Care,Respiratory,Coronavirus,2020-11-30,2021-01-02,Inactive,-79.390445,43.657536
 1478,Sunnybrook Health Sciences Centre - F2,2075 Bayview Ave,Hospital-Acute Care,Respiratory,Coronavirus,2020-11-28,2020-12-04,Inactive,-79.3792695,43.7235801
-1479,"Cedarvale Terrace - 2nd, 3rd, 5th & 6th Fl",429 Walmer Rd E,LTCH,Respiratory,Coronavirus,2020-11-28,2020-12-14,Inactive,,
 1480,Unity Health Toronto - St. Joseph Health Care Centre - 3M,30  The Queensway,Hospital-Acute Care,Respiratory,Coronavirus,2020-11-28,2020-12-14,Inactive,-79.450101,43.639359
 1481,Scarborough Health Network - Birchmount Hospital - G4C,3030 Birchmount Rd,Hospital-Acute Care,Respiratory,Coronavirus,2020-11-27,2020-12-08,Inactive,-79.309054,43.801891
 1482,True Davidson Acres - 3rd floor,200 Dawes Rd,Retirement Home,Respiratory,Coronavirus,2020-11-27,2020-12-08,Inactive,-79.298175,43.69582
@@ -1500,8 +1433,6 @@
 1498,Castleview Wychwood Towers - 2nd to 7th Fl,351 Christie St,LTCH,Respiratory,Coronavirus,2020-11-23,2021-02-17,Inactive,-79.42113793274277,43.673349
 1499,Scarborough Health Network - General Hospital - 3C,3050 Lawrence Ave E,Hospital-Acute Care,Respiratory,Coronavirus,2020-11-20,2020-12-04,Inactive,-79.246316,43.7566259
 1500,Terraces of Baycrest Retirement Residence,55 Ameer Ave,Retirement Home,Respiratory,Coronavirus,2020-11-20,2020-12-17,Inactive,-79.4410166,43.7294379
-1501,Village Of Humber Height Retirement Home - Williamsburg,2245 Lawrence Ave W - & Becker's Unit,LTCH,Respiratory,Coronavirus,2020-11-20,2021-01-04,Inactive,,
-1502,Chartwell Trilogy,340 McCowan Rd E,LTCH,Respiratory,Coronavirus,2020-11-20,2021-02-16,Inactive,,
 1503,Unity Health Toronto - St. Michael's Hospital - TNICU,30 Bond St,Hospital-Acute Care,Respiratory,Coronavirus,2020-11-19,2020-11-27,Inactive,-79.3784327,43.6542289
 1504,Baycrest Apotex Centre - Jewish Home for the Aged - A2GS,3560 Bathurst St,LTCH,Respiratory,Coronavirus,2020-11-19,2020-12-02,Inactive,-79.4361036,43.7292745
 1505,One Kenton Place - 2nd & 3rd Fl,1 Kenton Dr,LTCH,Respiratory,Coronavirus,2020-11-19,2021-01-16,Inactive,-79.4432169,43.77803
@@ -1519,33 +1450,26 @@
 1517,Scarborough Health Network - General Hospital - T9,3050 Lawrence Ave E,Hospital-Acute Care,Respiratory,Coronavirus,2020-11-10,2020-11-25,Inactive,-79.246316,43.7566259
 1518,Baycrest Hospital - 6E,3560 Bathurst St,Hospital-Chronic Care,Respiratory,Coronavirus,2020-11-09,2020-11-29,Inactive,-79.4361036,43.7292745
 1519,Suomi Koti Nursing Home,795 Eglinton Ave E,LTCH,Respiratory,Coronavirus,2020-11-09,2020-12-24,Inactive,-79.3669906,43.7129848
-1520,Downsview Long Term Care Centre - 1st Fl North & -,3595 Keele St - East Unit,LTCH,Respiratory,Coronavirus,2020-11-07,2020-11-28,Inactive,,
 1521,Humber River Regional Hospital - 12 East,1235 Wilson Ave,Hospital-Acute Care,Respiratory,Coronavirus,2020-11-06,2020-11-09,Inactive,-79.4894019,43.7227577
 1522,Scarborough Health Network - General Hospital - 4C,3050 Lawrence Ave E,Hospital-Acute Care,Respiratory,Coronavirus,2020-11-06,2020-12-02,Inactive,-79.246316,43.7566259
-1523,Centre for Addiction & Mental Health - College Site -,250 College St - GPU-A,Hospital-Psychiatric,Respiratory,Coronavirus,2020-11-05,2020-11-20,Inactive,,
 1524,Providence Healthcare - D3 Palliative Unit,3276 St. Clair Ave E,Hospital-Chronic Care,Respiratory,Coronavirus,2020-11-05,2020-12-02,Inactive,-79.2861565,43.7135926
 1525,The Teddington,4 Teddington Ave,Retirement Home,Respiratory,Coronavirus,2020-11-04,2020-11-18,Inactive,-79.29744213201451,43.83046483943831
 1526,Unity Health Toronto - St. Michael's Hospital - 7 CCV North,30 Bond St,Hospital-Acute Care,Respiratory,Coronavirus,2020-11-04,2020-11-16,Inactive,-79.3784327,43.6542289
-1527,St. George Care Community,225 St.George St,LTCH,Respiratory,Coronavirus,2020-11-04,2020-11-24,Inactive,,
 1528,Harmony Hills Care Community,1800 O'Connor Dr,LTCH,Respiratory,Coronavirus,2020-11-04,2020-12-30,Inactive,-79.30522822012195,43.7204409
 1529,Forest Hill Place,645 Castlefield Ave,Retirement Home,Respiratory,Coronavirus,2020-11-04,2021-01-14,Inactive,-79.4247813,43.7065006
 1530,West Park Healthcare Centre - 3EA,82 Buttonwood Ave,Hospital-Chronic Care,Respiratory,Coronavirus,2020-11-03,2020-11-17,Inactive,-79.5098225,43.687805
 1531,Weston Terrace Care Community - 3A/1A,2005 Lawrence Ave W,LTCH,Respiratory,Coronavirus,2020-11-03,2020-12-03,Inactive,-79.51072231818182,43.70133497272727
-1532,"Village of Humber Heights - 1st Fl Wedworth, Brule -",2245 Lawrence Ave W - Weston & Islington,LTCH,Respiratory,Coronavirus,2020-11-03,2020-12-21,Inactive,,
 1533,Deerwood Creek Care Community,70 Humberline Dr,LTCH,Respiratory,Coronavirus,2020-11-03,2021-02-17,Inactive,-79.616344,43.731729
 1534,The O'Neill Centre - 4th & 5th Fl,33 Christie St,LTCH,Enteric,Unable to identify,2020-11-03,2020-11-11,Inactive,-79.4186528,43.6647391
 1535,Extendicare Guildwood - East,60 Guildwood Pky,LTCH,Respiratory,Coronavirus,2020-11-02,2020-11-23,Inactive,-79.203089,43.7462823
 1536,Bendale Acres - 2 East,2920 Lawrence Ave E,LTCH,Respiratory,Coronavirus,2020-11-02,2020-12-15,Inactive,-79.2516534,43.7543919
-1537,Ina Grafton Gage Home - 2nd Fl,40 Bell Estates Rd,LTCH,Respiratory,Coronavirus,2020-11-01,2020-11-16,Inactive,,
 1538,William Osler Health System - 8 West,101 Humber College Blvd,Hospital-Acute Care,Respiratory,Coronavirus,2020-11-01,2020-11-26,Inactive,-79.5991896,43.7306053
 1539,Chartwell Scarlett Heights Retirement Home,4005 Eglinton Ave W,Retirement Home,Respiratory,Coronavirus,2020-11-01,2020-12-26,Inactive,-79.5125369,43.6836338
 1540,Mount Sinai Hospital - 9 South,600 University Ave,Hospital-Acute Care,Respiratory,Coronavirus,2020-10-30,2020-11-14,Inactive,-79.390445,43.657536
 1541,"The Dunfield Retirement Residence - 5th, 7th & 18th Fl",77 Dunfield Ave,Retirement Home,Respiratory,Coronavirus,2020-10-30,2020-11-15,Inactive,-79.3950841875,43.7066295625
 1542,Rockcliffe Care Community,3015 Lawrence Ave E,LTCH,Respiratory,Coronavirus,2020-10-30,2020-12-24,Inactive,-79.2468577,43.7550969
 1543,North Park Nursing Home - 2nd Fl,475 Rustic Rd,LTCH,Respiratory,Coronavirus,2020-10-29,2020-12-10,Inactive,-79.481002,43.717351
-1544,Scarborough Health Network - Birchmount Hospital -,3030 Birchmount Rd - 4A Medicine,Hospital-Acute Care,Respiratory,Coronavirus,2020-10-27,2020-11-12,Inactive,,
 1545,Scarborough Health Network - General Hospital - T7,3050 Lawrence Ave E,Hospital-Acute Care,Respiratory,Coronavirus,2020-10-27,2020-11-27,Inactive,-79.246316,43.7566259
-1546,Kensington Gardens - 3 West,25 Bruinswick Ave,LTCH,Respiratory,Coronavirus,2020-10-26,2020-11-15,Inactive,,
 1547,West Park Healthcare Centre - 3WE,82 Buttonwood Ave,Hospital-Chronic Care,Respiratory,Coronavirus,2020-10-26,2020-11-19,Inactive,-79.5098225,43.687805
 1548,"Briton House Retirement Centre - 3rd, 4th, 7th & 9th Fl",720 Mount Pleasant Rd,Retirement Home,Respiratory,Coronavirus,2020-10-25,2020-11-07,Inactive,-79.38972427586208,43.70689917241379
 1549,North York General Hospital - OR,4001 Leslie St,Hospital-Acute Care,Respiratory,Coronavirus,2020-10-25,2020-11-09,Inactive,-79.362213,43.7699003
@@ -1561,14 +1485,12 @@
 1559,Dom Lipa Nursing Home,52 Neilson Dr,LTCH,Respiratory,Coronavirus,2020-10-22,2020-11-20,Inactive,-79.56570787160844,43.629111449999996
 1560,Greenview Lodge - 2nd Fl,880 Lawrence Ave E,LTCH,Respiratory,Coronavirus,2020-10-22,2020-12-17,Inactive,-79.3489587,43.7361257
 1561,Baycrest Apotex Centre - A5RF,3560 Bathurst St,LTCH,Respiratory,Coronavirus,2020-10-21,2020-11-04,Inactive,-79.4361036,43.7292745
-1562,UHN - Toronto Rehabilitation Institute - University Centre -,550 University Ave - 7 South,Hospital-Chronic Care,Respiratory,Coronavirus,2020-10-21,2020-11-06,Inactive,,
 1563,Wesburn Manor - 2nd Fl,400 The West Mall,LTCH,Respiratory,Coronavirus,2020-10-21,2020-11-14,Inactive,-79.567569,43.643719
 1564,Unity Health Toronto - St. Michael's Hospital - Emergency Ro,30 Bond St,Hospital-Acute Care,Respiratory,Coronavirus,2020-10-20,2020-11-02,Inactive,-79.3784327,43.6542289
 1565,Scarborough Health Network - General Hospital - CP4,3050 Lawrence Ave E,Hospital-Acute Care,Respiratory,Coronavirus,2020-10-20,2020-11-06,Inactive,-79.246316,43.7566259
 1566,Christie Gardens Apartments & Care,600 Melita Cres,Retirement Home,Respiratory,Coronavirus,2020-10-20,2020-11-15,Inactive,-79.4229698,43.6725542
 1567,Extendicare Rouge Valley,551 Conlins Rd,LTCH,Respiratory,Coronavirus,2020-10-20,2020-12-24,Inactive,-79.1894286,43.8029937
 1568,Hawthorne Place Care Centre - 3rd Fl,2045 Finch Ave W,LTCH,Respiratory,Coronavirus,2020-10-19,2020-11-09,Inactive,-79.5222631,43.7562487
-1569,"Chartwell Grenadier Retirement Residence - Main Building B,","2100 Bloor St W - C, D",Retirement Home,Respiratory,Coronavirus,2020-10-19,2020-11-23,Inactive,,
 1570,Centre for Addiction & Mental Health - Queen Site - 1-4 /1-5,1001 Queen St W,Hospital-Psychiatric,Respiratory,Coronavirus,2020-10-18,2020-11-18,Inactive,-79.4186199,43.6438339
 1571,North York General Hospital - Seniors' Health Centre,2 Buchan Crt,LTCH,Respiratory,Coronavirus,2020-10-18,2020-11-20,Inactive,-79.35998,43.772849
 1572,Unity Health Toronto - St. Joseph's Health Centre - 3M,30 The Queensway,Hospital-Acute Care,Respiratory,Coronavirus,2020-10-16,2020-10-28,Inactive,-79.450101,43.639359
@@ -1592,7 +1514,6 @@
 1590,North York General Hospital - 8 West,4001 Leslie St,Hospital-Acute Care,Respiratory,Coronavirus,2020-10-06,2020-10-19,Inactive,-79.362213,43.7699003
 1591,Midland Gardens Care Community Ltch - 4th Fl,130 Midland Ave,LTCH,Respiratory,Unable to identify,2020-10-06,2020-10-14,Inactive,-79.2469846,43.7077593
 1592,Cedarbrook Lodge - 2nd Fl,520 Markham Rd,Retirement Home,Respiratory,Coronavirus,2020-10-04,2020-10-30,Inactive,-79.2241579,43.7554562
-1593,Norfinch Care Community,22 Norfinch Ave,LTCH,Respiratory,Coronavirus,2020-10-02,2020-10-16,Inactive,,
 1594,Unity Health Toronto - St. Joseph's Health Centre - 2E,30 The Queensway,Hospital-Acute Care,Respiratory,Coronavirus,2020-10-02,2020-10-23,Inactive,-79.450101,43.639359
 1595,Kennedy Lodge - 2 North,1400 Kennedy Rd,LTCH,Respiratory,Coronavirus,2020-10-02,2020-12-16,Inactive,-79.28034723089634,43.763144877160734
 1596,City Of Toronto ? Cummer Lodge - 3 North,205 Cummer Ave,LTCH,Respiratory,Coronavirus,2020-10-01,2020-10-16,Inactive,-79.40816758965518,43.78889555517242
@@ -1608,14 +1529,11 @@
 1606,Uhn - Toronto Western Hospital - Msn Icu,399 Bathurst St,Hospital-Acute Care,Enteric,Clostridium difficile,2020-09-19,2020-10-05,Inactive,-79.4059789,43.6537982
 1607,Humber Valley Terrace - 3rd Fl,95 Humber College Blvd,LTCH,Respiratory,Coronavirus,2020-09-17,2020-10-07,Inactive,-79.5994248,43.7307129
 1608,Norwood Nursing Home,122 Tyndall Ave,LTCH,Respiratory,Coronavirus,2020-09-17,2020-12-04,Inactive,-79.42931564668473,43.63752855
-1609,Fairview Nursing Home,14 Cross St,LTCH,Respiratory,Coronavirus,2020-09-15,2020-10-30,Inactive,,
 1610,Deerwood Creek Care Community - 2nf Fl LaRose Unit,70 Humberline Dr,LTCH,Enteric,Unable to identify,2020-09-13,2020-09-18,Inactive,-79.616344,43.731729
 1611,Pine Villa Transitional Care - 2nd Fl,1035 Eglinton Ave W,LTCH,Respiratory,Coronavirus,2020-09-06,2020-09-21,Inactive,-79.4326308,43.6993415
-1612,Donway Place Retirement Home,8 The Don Way E,Retirement Home,Respiratory,Coronavirus,2020-09-03,2020-09-23,Inactive,,
 1613,Fieldstone Commons Care Community - 3rd Fl,1000 Ellesmere Rd,LTCH,Respiratory,Coronavirus,2020-08-27,2020-10-07,Inactive,-79.277814,43.766995
 1614,Maynard Nursing Home,28 Halton St,LTCH,Respiratory,Coronavirus,2020-08-25,2020-09-11,Inactive,-79.4191210318182,43.64875234090909
 1615,Sunnybrook Health Sciences Centre - C5,2075 Bayview Ave,Hospital-Acute Care,Respiratory,Coronavirus,2020-08-23,2020-09-06,Inactive,-79.3792695,43.7235801
-1616,St. John's Rehabilitation Hospital - A2,285 Cummer Ave E,Hospital-Chronic Care,Respiratory,Unable to identify,2020-08-15,2020-08-18,Inactive,,
 1617,The O'Neill Centre - 2nd & 4th Fl,33 Christie St,LTCH,Enteric,Unable to identify,2020-08-05,2020-08-12,Inactive,-79.4186528,43.6647391
 1618,Castleview Wychwood Towers - 5th Fl,351 Christie St,LTCH,Respiratory,Coronavirus,2020-08-02,2020-08-17,Inactive,-79.42113793274277,43.673349
 1619,Kipling Acres - Kitchen,2233 Kipling Ave,LTCH,Respiratory,Coronavirus,2020-07-25,2020-08-15,Inactive,-79.571631,43.725014
@@ -1636,7 +1554,6 @@
 1634,Wesburn Manor - 400 The West Mall - 2020-06-18,400 The West Mall,LTCH,Respiratory,Coronavirus,2020-06-18,2020-06-30,Inactive,-79.567569,43.643719
 1635,William Osler Health System - 6 Med Flex,101 Humber College Blvd,Hospital-Acute Care,Respiratory,Coronavirus,2020-06-17,2020-07-13,Inactive,-79.5991896,43.7306053
 1636,The Rekai Centres At Sherbourne Place - 4th Fl,345 Sherbourne St,LTCH,Respiratory,Coronavirus,2020-06-16,2020-06-28,Inactive,-79.37243630597754,43.662702249999995
-1637,Fairview Nursing Home,14 Cross St,LTCH,Respiratory,Coronavirus,2020-06-16,2020-06-30,Inactive,,
 1638,Deerwood Creek Care Community - 2nd Fl,70 Humberline Dr,LTCH,Respiratory,Coronavirus,2020-06-15,2020-06-27,Inactive,-79.616344,43.731729
 1639,Fudger House - 2 East,439 Sherbourne St,LTCH,Respiratory,Coronavirus,2020-06-13,2020-06-27,Inactive,-79.373735,43.666208
 1640,Chartwell Trilogy Ltc - 1st Fl,340 McCowan Rd,LTCH,Respiratory,Coronavirus,2020-06-12,2020-06-26,Inactive,-79.238633,43.73837
@@ -1646,7 +1563,6 @@
 1644,Pine Villa Transitional Care - 2nd Fl,1035 Eglinton Ave W,LTCH,Respiratory,Coronavirus,2020-06-05,2020-06-20,Inactive,-79.4326308,43.6993415
 1645,Seven Oaks - Entire Faciility,9 Neilson Rd,LTCH,Respiratory,Coronavirus,2020-06-05,2020-06-23,Inactive,-79.2034339,43.7794412
 1646,Chartwell Scartlett Heights,4005 Eglinton Ave W,Retirement Home,Respiratory,Coronavirus,2020-06-03,2020-06-22,Inactive,-79.5125369,43.6836338
-1647,Leaside Retirement Residence - Bldg 10 - 2nd & 3rd Fl,10/14 Willian Morgan Dr,Retirement Home,Respiratory,Coronavirus,2020-06-02,2020-07-03,Inactive,,
 1648,Baycrest Apotex Centre - Jewish Home for the Aged - POD 6EI,3560 Bathurst St,LTCH,Respiratory,Coronavirus,2020-06-01,2020-06-12,Inactive,-79.4361036,43.7292745
 1649,Baycrest Apotex Centre - Jewish Home for the Aged - Apotex 3,3560 Bathurst St,LTCH,Respiratory,Coronavirus,2020-06-01,2020-06-13,Inactive,-79.4361036,43.7292745
 1650,Tony Stacey Centre for Veteran's Care,59 Lawson Rd,LTCH,Respiratory,Unable to identify,2020-06-01,2020-06-22,Inactive,-79.16359737687672,43.78421151514884
@@ -1660,7 +1576,6 @@
 1658,Presentation Manor - 1st & 2nd Fl,61 Fairfax Cres,LTCH,Respiratory,Coronavirus,2020-05-22,2020-06-12,Inactive,-79.2829526,43.7160464
 1659,St. John's Rehabilitation Hospital - A3,285 Cummer Ave,Hospital-Chronic Care,Respiratory,Coronavirus,2020-05-22,2020-06-12,Inactive,-79.40424676206896,43.789755968965515
 1660,Amica at Bayview Gardens - 3rd to 8th Fl,19 Rean Dr,Retirement Home,Respiratory,Coronavirus,2020-05-21,2020-06-04,Inactive,-79.38257754978882,43.76690666292305
-1661,William Osler Health System - Etobicoke General Hospital -,101 Humber College Blvd - 7 East,Hospital-Acute Care,Respiratory,Coronavirus,2020-05-19,2020-06-06,Inactive,,
 1662,Dom Lipa Nursing Home - K Wing & Retirement Home,52 Neilson Dr,LTCH,Respiratory,Coronavirus,2020-05-18,2020-06-07,Inactive,-79.56570787160844,43.629111449999996
 1663,Castleview Wychwood Towers - 7th Fl,351 Christie St,LTCH,Respiratory,Coronavirus,2020-05-17,2020-07-01,Inactive,-79.42113793274277,43.673349
 1664,Yee Hong Centre (Scarborough Finch) - 6th Fl,60 Scottfield Dr,LTCH,Respiratory,Coronavirus,2020-05-15,2020-05-18,Inactive,-79.25453972658863,43.8086905
@@ -1673,20 +1588,15 @@
 1671,Fieldstone Commons Care Community,1000 Ellesmere Rd,LTCH,Respiratory,Coronavirus,2020-05-13,2020-06-22,Inactive,-79.277814,43.766995
 1672,Weston Gardens Retirement Residence,303 Queens Dr,Retirement Home,Respiratory,Coronavirus,2020-05-13,2020-07-03,Inactive,-79.502215,43.70758
 1673,Mon Sheong Scarborough,2030 McNicoll Ave,LTCH,Respiratory,Coronavirus,2020-05-12,2020-05-23,Inactive,-79.2994857,43.8128599
-1674,"Chartwell Trilogy Long Term Care Residence - 2nd, 3rd, 5th -",340 McCowen Rd - & 7th Fl,LTCH,Respiratory,Coronavirus,2020-05-12,2020-05-25,Inactive,,
-1675,"The Briton House Retirement Home - Rm 300, 5th, 10th, 11th &",720 Mount Pleasant Rd - 12th Fl,Retirement Home,Respiratory,Coronavirus,2020-05-12,2020-05-26,Inactive,,
 1676,Better Living at Thompson House,1 Overland Dr,LTCH,Respiratory,Coronavirus,2020-05-12,2020-05-31,Inactive,-79.347342,43.732464
 1677,The Dunfield Retirement Residence,77 Dunfield Ave,Retirement Home,Respiratory,Coronavirus,2020-05-09,2020-05-20,Inactive,-79.3950841875,43.7066295625
 1678,Reactivation Care Centre - Southlake Regional Health Centre,200 Church St,Hospital-Chronic Care,Respiratory,Coronavirus,2020-05-09,2020-05-28,Inactive,-79.510442,43.709345
 1679,The Annex Retirement Residence,129 Spadina Rd,Retirement Home,Respiratory,Coronavirus,2020-05-08,2020-05-23,Inactive,-79.40570392307693,43.671668000000004
 1680,Toronto Western Hospital - 9A,399 Bathurst St,Hospital-Acute Care,Respiratory,Coronavirus,2020-05-08,2020-06-01,Inactive,-79.4059789,43.6537982
-1681,Chartwell Grenadier Retirement Residence - Assisted Living,2100 Bloor St W - Section - 4 Fls,Retirement Home,Respiratory,Coronavirus,2020-05-07,2020-05-31,Inactive,,
 1682,Ivan Franko Home,767 Royal York Rd,LTCH,Respiratory,Coronavirus,2020-05-06,2020-05-19,Inactive,-79.50674173953753,43.637744850000004
-1683,"Leaside Retirement Residence - 2nd, 3rd, 4th & 7th Fl",10 William Morgan Dr - Bldg 10,Retirement Home,Respiratory,Coronavirus,2020-05-06,2020-05-26,Inactive,,
 1684,The Heritage Nursing Home - 1st Fl,1195 Queen St E,LTCH,Respiratory,Coronavirus,2020-05-05,2020-05-13,Inactive,-79.3316241,43.66280613333333
 1685,Chartwell Avondale Retirement Residence,1238 Queen St E,Retirement Home,Respiratory,Coronavirus,2020-05-05,2020-05-19,Inactive,-79.3297602125,43.66348025
 1686,North York General Hospital - 8 West,4001 Leslie St,Hospital-Acute Care,Respiratory,Coronavirus,2020-05-05,2020-05-19,Inactive,-79.362213,43.7699003
-1687,Reactivation Care Centre - Southlake Regional Health Centre,2111 Finch Ave - 5 East,Hospital-Chronic Care,Respiratory,Coronavirus,2020-05-04,2020-05-24,Inactive,,
 1688,Tendercare Living Centre - 2nd Fl,1020 McNicoll Ave,LTCH,Respiratory,Coronavirus,2020-05-04,2020-05-25,Inactive,-79.3361316,43.8042581
 1689,North Park Nursing Home - 2nd Fl,450 Rustic Rd,LTCH,Respiratory,Coronavirus,2020-05-03,2020-05-18,Inactive,-79.48187197868482,43.71729432043269
 1690,Scarborough Health Network - General Hospital - H3CP,3050 Lawrence Ave E,Hospital-Acute Care,Respiratory,Coronavirus,2020-05-03,2020-05-21,Inactive,-79.246316,43.7566259
@@ -1745,13 +1655,11 @@
 1743,The Salvation Army - Toronto Grace Health Centre - 5th Fl,650 Church St,Hospital-Chronic Care,Respiratory,Coronavirus,2020-04-10,2020-05-11,Inactive,-79.383202,43.670326
 1744,Canterbury Place Retirement Residence,1 Canterbury Pl,Retirement Home,Respiratory,Coronavirus,2020-04-10,2020-05-20,Inactive,-79.4141725,43.7719895
 1745,The O'Neill Centre,33 Christie St,LTCH,Respiratory,Coronavirus,2020-04-10,2020-05-20,Inactive,-79.4186528,43.6647391
-1746,Bradgate Arms,54 Foxbar Ave,Retirement Home,Respiratory,Coronavirus,2020-04-10,2020-05-31,Inactive,,
 1747,Hellenic Home,2411 Lawrence Ave E,LTCH,Respiratory,Coronavirus,2020-04-10,2020-06-23,Inactive,-79.2746356,43.7493249
 1748,Valleyview Residence,541 Finch Ave W,LTCH,Respiratory,Coronavirus,2020-04-09,2020-05-14,Inactive,-79.4482104,43.7727096
 1749,New Horizons Tower,1140 Bloor St W,Retirement Home,Respiratory,Coronavirus,2020-04-09,2020-06-01,Inactive,-79.43604266376147,43.659954600000006
 1750,Ina Grafton Gage Home,40 Bell Estate Rd,LTCH,Respiratory,Coronavirus,2020-04-09,2020-07-08,Inactive,-79.2753435,43.7058073
 1751,Ehatare Nursing Home - 4th Fl,40 Old Kingston Rd,LTCH,Respiratory,Coronavirus,2020-04-07,2020-04-21,Inactive,-79.1825648,43.7754026
-1752,Labdara Lithuanian Nursing Home,8 Ressurection Rd,LTCH,Respiratory,Coronavirus,2020-04-07,2020-05-01,Inactive,,
 1753,Amica on the Avenue,1066 Avenue Rd,Retirement Home,Respiratory,Coronavirus,2020-04-07,2020-05-12,Inactive,-79.410136,43.705781
 1754,Bendale Acres,2920 Lawrence Ave E,LTCH,Respiratory,Coronavirus,2020-04-07,2020-05-14,Inactive,-79.2516534,43.7543919
 1755,Humber Valley Terrace,95 Humber College Blvd,LTCH,Respiratory,Coronavirus,2020-04-07,2020-06-16,Inactive,-79.5994248,43.7307129
@@ -1780,10 +1688,8 @@
 1778,"Christie Gardens Apartments & Care - 1st, 5th & 8th Fl",600 Melita Cres,Retirement Home,Respiratory,Coronavirus,2020-04-01,2020-05-19,Inactive,-79.4229698,43.6725542
 1779,Queens Estate Retirement Residence,265 Queens Dr,Retirement Home,Respiratory,Coronavirus,2020-04-01,2020-05-19,Inactive,-79.504314,43.707185
 1780,Harold and Grace Baker Centre - A & C Wing,1 Northwestern Ave,LTCH,Respiratory,Coronavirus,2020-04-01,2020-05-24,Inactive,-79.4688897,43.6987718
-1781,Lakeshore Lodge Nursing Home,3197 Lakeshore Blvd W,LTCH,Respiratory,Coronavirus,2020-04-01,2020-06-03,Inactive,,
 1782,"The Heritage Nursing Home - 1st, 2nd & 3rd Fls",1195 Queen St E,LTCH,Respiratory,Metapneumovirus,2020-04-01,2020-04-14,Inactive,-79.3316241,43.66280613333333
 1783,Queens Estate Retirement Residence,265 Queens Dr,Retirement Home,Enteric,Unable to identify,2020-04-01,2020-04-10,Inactive,-79.504314,43.707185
-1784,Mccall Centre Interim Ltch - 2nd Fl,140 Sherway Ave,LTCH,Respiratory,Coronavirus,2020-03-31,2020-04-17,Inactive,,
 1785,Unity Health Toronto -Houses Of Providence - Hop 1 West / 1,3276 St. Clair Ave E,LTCH,Respiratory,Coronavirus,2020-03-31,2020-05-06,Inactive,-79.2861565,43.7135926
 1786,Hillcrest Reactivation Centre,47 Austin Terr,Hospital-Chronic Care,Respiratory,Coronavirus,2020-03-31,2020-05-25,Inactive,-79.415943,43.678115
 1787,Baycrest Apotex Centre - Jewish Home for the Aged,3560 Bathurst St,LTCH,Respiratory,Coronavirus,2020-03-31,2020-05-27,Inactive,-79.4361036,43.7292745
@@ -1809,7 +1715,6 @@
 1807,Yee Hong Centre (Scarborough Finch) - Entitre Facility,60 Scottfield Dr,LTCH,Respiratory,Coronavirus,2020-03-23,2020-04-07,Inactive,-79.25453972658863,43.8086905
 1808,Humber River Hospital - Reactivation Care Centre - 6E,2111 Finch Ave W,Hospital-Chronic Care,Respiratory,Coronavirus,2020-03-23,2020-04-03,Inactive,-79.5260221,43.7536378
 1809,Extendicare Guildwood,60 Guildwood Pky,LTCH,Respiratory,Rhinovirus,2020-03-23,2020-04-02,Inactive,-79.203089,43.7462823
-1810,West Park Healthcare Centre - Functional Enhancement Unit,82 Buttonwood Ave - 2EC,LTCH,Respiratory,Coronavirus,2020-03-22,2020-04-15,Inactive,,
 1811,Extendicare Bayview,550 Cummer Ave,LTCH,Respiratory,Coronavirus,2020-03-21,2020-06-11,Inactive,-79.3904512,43.7932278
 1812,Kensington Gardens - South Building - 2 East & 4 East,25 Brunswick Ave,LTCH,Respiratory,Coronavirus,2020-03-20,2020-03-30,Inactive,-79.40368867487679,43.6581346
 1813,Elm Grove Living Centre,35 Elm Grove Ave,LTCH,Respiratory,Coronavirus,2020-03-20,2020-04-08,Inactive,-79.43074080619229,43.6403384
@@ -1829,7 +1734,6 @@
 1827,Terrace Gardens Retirement Residence,3705 Bathurst St,Retirement Home,Respiratory,Coronavirus,2020-03-17,2020-05-23,Inactive,-79.43313103248155,43.73532075
 1828,True Davidson - 2nd & 4th Fl,200 Dawes Rd,LTCH,Respiratory,Respiratory syncytial virus,2020-03-17,2020-03-24,Inactive,-79.298175,43.69582
 1829,Leaside Retirement Residence - 5th Fl,14 William Morgan Dr,Retirement Home,Respiratory,Respiratory syncytial virus,2020-03-17,2020-03-30,Inactive,-79.341468,43.709324
-1830,Leaside Retirement Residence,14 Willaim Morgan Dr,Retirement Home,Respiratory,Unable to identify,2020-03-17,2020-03-27,Inactive,,
 1831,Extendicare Rouge Valley - Meadowvale,551 Conlins Rd,LTCH,Respiratory,Unable to identify,2020-03-17,2020-03-30,Inactive,-79.1894286,43.8029937
 1832,Valleyview Residence - 2 & 4 West,541 Finch Ave W,LTCH,Respiratory,Influenza B,2020-03-16,2020-04-01,Inactive,-79.4482104,43.7727096
 1833,Maynard Nursing Home - 1st Fl,28 Halton St,LTCH,Respiratory,Parainfluenza,2020-03-16,2020-04-01,Inactive,-79.4191210318182,43.64875234090909
@@ -1882,15 +1786,11 @@
 1880,St. Clair O'Connor Nursing Home  - 3rd Fl,2701 St. Clair Ave E,LTCH,Respiratory,Influenza A,2020-01-28,2020-02-05,Inactive,-79.3117512,43.7055002
 1881,Sunnybrook Health Sciences Centre - K2C,2075 Bayview Ave,LTCH,Respiratory,Respiratory syncytial virus,2020-01-28,2020-02-07,Inactive,-79.3792695,43.7235801
 1882,Extendicare - Craiglee - 1st & 2nd Fl,102 Craiglee Dr,LTCH,Enteric,Unable to identify,2020-01-28,2020-02-04,Inactive,-79.2528019,43.7067792
-1883,"Chester Village - 4 West (Emerald), 2 East (Sapphire)",3555 Danforth Ave - &  2 West (Topaz),LTCH,Respiratory,Metapneumovirus,2020-01-27,2020-02-17,Inactive,,
-1884,Fairview Nursing Home - 1st Fl,14 Cross St,LTCH,Respiratory,Respiratory syncytial virus,2020-01-27,2020-02-05,Inactive,,
 1885,Amica Bayview Village,15 Barberry Pl,Retirement Home,Enteric,Unable to identify,2020-01-26,2020-02-15,Inactive,-79.3841852,43.7658146
 1886,Fountain View Care Community - 2B Lakeside & 2A Breezeway,1800 O'Connor Dr,LTCH,Respiratory,Influenza A,2020-01-24,2020-02-08,Inactive,-79.30522822012195,43.7204409
 1887,Kennedy Lodge Nursing Home,1400 Kennedy Rd,LTCH,Respiratory,Influenza A,2020-01-23,2020-02-07,Inactive,-79.28034723089634,43.763144877160734
 1888,Westside - 3rd Fl,1145 Albion Rd,LTCH,Respiratory,Influenza A,2020-01-23,2020-02-06,Inactive,-79.5667899,43.7373503
-1889,Centre For Addiction & Mental Health - Queen Site,1001 Queen St W -  Unit 1-5 LGUD,Hospital-Psychiatric,Respiratory,Influenza A,2020-01-22,2020-01-30,Inactive,,
 1890,St. Joseph's Health Centre - 4L,30 The Queensway,Hospital-Acute Care,Respiratory,Influenza,2020-01-21,2020-01-28,Inactive,-79.450101,43.639359
-1891,Reactivation Care Centre Church Site - Humber River Hospital,200 Church St - C2N,Hospital-Chronic Care,Respiratory,Parainfluenza,2020-01-20,2020-01-28,Inactive,,
 1892,Cedarvale Terrace,429 Walmer Rd,LTCH,Respiratory,Influenza A,2020-01-20,2020-02-04,Inactive,-79.412483,43.685423
 1893,Cheltenham Care Community,5935 Bathurst St,LTCH,Respiratory,Influenza A,2020-01-19,2020-02-04,Inactive,-79.44484073636364,43.78182523636364
 1894,William Osler Health System - 10th Fl,101 Humber College Blvd,Hospital-Acute Care,Respiratory,Influenza A,2020-01-17,2020-01-27,Inactive,-79.5991896,43.7306053
@@ -1898,7 +1798,6 @@
 1896,William Osler Health System -Reactivation Care Centre-5th Fl,200 Church St,Hospital-Chronic Care,Respiratory,Influenza A,2020-01-16,2020-01-23,Inactive,-79.510442,43.709345
 1897,Baycrest Apotex Centre - Jewish Home for the Aged - 5EI,3560 Bathurst St,LTCH,Respiratory,Respiratory syncytial virus,2020-01-16,2020-01-23,Inactive,-79.4361036,43.7292745
 1898,Rose of Sharon Korean Long Term Care - 6th Fl,17 Maplewood Ave,LTCH,Respiratory,Influenza A,2020-01-15,2020-01-21,Inactive,-79.4217949,43.6858942
-1899,Extendicare Guildwood,66 Guildwood Ave,LTCH,Respiratory,Influenza A,2020-01-14,2020-01-25,Inactive,,
 1900,Baycrest Apotex Centre - Jewish Home for the Aged - 7RF,3560 Bathurst St,LTCH,Respiratory,Influenza A,2020-01-14,2020-01-22,Inactive,-79.4361036,43.7292745
 1901,Kensington Gardens - South Building - 3 East,25 Brunswick Ave,LTCH,Respiratory,Respiratory syncytial virus,2020-01-14,2020-01-22,Inactive,-79.40368867487679,43.6581346
 1902,Lakeside Long Term Care Centre,150 Dunn Ave,LTCH,Respiratory,Metapneumovirus,2020-01-13,2020-01-22,Inactive,-79.4326664,43.6356584
@@ -1963,46 +1862,35 @@
 1961,Unity Health Toronto - St. Michael's - 9 CC,30 Bond Street,Hospital-Acute Care,Respiratory,Coronavirus,2021-12-30,2022-01-13,Inactive,-79.3784327,43.6542289
 1962,Wexford Residence - 2nd & 7th Fl,1860 Lawrence Ave E,LTCH,Respiratory,Coronavirus,2021-12-30,2022-02-12,Inactive,-79.3024148,43.7438388
 1963,Tendercare Living Centre,1020 McNicoll Ave,LTCH,Respiratory,Coronavirus,2021-12-29,2022-03-20,Inactive,-79.3361316,43.8042581
-1964,"Bill McMurray Residence - Kitchen Area, Dining Area -","180 Sheridan Ave - 3rd, 5th, 6th & 7th Fl",Retirement Home,Respiratory,Coronavirus,2021-12-29,2022-02-22,Inactive,,
 1965,Cedarbrook Lodge Retirement Residence - 2nd & 3rd Fl,520 Markham Rd,Retirement Home,Respiratory,Coronavirus,2021-12-29,2022-02-10,Inactive,-79.2241579,43.7554562
-1966,Chartwell Guildwood Retirement Residence - 2nd Fl -,65 Livingston Rd - (Memory unit),Retirement Home,Respiratory,Coronavirus,2021-12-29,2022-02-07,Inactive,,
 1967,"Ehatare Retirement Home - 1st, 2nd & 3rd Fl",40 Old Kingston Rd,Retirement Home,Respiratory,Coronavirus,2021-12-29,2022-01-28,Inactive,-79.1825648,43.7754026
 1968,"Garden Court Nursing Home - 1st,2nd Fl & Kitchen",1 Sand Beach Rd,LTCH,Respiratory,Coronavirus,2021-12-29,2022-01-25,Inactive,-79.49683200367647,43.601898500000004
 1969,Harold and Grace Baker Centre,1 Northwestern Ave,Retirement Home,Respiratory,Coronavirus,2021-12-29,2022-02-03,Inactive,-79.4688897,43.6987718
 1970,Hillcrest Reactivation Centre,47 Austin Terr,Hospital-Chronic Care,Respiratory,Coronavirus,2021-12-29,2022-02-04,Inactive,-79.415943,43.678115
-1971,"Leaside Retirement Residence - 2nd, 3rd Fl & Building 10",10 -14 William Morgan Drive,Retirement Home,Respiratory,Coronavirus,2021-12-29,2022-01-31,Inactive,,
 1972,McNicoll Manor/Moll Berczy Haus - 4th & 5th Fl,1020 McNicoll Ave,Retirement Home,Respiratory,Coronavirus,2021-12-29,2022-02-12,Inactive,-79.3361316,43.8042581
 1973,Retirement Suites by the Lake,2121 Kingston Rd,Retirement Home,Respiratory,Coronavirus,2021-12-29,2022-01-31,Inactive,-79.2561528,43.6979544
-1974,Tapestry at Village Gate West - Kitchen/Restaurant & -,15 Summerland Terr - Concierge/Front Desk,Retirement Home,Respiratory,Coronavirus,2021-12-29,2022-02-04,Inactive,,
 1975,Unity Health Toronto - St. Michael's - 7CCV North,30 Bond Street,Hospital-Acute Care,Respiratory,Coronavirus,2021-12-29,2022-01-15,Inactive,-79.3784327,43.6542289
 1976,Valleyview Residence - 2 East & 3 West,541 Finch Ave W,LTCH,Respiratory,Coronavirus,2021-12-29,2022-02-05,Inactive,-79.4482104,43.7727096
 1977,West Park Healthcare Centre - ABIBS,82 Buttonwood Avenue,Hospital-Chronic Care,Respiratory,Coronavirus,2021-12-29,2022-01-17,Inactive,-79.5098225,43.687805
 1978,West Park Long Term Care Centre - Humber/York,82 Buttonwood Ave,LTCH,Respiratory,Coronavirus,2021-12-29,2022-01-18,Inactive,-79.5098225,43.687805
-1979,Yee Hong Centre for Geriatric Care - McNicoll - Kitchen,2311 McNicoll Ave - & 5 Fl,LTCH,Respiratory,Coronavirus,2021-12-29,2022-01-20,Inactive,,
 1980,Annex Retirement Residence,123 Spadina Rd,Retirement Home,Respiratory,Coronavirus,2021-12-28,2022-02-09,Inactive,-79.405505,43.67175
 1981,Baycrest Apotex Centre - Jewish Home for the Aged,3560 Bathurst St,LTCH,Respiratory,Coronavirus,2021-12-28,2022-02-14,Inactive,-79.4361036,43.7292745
 1982,Baycrest Hospital - 6 East,3560 Bathurst Street,Hospital-Chronic Care,Respiratory,Coronavirus,2021-12-28,2022-01-21,Inactive,-79.4361036,43.7292745
-1983,"Dom Lipa Long Term Care - 1 & 2 West, K Wing -",52 Neilson Dr - Laundry & Kitchen,LTCH,Respiratory,Coronavirus,2021-12-28,2022-02-09,Inactive,,
 1984,Elm Grove Living Centre,35 Elm Grove Ave,LTCH,Respiratory,Coronavirus,2021-12-28,2022-01-28,Inactive,-79.43074080619229,43.6403384
 1985,Extendicare Guildwood,60 Guildwood Pky,LTCH,Respiratory,Coronavirus,2021-12-28,2022-02-15,Inactive,-79.203089,43.7462823
 1986,Extendicare Rouge Valley,551 Conlins Rd,LTCH,Respiratory,Coronavirus,2021-12-28,2022-02-12,Inactive,-79.1894286,43.8029937
 1987,North York General Hospital - General Site - 6 West,4001 Leslie Street,Hospital-Acute Care,Respiratory,Coronavirus,2021-12-28,2022-01-07,Inactive,-79.362213,43.7699003
 1988,Parkland on Eglinton West - 2nd - 5th Fl  West Tower,4650 Eglinton Ave W,Retirement Home,Respiratory,Coronavirus,2021-12-28,2022-02-06,Inactive,-79.54756,43.678424
-1989,Scarborough Health Network - General Hospital - Tower 6 -,3030 Lawrence Ave E - Palliative Care/Oncology,Hospital-Acute Care,Respiratory,Coronavirus,2021-12-28,2022-01-14,Inactive,,
 1990,Scarborough Health Network- Scarborough General- 4C Medicine,3030 Lawrence Ave. E.,Hospital-Acute Care,Respiratory,Coronavirus,2021-12-28,2022-02-07,Inactive,-79.24729294445463,43.75528254449458
-1991,Sunnybrook Health Sciences Centre - Veterans Centre -,2075 Bayview Ave - LSSE,LTCH,Respiratory,Coronavirus,2021-12-28,2022-01-21,Inactive,,
 1992,West Park  Healthcare Centre - Food Services Department,82 Buttonwood Avenue,Hospital-Chronic Care,Respiratory,Coronavirus,2021-12-28,2022-01-16,Inactive,-79.5098225,43.687805
 1993,Carefree Lodge,306 Finch Ave E,LTCH,Respiratory,Coronavirus,2021-12-27,2022-02-09,Inactive,-79.392388,43.7850419
 1994,Centre for Addiction and Mental Health - Unit 3-3 Forensics,1001 Queen Street West,Hospital-Psychiatric,Respiratory,Coronavirus,2021-12-27,2022-01-27,Inactive,-79.4186199,43.6438339
 1995,Chartwell Scarlett Heights Retirement Residence - 1st & 2nd,4005 Eglinton Ave W,Retirement Home,Respiratory,Coronavirus,2021-12-27,2022-02-04,Inactive,-79.5125369,43.6836338
 1996,Cheltenham Care Community - 1st & 3rd Fl,5935 Bathurst St,LTCH,Respiratory,Coronavirus,2021-12-27,2022-02-08,Inactive,-79.44484073636364,43.78182523636364
-1997,"Kensington Gardens - South Building 1E, 2E, 3E, 4E, 1W, 2W -",25 Brunswick Ave - 4W,LTCH,Respiratory,Coronavirus,2021-12-27,2022-02-04,Inactive,,
 1998,"New Horizons Tower - Basement, Kitchen/Dining, 2nd & 3rd Fl",1140 Bloor St W,Retirement Home,Respiratory,Coronavirus,2021-12-27,2022-02-02,Inactive,-79.43604266376147,43.659954600000006
 1999,Queens Estate Retirement Residence,265 Queens Dr,Retirement Home,Respiratory,Coronavirus,2021-12-27,2022-01-31,Inactive,-79.504314,43.707185
-2000,Sunnybrook Health Sciences Centre - Veterans Centre -,2075 Bayview Ave - LTSE,LTCH,Respiratory,Coronavirus,2021-12-27,2022-01-23,Inactive,,
 2001,Craiglee Nursing Home - 3 West,102 Craiglee Dr,LTCH,Respiratory,Coronavirus,2021-12-26,2022-02-02,Inactive,-79.2528019,43.7067792
 2002,"Fudger House - Basement Kitchen, 1E, 2E, 3E, 1W, 2W & 3W",439 Sherbourne St,LTCH,Respiratory,Coronavirus,2021-12-26,2022-02-03,Inactive,-79.373735,43.666208
-2003,"Isabel and Arthur Meighen Manor (Salvation Army) - 2S, 3S &-",155 Millwood Rd - 4N,LTCH,Respiratory,Coronavirus,2021-12-26,2022-02-10,Inactive,,
 2004,"Kennedy Lodge - Main North, 2 North, 3 South & 3 North",1400 Kennedy Rd,LTCH,Respiratory,Coronavirus,2021-12-26,2022-02-04,Inactive,-79.28034723089634,43.763144877160734
 2005,Kensington Place Retirement Residence,866 Sheppard Ave W,Retirement Home,Respiratory,Coronavirus,2021-12-26,2022-02-14,Inactive,-79.45390335882352,43.752403364705884
 2006,St. Clair O'Connor Community Nursing Home,2701 St Clair Avenue East,LTCH,Respiratory,Coronavirus,2021-12-26,2022-01-31,Inactive,-79.3117512,43.7055002
@@ -2020,16 +1908,11 @@
 2018,Midland Gardens Care Community - 3rd Fl,130 Midland Ave,LTCH,Respiratory,Coronavirus,2021-12-24,2022-02-24,Inactive,-79.2469846,43.7077593
 2019,"Nisbet Lodge - Dietary, Laundry Department & 7th Fl",740 Pape Ave,LTCH,Respiratory,Coronavirus,2021-12-24,2022-02-01,Inactive,-79.3456271,43.6804485
 2020,Sinai Health System - Hennick Bridgepoint Hospital - 4N,14 St. Matthews Road,Hospital-Chronic Care,Respiratory,Coronavirus,2021-12-24,2022-01-13,Inactive,-79.3537925,43.6660438
-2021,The Briton House - 9th Fl,700 & 720 Mount Pleasant Rd,Retirement Home,Respiratory,Coronavirus,2021-12-24,2022-02-10,Inactive,,
 2022,"Ukrainian Canadian Care Centre - 1st, 2nd, 3rd & 4th Fl",60 Richview Rd,LTCH,Respiratory,Coronavirus,2021-12-24,2022-02-07,Inactive,-79.5200627,43.6838785
 2023,Unity Health Toronto - St. Michael's - MSICU,30 Bond Street,Hospital-Acute Care,Respiratory,Coronavirus,2021-12-24,2022-01-12,Inactive,-79.3784327,43.6542289
-2024,University Health Network - Toronto General -,200 Elizabeth Street - In-Centre Hemodialysis,Hospital-Acute Care,Respiratory,Coronavirus,2021-12-24,2022-02-02,Inactive,,
 2025,Amica Bayview Gardens - 2nd Fl,19 Rean Dr,Retirement Home,Respiratory,Coronavirus,2021-12-23,2022-02-06,Inactive,-79.38257754978882,43.76690666292305
 2026,Better Living at Thompson House - 2nd Fl,1 Overland Dr,LTCH,Respiratory,Coronavirus,2021-12-23,2022-02-15,Inactive,-79.347342,43.732464
-2027,"Chartwell Grenadier Retirement Residence - B6, C6 -",2100 Bloor St W - & Main Kitchen,LTCH,Respiratory,Coronavirus,2021-12-23,2022-02-22,Inactive,,
 2028,Chartwell Westbury Long Term Care Residence,495 The West Mall,LTCH,Respiratory,Coronavirus,2021-12-23,2022-02-09,Inactive,-79.567866,43.648303
-2029,"Copernicus Lodge - 3, 5 & 6 South, 1st, 2nd & 4th Fl -",66 Roncesvalles Ave - Admin Area & Kitchen,LTCH,Respiratory,Coronavirus,2021-12-23,2022-03-08,Inactive,,
-2030,"Fairview Nursing Home - 1st, 2nd & 3rd Fl",14 Cross St,LTCH,Respiratory,Coronavirus,2021-12-23,2022-02-08,Inactive,,
 2031,Fieldstone Commons Care Community,1000 Ellesmere Rd,LTCH,Respiratory,Coronavirus,2021-12-23,2022-03-06,Inactive,-79.277814,43.766995
 2032,"Fountain View Care Community - 2B, 3A & 3B",1800 O'Connor Dr,LTCH,Respiratory,Coronavirus,2021-12-23,2022-01-25,Inactive,-79.30522822012195,43.7204409
 2033,Harold and Grace Baker Centre,1 Northwestern Ave,LTCH,Respiratory,Coronavirus,2021-12-23,2022-02-07,Inactive,-79.4688897,43.6987718
@@ -2041,7 +1924,6 @@
 2039,Terraces of Baycrest,55 Ameer Ave,Retirement Home,Respiratory,Coronavirus,2021-12-23,2022-01-18,Inactive,-79.4410166,43.7294379
 2040,Unity Health Toronto - St. Joseph's  - 7M,30 The Queensway,Hospital-Acute Care,Respiratory,Coronavirus,2021-12-23,2022-01-12,Inactive,-79.450101,43.639359
 2041,University Health Network- Toronto General - 2nd Fl Cath Lab,200 Elizabeth Street,Hospital-Acute Care,Respiratory,Coronavirus,2021-12-23,2022-01-10,Inactive,-79.3869528,43.6583672
-2042,"Wesburn Manor - 2S, 3S, 4S, 2N, 3N, 4N, -",400 The West Mall - Main Fl & Laundry,LTCH,Respiratory,Coronavirus,2021-12-23,2022-02-15,Inactive,,
 2043,Cedarvale Terrace,429 Walmer Rd,LTCH,Respiratory,Coronavirus,2021-12-22,2022-02-08,Inactive,-79.412483,43.685423
 2044,Eatonville Care Centre,420 The East Mall,LTCH,Respiratory,Coronavirus,2021-12-22,2022-02-15,Inactive,-79.560686,43.64745
 2045,Ehatare Nursing Home - 4th Fl,40 Old Kingston Rd,LTCH,Respiratory,Coronavirus,2021-12-22,2022-01-18,Inactive,-79.1825648,43.7754026
@@ -2049,7 +1931,6 @@
 2047,"Norwood Nursing Home - Main, 1st & 2nd Fl",122 Tyndall Ave,LTCH,Respiratory,Coronavirus,2021-12-22,2022-01-28,Inactive,-79.42931564668473,43.63752855
 2048,The Millwood - 4th Fl,921 Millwood Rd,LTCH,Respiratory,Coronavirus,2021-12-22,2022-02-01,Inactive,-79.363404,43.703017
 2049,Tony Stacey Centre for Veterans Care,59 Lawson Rd,LTCH,Respiratory,Coronavirus,2021-12-22,2022-02-15,Inactive,-79.16359737687672,43.78421151514884
-2050,University Health Network - Toronto General - 8th Fl -,200 Elizabeth St - ENT Laryngology - Administrative Offices,Hospital-Acute Care,Respiratory,Coronavirus,2021-12-22,2022-01-11,Inactive,,
 2051,Chartwell Trilogy Long Term Care Residence - 5th & 7th Fl,340 McCowan Rd,LTCH,Respiratory,Coronavirus,2021-12-21,2022-02-14,Inactive,-79.238633,43.73837
 2052,Downsview Long Term Care Centre,3595 Keele St,LTCH,Respiratory,Coronavirus,2021-12-21,2022-02-15,Inactive,-79.48781545714286,43.751348042857146
 2053,Extendicare Scarborough,3830 Lawrence Ave E,LTCH,Respiratory,Coronavirus,2021-12-21,2022-02-14,Inactive,-79.210221,43.763575
@@ -2058,7 +1939,6 @@
 2056,Kingsway,4251 Dundas St W,Retirement Home,Respiratory,Coronavirus,2021-12-21,2022-02-05,Inactive,-79.513986,43.6591255
 2057,Rekai Centre - Wellesley Central Place,160 Wellesley St E,LTCH,Respiratory,Coronavirus,2021-12-21,2022-01-27,Inactive,-79.375496,43.667154
 2058,Sherbourne Place - Rekai Centre,345 Sherbourne St,LTCH,Respiratory,Coronavirus,2021-12-21,2022-01-27,Inactive,-79.37243630597754,43.662702249999995
-2059,"The Village of Humber Heights - Lambton, Alderwood, Weston -","2245 Lawrence Ave W - Islington, Brule & Wadsworth",LTCH,Respiratory,Coronavirus,2021-12-21,2022-02-07,Inactive,,
 2060,True Davidson Acres,200 Dawes Rd,LTCH,Respiratory,Coronavirus,2021-12-21,2022-02-07,Inactive,-79.298175,43.69582
 2061,Hellenic Home - 1st Fl & 3A,2411 Lawrence Ave E,LTCH,Respiratory,Coronavirus,2021-12-20,2022-02-24,Inactive,-79.2746356,43.7493249
 2062,Maynard Nursing Home,28 Halton St,LTCH,Respiratory,Coronavirus,2021-12-20,2022-01-26,Inactive,-79.4191210318182,43.64875234090909
@@ -2066,7 +1946,6 @@
 2064,St. George Care Community,225 St. George St,LTCH,Respiratory,Coronavirus,2021-12-20,2022-02-25,Inactive,-79.401462,43.672538
 2065,Suomi Koti Nursing Home - 7th Fl,795 Eglinton Ave E,LTCH,Respiratory,Coronavirus,2021-12-20,2022-01-28,Inactive,-79.3669906,43.7129848
 2066,The O'Neill Centre,33 Christie St,LTCH,Respiratory,Coronavirus,2021-12-20,2022-02-08,Inactive,-79.4186528,43.6647391
-2067,"The Village of Humber Heights - Becker 4th & 5th Fl, Egerton",2245 Lawrence Ave W - Emma & WIlliamsburg East,LTCH,Respiratory,Coronavirus,2021-12-20,2022-02-08,Inactive,,
 2068,Kipling Acres,2233 Kipling Ave,LTCH,Respiratory,Coronavirus,2021-12-19,2022-02-11,Inactive,-79.571631,43.725014
 2069,Shepherd Terrace Retirement Residence,3758 Sheppard Ave E,Retirement Home,Respiratory,Coronavirus,2021-12-19,2022-02-05,Inactive,-79.29459460107817,43.782512999999994
 2070,Villa Colombo Home for the Aged,40 Playfair Ave,LTCH,Respiratory,Coronavirus,2021-12-19,2022-02-23,Inactive,-79.45668174072816,43.71094909999999
@@ -2127,7 +2006,6 @@
 2125,The Rekai Centre at Sherbourne Place - 2nd Fl,345 Sherbourne St,LTCH,Respiratory,Rhinovirus,2021-09-08,2021-09-21,Inactive,-79.37243630597754,43.662702249999995
 2126,"Extendicare Rouge Valley - 2nd Fl, Cedar Ridge Unit",551 Conlins Rd,LTCH,Respiratory,Rhinovirus,2021-09-07,2021-09-24,Inactive,-79.1894286,43.8029937
 2127,Unity Health Toronto - St. Joseph's Health Centre - 3M Unit,30 The Queensway,Hospital-Acute Care,Respiratory,Coronavirus,2021-09-04,2021-09-22,Inactive,-79.450101,43.639359
-2128,Eatonville Care Centre - 2nd Fl,420 The West Mall,LTCH,Enteric,Unable to identify,2021-09-01,2021-09-02,Inactive,,
 2129,Bendale Acres - 4th Fl,2920 Lawrence Ave E,LTCH,Respiratory,Rhinovirus,2021-08-22,2021-08-28,Inactive,-79.2516534,43.7543919
 2130,"Fieldstone Commons - 1A, 2B, 3B Lilac Lane",1000 Ellesmere Rd,LTCH,Enteric,Unable to identify,2021-08-22,2021-09-10,Inactive,-79.277814,43.766995
 2131,Holland Bloorview Kids Rehabilitation Hospital - 3 East,150 Kilgour Rd,Hospital-Chronic Care,Respiratory,Rhinovirus,2021-08-20,2021-09-02,Inactive,-79.37434881971065,43.7182666
@@ -2145,19 +2023,16 @@
 2143,Runnymede Healthcare Centre - 3rd Fl,625 Runnymede Road,Hospital-Chronic Care,Respiratory,Coronavirus,2021-07-12,2021-07-28,Inactive,-79.481008,43.664497
 2144,Norfinch Care Community - 2nd Fl,22 Norfinch Dr,LTCH,Enteric,Unable to identify,2021-07-07,2021-07-10,Inactive,-79.52465315351665,43.75628127207558
 2145,Humber River Hospital - Wilson - 12 East,1235 Wilson Avenue,Hospital-Acute Care,Respiratory,Coronavirus,2021-07-02,2021-07-19,Inactive,-79.4894019,43.7227577
-2146,Scarborough Health Network - General Hospital - CP4 -,3030 Lawrence Ave E - Medicine Unit,Hospital-Acute Care,Respiratory,Coronavirus,2021-06-30,2021-07-13,Inactive,,
 2147,University Health Network - Toronto Western Hospital - 6A,399 Bathurst Street,Hospital-Acute Care,Respiratory,Coronavirus,2021-06-17,2021-07-07,Inactive,-79.4059789,43.6537982
 2148,Scarborough Health Network-Centenary Hospital - YC9E,2867 Ellesmere Road,Hospital-Acute Care,Respiratory,Coronavirus,2021-05-21,2021-05-30,Inactive,-79.204964,43.78009
 2149,Hospital for Sick Children - Unit 7C,555 University Avenue,Hospital-Acute Care,Respiratory,Coronavirus,2021-05-20,2021-06-04,Inactive,-79.387438,43.657372
 2150,Norfinch Care Community - 3A,22 Norfinch Drive,LTCH,Respiratory,Coronavirus,2021-05-18,2021-06-01,Inactive,-79.52465315351665,43.75628127207558
 2151,University Health Network - Toronto General Hospital - 8ES,200 Elizabeth Street,Hospital-Acute Care,Respiratory,Coronavirus,2021-05-17,2021-06-01,Inactive,-79.3869528,43.6583672
 2152,1321 - Cummer Lodge - 205 Cummer Avenue - Toronto,205 Cummer Ave,LTCH,Respiratory,Coronavirus,2021-05-15,2021-06-01,Inactive,-79.40816758965518,43.78889555517242
-2153,University Health Network - Toronto General Hospital -,200 Elizabeth Street - Transportation & Linen Services,Hospital-Acute Care,Respiratory,Coronavirus,2021-05-15,2021-06-02,Inactive,,
 2154,Hillcrest Reactivation Centre - 4th Fl,47 Austin Terr,Hospital-Chronic Care,Respiratory,Coronavirus,2021-05-14,2021-06-06,Inactive,-79.415943,43.678115
 2155,Chartwell Trilogy- 4th Fl,340 McCowan Road,LTCH,Respiratory,Coronavirus,2021-05-11,2021-06-10,Inactive,-79.238633,43.73837
 2156,Christie Gardens - Annex Unit,600 Melita Crescent,Retirement Home,Respiratory,Coronavirus,2021-05-11,2021-05-29,Inactive,-79.4229698,43.6725542
 2157,University Health Network - Toronto General Hospital - 7B,200 Elizabeth Street,Hospital-Acute Care,Respiratory,Coronavirus,2021-05-08,2021-05-27,Inactive,-79.3869528,43.6583672
-2158,University Health Network - Toronto General Hospital -,200 Elizabeth Street - 5B Cardiology,Hospital-Acute Care,Respiratory,Coronavirus,2021-05-07,2021-05-18,Inactive,,
 2159,University Health Network - Lyndhurst - Special rehab - 1B,520 Sutherland Drive,Hospital-Chronic Care,Respiratory,Coronavirus,2021-05-06,2021-05-20,Inactive,-79.3696039,43.7189133
 2160,Baycrest Hospital - 6E,3560 Bathurst Street,Hospital-Chronic Care,Respiratory,Coronavirus,2021-05-04,2021-05-19,Inactive,-79.4361036,43.7292745
 2161,Humber River Hospital - Wilson - 9E Nephrology,1235 Wilson Avenue,Hospital-Acute Care,Respiratory,Coronavirus,2021-05-04,2021-06-01,Inactive,-79.4894019,43.7227577
@@ -2184,14 +2059,12 @@
 2182,Kipling Acres - Alders & Thisletown,2233 Kipling Ave,LTCH,Respiratory,Coronavirus,2021-04-20,2021-05-13,Inactive,-79.571631,43.725014
 2183,"The O'Neill Centre Long Term Care - 2nd, 4th & 5th Fl",33 Christie St,LTCH,Respiratory,Coronavirus,2021-04-20,2021-05-28,Inactive,-79.4186528,43.6647391
 2184,Unity Health Toronto-St. Joseph's Health Centre - 2LM,30 The Queensway,Hospital-Acute Care,Respiratory,Coronavirus,2021-04-20,2021-05-04,Inactive,-79.450101,43.639359
-2185,William Osler Health System - Etobicoke General Hospital -,101 Humber College Boulevard - 7E Cardiology,Hospital-Acute Care,Respiratory,Coronavirus,2021-04-20,2021-05-24,Inactive,,
 2186,Downsview Long Term Care - 2nd Fl,3595 Keele St,LTCH,Respiratory,Coronavirus,2021-04-19,2021-05-11,Inactive,-79.48781545714286,43.751348042857146
 2187,Hawthorne Place Care Centre - 2nd Fl,2045 Finch Ave West,LTCH,Respiratory,Coronavirus,2021-04-19,2021-05-06,Inactive,-79.5222631,43.7562487
 2188,Humber Valley Terrace - 3A Fl,95 Humber College Blvd,LTCH,Respiratory,Coronavirus,2021-04-19,2021-05-13,Inactive,-79.5994248,43.7307129
 2189,Cummer Lodge - 3 North,205 Cummer Avenue,LTCH,Respiratory,Coronavirus,2021-04-18,2021-06-01,Inactive,-79.40816758965518,43.78889555517242
 2190,St Bernards Retirement Residence,685 Finch Ave West,LTCH,Respiratory,Coronavirus,2021-04-18,2021-04-30,Inactive,-79.4561852,43.7709198
 2191,Unity Health Toronto - Providence Healthcare - D3,3276 St. Clair Avenue East,Hospital-Chronic Care,Respiratory,Coronavirus,2021-04-18,2021-05-10,Inactive,-79.2861565,43.7135926
-2192,University Health Network - Toronto General Hospital -,200 Elizabeth Street - Hemodialysis Centre,Hospital-Acute Care,Respiratory,Coronavirus,2021-04-18,2021-05-03,Inactive,,
 2193,Scarborough Health Network-Centenary Hospital - YC9W,2867 Ellesmere Road,Hospital-Acute Care,Respiratory,Coronavirus,2021-04-17,2021-04-25,Inactive,-79.204964,43.78009
 2194,Scarborough Health Network-Centenary Hospital - YC9E,2867 Ellesmere Road,Hospital-Acute Care,Respiratory,Coronavirus,2021-04-16,2021-05-04,Inactive,-79.204964,43.78009
 2195,Eatonville Care Centre - Unit 5,420 The East Mall,LTCH,Respiratory,Coronavirus,2021-04-15,2021-05-17,Inactive,-79.560686,43.64745
@@ -2209,7 +2082,6 @@
 2207,Toronto East Health Network- Michael Garron Hospital- J5,825 Coxwell Avenue,Hospital-Acute Care,Respiratory,Coronavirus,2021-04-05,2021-04-12,Inactive,-79.3236782,43.6896572
 2208,Extendicare Scarborough - Laundry Department,3830 Lawrence Avenue East,LTCH,Respiratory,Coronavirus,2021-04-05,2021-04-20,Inactive,-79.210221,43.763575
 2209,Norfinch Care Community - Fl 2A,22 Norfinch Drive,LTCH,Respiratory,Coronavirus,2021-04-04,2021-05-02,Inactive,-79.52465315351665,43.75628127207558
-2210,William Osler Health System - Etobicoke General Hospital -,101 Humber College Boulevard - 8 Medflex,Hospital-Acute Care,Respiratory,Coronavirus,2021-04-04,2021-04-26,Inactive,,
 2211,Runnymede Healthcare Centre - 2nd Fl,625 Runnymede Road,Hospital-Chronic Care,Respiratory,Coronavirus,2021-04-03,2021-04-18,Inactive,-79.481008,43.664497
 2212,The Heritage Nursing Home - 4th Fl,1195 Queen Street East,LTCH,Respiratory,Coronavirus,2021-04-03,2021-05-19,Inactive,-79.3316241,43.66280613333333
 2213,Toronto East Health Network-Michael Garron Hospital - B2,825 Coxwell Avenue,Hospital-Acute Care,Respiratory,Coronavirus,2021-04-03,2021-04-13,Inactive,-79.3236782,43.6896572
@@ -2221,20 +2093,15 @@
 2219,Humber River Hospital - Wilson Site - 9 East,1235 Wilson Avenue,Hospital-Acute Care,Respiratory,Coronavirus,2021-03-26,2021-04-08,Inactive,-79.4894019,43.7227577
 2220,Scarborough Health Network - General Hospital - 4C,3030 Lawrence Ave E,Hospital-Acute Care,Respiratory,Coronavirus,2021-03-23,2021-04-04,Inactive,-79.24729294445463,43.75528254449458
 2221,The Rekai Centres at Wellesley Street - TCU,160 Wellesley Street East,LTCH,Respiratory,Coronavirus,2021-03-23,2021-04-07,Inactive,-79.375496,43.667154
-2222,University Health Network - Toronto Western Hospital-,399 Bathurst St - 6B,Hospital-Acute Care,Respiratory,Coronavirus,2021-03-22,2021-04-12,Inactive,,
 2223,Copernicus Lodge - 3 North,66 Roncesvalles Ave,LTCH,Enteric,Unable to identify,2021-03-22,2021-03-27,Inactive,-79.447337,43.640435
 2224,Unity Health Toronto - St. Joseph's Health Centre- 3M,30 The Queensway,Hospital-Acute Care,Respiratory,Coronavirus,2021-03-19,2021-04-07,Inactive,-79.450101,43.639359
-2225,University Health Network - Toronto General Hospital -,200 Elizabeth Street - OR Staff areas,Hospital-Acute Care,Respiratory,Coronavirus,2021-03-17,2021-03-27,Inactive,,
 2226,Revera Westside Long Term Care - 2nd Fl,1145 Albion Rd,LTCH,Respiratory,Coronavirus,2021-03-16,2021-04-15,Inactive,-79.5667899,43.7373503
 2227,The O'Neill Centre Long Term Care - 2nd and 5th Floor,33 Christie St,LTCH,Respiratory,Coronavirus,2021-03-13,2021-04-15,Inactive,-79.4186528,43.6647391
-2228,University Health Network -Toronto General Hospital,200 Elizabeth Street - Hemodialysis Unit,Hospital-Acute Care,Respiratory,Coronavirus,2021-03-12,2021-04-04,Inactive,,
 2229,Fieldstone Commons Care Community - 3A Fl,1000 Ellesmere Road,LTCH,Respiratory,Coronavirus,2021-03-11,2021-05-13,Inactive,-79.277814,43.766995
 2230,Kipling Acres - Claireville & Highfield Unit,2233 Kipling Ave,LTCH,Respiratory,Coronavirus,2021-03-05,2021-03-19,Inactive,-79.571631,43.725014
 2231,Unity Health Toronto-St. Joseph's Health Centre - 2M,30 The Queensway,Hospital-Acute Care,Respiratory,Coronavirus,2021-03-02,2021-03-22,Inactive,-79.450101,43.639359
 2232,Lakeside Long Term Care Centre - 1st & 3rd Fl,150 Dunn Avenue,LTCH,Respiratory,Coronavirus,2021-02-26,2021-03-15,Inactive,-79.4326664,43.6356584
 2233,Centre for Addiction & Mental Health - Unit 1-4,1001 Queen Street West,Hospital-Psychiatric,Respiratory,Coronavirus,2021-02-23,2021-03-09,Inactive,-79.4186199,43.6438339
-2234,University Health Network - Toronto Western Hospital - 3B,399 Bathrust Street,Hospital-Acute Care,Respiratory,Coronavirus,2021-02-23,2021-03-06,Inactive,,
-2235,Fairview Nursing Home,14 Cross St,LTCH,Respiratory,Coronavirus,2021-02-22,2021-03-12,Inactive,,
 2236,The Wexford Residence - 2nd Fl,1860 Lawrence Ave E,LTCH,Respiratory,Coronavirus,2021-02-22,2021-03-08,Inactive,-79.3024148,43.7438388
 2237,Tony Stacey Centre for Veteran's Care,59 Lawson Rd,LTCH,Enteric,Unable to identify,2021-02-22,2021-02-26,Inactive,-79.16359737687672,43.78421151514884
 2238,Main Street Terrace - 2nd & 3rd Fl,77 Main Street,LTCH,Respiratory,Coronavirus,2021-02-21,2021-04-16,Inactive,-79.29894248888888,43.681406233333334
@@ -2253,11 +2120,9 @@
 2251,Ehatare Retirement Home - Scarborough,40 Old Kingston Road,LTCH,Respiratory,Coronavirus,2021-02-04,2021-02-20,Inactive,-79.1825648,43.7754026
 2252,Sinai Health System - Mount Sinai - 12 South,600 University Avenue,Hospital-Acute Care,Respiratory,Coronavirus,2021-02-04,2021-02-19,Inactive,-79.390445,43.657536
 2253,"St. Hilda's Towers Retirement Home - 2nd, 3rd & 4th Fl",2339 Dufferin Street,Retirement Home,Respiratory,Coronavirus,2021-02-04,2021-02-24,Inactive,-79.449681,43.69459
-2254,University Health Network - Toronto Western Hospital - 9A,399 Bathrust Street,Hospital-Acute Care,Respiratory,Coronavirus,2021-02-04,2021-02-18,Inactive,,
 2255,Weston Gardens Retirement Residence,303 Queens Drive,Retirement Home,Respiratory,Coronavirus,2021-02-04,2021-02-25,Inactive,-79.502215,43.70758
 2256,Dom Lipa,52 Neilson Drive,LTCH,Respiratory,Coronavirus,2021-02-03,2021-02-25,Inactive,-79.56570787160844,43.629111449999996
 2257,Sunnybrook Health Sciences Centre- St. John's Rehab - A1&A2,285 Cummer Avenue,Hospital-Chronic Care,Respiratory,Coronavirus,2021-02-03,2021-02-22,Inactive,-79.40424676206896,43.789755968965515
-2258,Toronto East Health Network-Michael Garron Hospital-G5-med-,825 Coxwell Avenue - palliative care,Hospital-Acute Care,Respiratory,Coronavirus,2021-02-03,2021-02-18,Inactive,,
 2259,Unity Health Toronto-St. Joseph's Health Centre - 6M,30 The Queensway,Hospital-Acute Care,Respiratory,Coronavirus,2021-02-03,2021-02-22,Inactive,-79.450101,43.639359
 2260,Carefree Lodge - Main Fl,306 Finch Avenue East,LTCH,Respiratory,Coronavirus,2021-02-02,2021-02-20,Inactive,-79.392388,43.7850419
 2261,Kensington Gardens North Building - 3 West,45 Brunswick Ave,LTCH,Respiratory,Coronavirus,2021-02-02,2021-02-20,Inactive,-79.404305,43.658784
@@ -2273,7 +2138,6 @@
 2271,Kensington Place Retirement Residence,866 Sheppard Avenue,Retirement Home,Respiratory,Coronavirus,2021-01-24,2021-02-24,Inactive,-79.1089196,43.8241454
 2272,Toronto Rehabilitation Institute - 7S,550 University Ave,Hospital-Chronic Care,Respiratory,Coronavirus,2021-01-23,2021-02-14,Inactive,-79.389958,43.65667
 2273,Toronto East Health Network-Michael Garron Hospital - A2,825 Coxwell Avenue,Hospital-Acute Care,Respiratory,Coronavirus,2021-01-22,2021-01-29,Inactive,-79.3236782,43.6896572
-2274,University Health Network - Toronto General Hospital-10th Fl,200 Elizabeth Street - EVS,Hospital-Acute Care,Respiratory,Coronavirus,2021-01-22,2021-02-07,Inactive,,
 2275,Baycrest Hospital - 6W,3560 Bathurst Street,Hospital-Chronic Care,Respiratory,Coronavirus,2021-01-21,2021-02-12,Inactive,-79.4361036,43.7292745
 2276,MacKenzie Health-RCC - 3E & 3W,2111 Finch Avenue West,Hospital-Chronic Care,Respiratory,Coronavirus,2021-01-21,2021-02-05,Inactive,-79.5260221,43.7536378
 2277,Scarborough Health Network-Centenary Hospital - Y9E,2867 Ellesmere Road,Hospital-Acute Care,Respiratory,Coronavirus,2021-01-21,2021-02-05,Inactive,-79.204964,43.78009
@@ -2294,7 +2158,6 @@
 2292,West Park Healthcare Centre - 2EC,82 Buttonwood Avenue,Hospital-Acute Care,Respiratory,Coronavirus,2021-01-14,2021-02-05,Inactive,-79.5098225,43.687805
 2293,West Park Healthcare Centre - 3EB,82 Buttonwood Avenue,Hospital-Chronic Care,Respiratory,Coronavirus,2021-01-14,2021-02-02,Inactive,-79.5098225,43.687805
 2294,William Osler Health System - 10th Fl,101 Humber College Boulevard,Hospital-Acute Care,Respiratory,Coronavirus,2021-01-14,2021-02-27,Inactive,-79.5991896,43.7306053
-2295,University Health Network - Toronto Western Hospital - 6B,399 Bathrust Street,Hospital-Acute Care,Respiratory,Coronavirus,2021-01-13,2021-01-25,Inactive,,
 2296,Humber River Hospital - Wilson - 13 East,1235 Wilson Avenue,Hospital-Acute Care,Respiratory,Coronavirus,2021-01-12,2021-01-25,Inactive,-79.4894019,43.7227577
 2297,Mon Sheong Scarborough,2030 McNicoll Avenue,LTCH,Respiratory,Coronavirus,2021-01-12,2021-02-18,Inactive,-79.2994857,43.8128599
 2298,North York General Hospital - General Site - 6 West,4001 Leslie Street,Hospital-Acute Care,Respiratory,Coronavirus,2021-01-12,2021-02-10,Inactive,-79.362213,43.7699003
@@ -2319,7 +2182,6 @@
 2317,University Health Network - Bickle Centre - 3South,130 Dunn Avenue,Hospital-Acute Care,Respiratory,Coronavirus,2021-01-07,2021-01-20,Inactive,-79.433068,43.634967
 2318,William Osler Health System - 7 West,101 Humber College Boulevard,Hospital-Acute Care,Respiratory,Coronavirus,2021-01-07,2021-02-01,Inactive,-79.5991896,43.7306053
 2319,Nisbet Lodge,740 Pape Avenue,LTCH,Respiratory,Coronavirus,2021-01-06,2021-01-29,Inactive,-79.3456271,43.6804485
-2320,Toronto East Health Network-Atrium at Kew Beach -,500 Kingston Road - 3rd Fl,Hospital-Chronic Care,Respiratory,Coronavirus,2021-01-06,2021-02-03,Inactive,,
 2321,Unity Health Toronto - Providence Healthcare - B4,3276 St. Clair Avenue East,Hospital-Chronic Care,Respiratory,Coronavirus,2021-01-06,2021-01-25,Inactive,-79.2861565,43.7135926
 2322,Unity Health Toronto-St. Joseph's Health Centre - 3M,30 The Queensway,Hospital-Acute Care,Respiratory,Coronavirus,2021-01-06,2021-01-22,Inactive,-79.450101,43.639359
 2323,Cedarvale Terrace,429 Walmer Road,LTCH,Respiratory,Coronavirus,2021-01-05,2021-02-16,Inactive,-79.412483,43.685423
@@ -2465,7 +2327,6 @@
 2463,"The Village of Humber Heights - Alderwood, Brule & Lambton",2245 Lawrence Ave W,LTCH,Respiratory,Influenza A,2022-12-05,2022-12-22,Inactive,-79.527245,43.6972121
 2464,University Health Network - Toronto General - 14ES,200 Elizabeth Street,Hospital-Acute Care,Respiratory,Coronavirus,2022-12-05,2022-12-17,Inactive,-79.3869528,43.6583672
 2465,Unity Health Toronto - Houses of Providence - Maple House - 1st Fl West,3276 St Clair Ave E,LTCH,Respiratory,Coronavirus,2022-12-04,2022-12-29,Inactive,-79.2861565,43.7135926
-2466,"Leaside Retirement Residence - Bldg 10, 2nd Fl",10 -14 William Morgan Drive,Retirement Home,Respiratory,Coronavirus,2022-12-03,2023-01-16,Inactive,,
 2467,"The Village of Humber Heights - Lambton, Islington, Weston, Brule, Wadsworth & Alderwood",2245 Lawrence Ave W,LTCH,Respiratory,Coronavirus,2022-12-03,2023-01-30,Inactive,-79.527245,43.6972121
 2468,Villa Colombo Homes for the Aged - 1st Fl Fidani,40 Playfair Ave,LTCH,Respiratory,Coronavirus,2022-12-03,2022-12-21,Inactive,-79.45668174072816,43.71094909999999
 2469,Elm Grove Living Centre - 2nd Fl,35 Elm Grove Ave,LTCH,Respiratory,Respiratory syncytial virus,2022-12-02,2022-12-13,Inactive,-79.43074080619229,43.6403384
@@ -2477,7 +2338,6 @@
 2475,Castleview Wychwood Towers - 7th Fl,351 Christie St,LTCH,Respiratory,Influenza A,2022-11-30,2022-12-09,Inactive,-79.42113793274277,43.673349
 2476,Extendicare Guildwood - East Wing & West Wing Spur 1,60 Guildwood Pky,LTCH,Respiratory,Influenza A,2022-11-30,2022-12-14,Inactive,-79.203089,43.7462823
 2477,Isabel and Arthur Meighen Manor - Lawrence & Fisher Unit,155 Millwood Rd,LTCH,Respiratory,Influenza A,2022-11-30,2022-12-16,Inactive,-79.39273938941177,43.70006920470588
-2478,Lakeshore Lodge - 2nd Fl South,3197 Lakeshore Blvd W,LTCH,Respiratory,Influenza A,2022-11-30,2022-12-05,Inactive,,
 2479,Nisbet Lodge - 3rd & 6th Fl,740 Pape Ave,LTCH,Respiratory,Respiratory syncytial virus,2022-11-30,2022-12-30,Inactive,-79.3456271,43.6804485
 2480,Rayoak Place - 1st Fl,1340 York Mills Rd,Retirement Home,Respiratory,Coronavirus,2022-11-30,2022-12-18,Inactive,-79.320071,43.76317
 2481,Suomi Koti Nursing Home - 7th Fl,795 Eglinton Ave E,LTCH,Respiratory,Unable to identify,2022-11-30,2022-12-16,Inactive,-79.3669906,43.7129848
@@ -2518,7 +2378,6 @@
 2516,Terraces of Baycrest - 2nd Fl,55 Ameer Ave,Retirement Home,Respiratory,Coronavirus,2022-11-24,2022-12-15,Inactive,-79.4410166,43.7294379
 2517,"The Heritage Nursing Home - 2nd, 3rd & 4th Fl",1195 Queen St E,LTCH,Respiratory,Influenza A,2022-11-24,2022-12-20,Inactive,-79.3316241,43.66280613333333
 2518,Ukrainian Canadian Care Centre - 2nd Fl,60 Richview Rd,LTCH,Respiratory,Influenza A,2022-11-24,2022-12-08,Inactive,-79.5200627,43.6838785
-2519,Amica Bayview Gardens - 3rd Fl,19 Reans Dr,LTCH,Respiratory,Influenza A,2022-11-23,2022-12-02,Inactive,,
 2520,Baycrest Hospital - H7W,3560 Bathurst Street,Hospital-Chronic Care,Respiratory,Coronavirus,2022-11-23,2022-12-22,Inactive,-79.4361036,43.7292745
 2521,True Davidson Acres - 2nd & 4th Fl,200 Dawes Rd,LTCH,Respiratory,Influenza A,2022-11-23,2023-01-10,Inactive,-79.298175,43.69582
 2522,UHN - Toronto Western Hospital - 3B,399 Bathurst St,Hospital-Acute Care,Respiratory,Influenza A,2022-11-23,2022-12-09,Inactive,-79.4059789,43.6537982
@@ -2755,9 +2614,7 @@
 2753,Sinai Health System - Mount Sinai - Core Lab (Transfusion Medicine),600 University Avenue,Hospital-Acute Care,Respiratory,Coronavirus,2022-09-23,2022-10-04,Inactive,-79.390445,43.657536
 2754,Unity Health Toronto - St. Joseph's - 4M,30 The Queensway,Hospital-Acute Care,Respiratory,Coronavirus,2022-09-23,2022-10-28,Inactive,-79.450101,43.639359
 2755,William Osler Health System - Etobicoke - 9E,101 Humber College Boulevard,Hospital-Acute Care,Respiratory,Coronavirus,2022-09-23,2022-10-04,Inactive,-79.5991896,43.7306053
-2756,"Lakeshore Lodge - 2 South, 2 North & 3 South",3197 Lakeshore Blvd W,LTCH,Respiratory,Coronavirus,2022-09-21,2022-10-14,Inactive,,
 2757,Sinai Health System - Hennick Bridgepoint - 7S,1 Bridgepoint Dr,Hospital-Chronic Care,Respiratory,Coronavirus,2022-09-21,2022-10-01,Inactive,-79.3554469,43.6658608
-2758,Tony Stacey Centre for Veterans' Care - 2nd Fl,59 Lawson Rd E,LTCH,Respiratory,Enterovirus/Rhinovirus,2022-09-21,2022-09-30,Inactive,,
 2759,"Chartwell Scarlett Heights Retirement Residence - Dining Rm, 2nd, 7th & 8th Fl",4005 Eglinton Avenue W,Retirement Home,Respiratory,Coronavirus,2022-09-20,2022-11-07,Inactive,-79.5125369,43.6836338
 2760,Dom Lipa - K-Wing,52 Neilson Drive,LTCH,Respiratory,Coronavirus,2022-09-20,2022-09-28,Inactive,-79.56570787160844,43.629111449999996
 2761,"The Kensington Gardens - 1E, 2E, 3W & Admin",25 Brunswick Ave,LTCH,Respiratory,Coronavirus,2022-09-20,2022-10-27,Inactive,-79.40368867487679,43.6581346
@@ -2776,9 +2633,7 @@
 2774,The Kensington Gardens (North) - Administration Office & 2 East,45 Brunswick Ave,LTCH,Respiratory,Coronavirus,2022-09-14,2022-10-14,Inactive,-79.404305,43.658784
 2775,Trillium Health Partners-McCall Continuing Care - Chronic/Rehab - 4th Fl,140 Sherway Drive,Hospital-Chronic Care,Respiratory,Coronavirus,2022-09-13,2022-09-29,Inactive,-79.562235,43.610033
 2776,Altamont Care Community - Wing 1,92 Island Rd,LTCH,Respiratory,Coronavirus,2022-09-12,2022-09-22,Inactive,-79.13997840570175,43.7988385
-2777,The Briton House - North Tower - 8th Fl,700 & 720 Mount Pleasant Road,Retirement Home,Respiratory,Coronavirus,2022-09-12,2022-09-27,Inactive,,
 2778,University Health Network - Toronto General - ES 14,200 Elizabeth Street,Hospital-Acute Care,Respiratory,Coronavirus,2022-09-12,2022-09-27,Inactive,-79.3869528,43.6583672
-2779,Fairview Nursing Home - 1st & 3rd Fl,14 Cross St,LTCH,Respiratory,Coronavirus,2022-09-11,2022-10-03,Inactive,,
 2780,Salvation Army Toronto Grace Health Centre - PACR - Rehab,650 Church St,Hospital-Chronic Care,Respiratory,Coronavirus,2022-09-11,2022-09-17,Inactive,-79.383202,43.670326
 2781,Nisbet Lodge - 6th & 7th Fl,740 Pape Ave,LTCH,Respiratory,Coronavirus,2022-09-10,2022-10-03,Inactive,-79.3456271,43.6804485
 2782,Unity Health Toronto - St. Joseph's - 4LM - Medicine,30 The Queensway,Hospital-Acute Care,Respiratory,Coronavirus,2022-09-10,2022-09-20,Inactive,-79.450101,43.639359
@@ -2982,7 +2837,6 @@
 2980,Delmanor Northtown - 7th Fl,5351 Yonge St,Retirement Home,Respiratory,Coronavirus,2022-07-10,2022-08-03,Inactive,-79.4142461,43.7752997
 2981,Extendicare Bayview - West & East Unit,550 Cummer Ave,LTCH,Respiratory,Coronavirus,2022-07-10,2022-08-14,Inactive,-79.3904512,43.7932278
 2982,Cedarbrook Lodge Retirement Residence - 3rd Fl,520 Markham Road,Retirement Home,Respiratory,Coronavirus,2022-07-09,2022-07-25,Inactive,-79.2241579,43.7554562
-2983,Leaside Retirement Residence - Building 10 (3rd & 7th Fl),10 -14 William Morgan Drive,Retirement Home,Respiratory,Coronavirus,2022-07-07,2022-08-10,Inactive,,
 2984,"McCowan Retirement Residence - 2nd, 3rd, 4th & 5th Fl",2881 Eglinton Avenue E,LTCH,Respiratory,Coronavirus,2022-07-07,2022-07-25,Inactive,-79.24023145999999,43.7382847
 2985,RCC - Mackenzie Health Hospital - Finch Site - 4 West,2111 Finch Ave W,Hospital-Chronic Care,Respiratory,Coronavirus,2022-07-07,2022-07-22,Inactive,-79.5260221,43.7536378
 2986,Scarborough Health Network - Scarborough General - 4C - Medicine,3050 Lawrence Ave E,Hospital-Acute Care,Respiratory,Coronavirus,2022-07-07,2022-08-02,Inactive,-79.246316,43.7566259
@@ -3053,7 +2907,6 @@
 3051,Chartwell Trilogy Long Term Care Residence - 3rd Fl,340 McCowan Rd,LTCH,Respiratory,Coronavirus,2022-06-14,2022-07-01,Inactive,-79.238633,43.73837
 3052,Norfinch Care Community - Unit 2A & 2B,22 Norfinch Dr,LTCH,Respiratory,Coronavirus,2022-06-14,2022-07-09,Inactive,-79.52465315351665,43.75628127207558
 3053,Cedarvale Terrace Long Term Care Home - 5th Fl,429 Walmer Road,LTCH,Respiratory,Influenza A,2022-06-13,2022-07-12,Inactive,-79.412483,43.685423
-3054,The Hospital for Sick Children - Unit 8B,555 University Ave E,Hospital-Acute Care,Respiratory,Rhinovirus,2022-06-13,2022-06-24,Inactive,,
 3055,Wesburn Manor - 2N & 2S,400 The West Mall,LTCH,Respiratory,Rhinovirus,2022-06-13,2022-06-22,Inactive,-79.567569,43.643719
 3056,Wesburn Manor - 3N & 3S,400 The West Mall,LTCH,Respiratory,Coronavirus,2022-06-13,2022-06-21,Inactive,-79.567569,43.643719
 3057,Eatonville Care Centre - Unit 3,420 The East Mall,LTCH,Respiratory,Coronavirus,2022-06-11,2022-08-08,Inactive,-79.560686,43.64745
@@ -3156,7 +3009,6 @@
 3154,Copernicus Lodge - 3 South & 3 North,66 Roncesvalles Ave,LTCH,Enteric,Norovirus-like,2022-05-04,2022-05-20,Inactive,-79.447337,43.640435
 3155,Salvation Army Toronto Grace Health Centre - 5th Fl (Post Acute Care Rehab),650 Church St,Hospital-Chronic Care,Respiratory,Coronavirus,2022-05-04,2022-05-23,Inactive,-79.383202,43.670326
 3156,The Wexford - 2nd & 4th Fl,1860 Lawrence Ave E,LTCH,Respiratory,Coronavirus,2022-05-04,2022-06-09,Inactive,-79.3024148,43.7438388
-3157,Altamont Care Community - Wing 1 & 2,92 Island Rd E,LTCH,Respiratory,Metapneumovirus,2022-05-03,2022-05-20,Inactive,,
 3158,Tendercare Living Centre - 3rd Fl East wing,1020 McNicoll Ave,LTCH,Respiratory,Coronavirus,2022-05-03,2022-05-17,Inactive,-79.3361316,43.8042581
 3159,Unity Health Toronto - St. Michael's - 6PGT,30 Bond Street,Hospital-Acute Care,Respiratory,Coronavirus,2022-05-03,2022-05-12,Inactive,-79.3784327,43.6542289
 3160,Yee Hong Centre - Scarborough Finch - Kitchen,60 Scottfield Dr,LTCH,Respiratory,Coronavirus,2022-05-03,2022-05-09,Inactive,-79.25453972658863,43.8086905
@@ -3200,13 +3052,10 @@
 3198,University Health Network - Toronto Western - 8B,399 Bathurst Street,Hospital-Acute Care,Respiratory,Coronavirus,2022-04-21,2022-05-24,Inactive,-79.4059789,43.6537982
 3199,University Health Network - Toronto Western - 9A,399 Bathurst Street,Hospital-Acute Care,Respiratory,Coronavirus,2022-04-21,2022-05-05,Inactive,-79.4059789,43.6537982
 3200,West Park Healthcare Centre - 3WD,82 Buttonwood Avenue,Hospital-Chronic Care,Respiratory,Coronavirus,2022-04-21,2022-05-03,Inactive,-79.5098225,43.687805
-3201,Centre for Addiction and Mental Health - Queen Site -,1001 Queen Street West - Unit 1-2,Hospital-Psychiatric,Respiratory,Coronavirus,2022-04-20,2022-05-09,Inactive,,
 3202,Cheltenham Care Community - 2nd Fl,5935 Bathurst St,LTCH,Respiratory,Coronavirus,2022-04-20,2022-05-18,Inactive,-79.44484073636364,43.78182523636364
 3203,"Dom Lipa - West 1, West 2, K-Wing, & Basement Kitchen",52 Neilson Drive,LTCH,Respiratory,Coronavirus,2022-04-20,2022-05-17,Inactive,-79.56570787160844,43.629111449999996
 3204,Jewish Home for the Aged - 4RF,3560 Bathurst St,LTCH,Respiratory,Coronavirus,2022-04-20,2022-05-16,Inactive,-79.4361036,43.7292745
 3205,Carefree Lodge - 2nd Fl,306 Finch Ave E,LTCH,Respiratory,Coronavirus,2022-04-19,2022-05-04,Inactive,-79.392388,43.7850419
-3206,Centre for Addiction and Mental Health - Queen Site -,1001 Queen Street West - Unit 1-4,Hospital-Psychiatric,Respiratory,Coronavirus,2022-04-19,2022-05-06,Inactive,,
-3207,"Chartwell Trilogy Long Term Care Residence - 1st, 2nd -",340 McCowan Rd - 3rd & 4th Fl,LTCH,Respiratory,Coronavirus,2022-04-19,2022-04-25,Inactive,,
 3208,Rekai Centre - Wellesley Central Place - 2 West,160 Wellesley St E,LTCH,Respiratory,Influenza A,2022-04-19,2022-05-01,Inactive,-79.375496,43.667154
 3209,"The Dunfield Retirement Residence - Toronto - 8th ,10th, Dining & Bistro",77 Dunfield Ave,Retirement Home,Respiratory,Coronavirus,2022-04-19,2022-05-14,Inactive,-79.3950841875,43.7066295625
 3210,Jewish Home for the Aged - 3EI,3560 Bathurst St,LTCH,Respiratory,Coronavirus,2022-04-18,2022-04-28,Inactive,-79.4361036,43.7292745
@@ -3225,22 +3074,18 @@
 3223,Humber River Hospital - Wilson - 9 East,1235 Wilson Avenue,Hospital-Acute Care,Respiratory,Coronavirus,2022-04-13,2022-04-22,Inactive,-79.4894019,43.7227577
 3224,Mon Sheong Scarborough Long Term Care Centre - Ground Fl,2030 McNicoll Ave,LTCH,Respiratory,Coronavirus,2022-04-13,2022-04-22,Inactive,-79.2994857,43.8128599
 3225,West Park Healthcare Centre - 3EC,82 Buttonwood Avenue,Hospital-Chronic Care,Respiratory,Coronavirus,2022-04-13,2022-04-24,Inactive,-79.5098225,43.687805
-3226,Centre for Addiction and Mental Health - Queen Site -,1001 Queen Street West - Unit 1-5,Hospital-Psychiatric,Respiratory,Coronavirus,2022-04-12,2022-04-26,Inactive,,
 3227,"Extendicare Rouge Valley - Toronto - 1st Fl Clark House, Morrish House, Basement Kitchen & Nursing Clerk Rm (3rd Fl)",551 Conlins Rd,LTCH,Respiratory,Coronavirus,2022-04-12,2022-06-04,Inactive,-79.1894286,43.8029937
-3228,"Leaside Retirement Residence - Building 14, 6th Fl",10 -14 William Morgan Drive,Retirement Home,Respiratory,Coronavirus,2022-04-12,2022-06-09,Inactive,,
 3229,Salvation Army Toronto Grace Health Centre - 4th Fl,650 Church St,Hospital-Chronic Care,Respiratory,Coronavirus,2022-04-12,2022-04-25,Inactive,-79.383202,43.670326
 3230,University Health Network - Toronto Western - 8A - GIM,399 Bathurst Street,Hospital-Acute Care,Respiratory,Coronavirus,2022-04-12,2022-04-30,Inactive,-79.4059789,43.6537982
 3231,"Villa Colombo Homes for the Aged - 2 Fidani, 3 Fidani, & 3 Fusco",40 Playfair Ave,LTCH,Respiratory,Coronavirus,2022-04-12,2022-06-08,Inactive,-79.45668174072816,43.71094909999999
 3232,Cedarvale Terrace - 2nd & 3rd Fl,429 Walmer Road,LTCH,Respiratory,Coronavirus,2022-04-11,2022-05-18,Inactive,-79.412483,43.685423
 3233,Centennial Park Place,25 Centennial Park Rd,Retirement Home,Respiratory,Coronavirus,2022-04-11,2022-04-24,Inactive,-79.5826865,43.6537573
 3234,"Chartwell Grenadier Retirement Residence - A0, A3, A5, & C5",2100 Bloor Street W,Retirement Home,Respiratory,Coronavirus,2022-04-11,2022-05-16,Inactive,-79.4711165,43.6524038
-3235,Sunnybrook Health Sciences Centre - Bayview Campus -,2075 Bayview Avenue - Unit PICU,Hospital-Acute Care,Respiratory,Coronavirus,2022-04-11,2022-04-24,Inactive,,
 3236,Unity Health Toronto - St. Joseph's - 3M,30 The Queensway,Hospital-Acute Care,Respiratory,Coronavirus,2022-04-11,2022-04-30,Inactive,-79.450101,43.639359
 3237,Sunnybrook Health Sciences Centre - Bayview Campus - D5,2075 Bayview Avenue,Hospital-Acute Care,Respiratory,Coronavirus,2022-04-10,2022-04-20,Inactive,-79.3792695,43.7235801
 3238,University Health Network - Princess Margaret - 14A,610 University Avenue,Hospital-Acute Care,Respiratory,Coronavirus,2022-04-10,2022-04-27,Inactive,-79.390408,43.65813
 3239,Unity Health Toronto - St. Joseph's - 2LM,30 The Queensway,Hospital-Acute Care,Respiratory,Coronavirus,2022-04-09,2022-04-18,Inactive,-79.450101,43.639359
 3240,Better Living at Thompson House - 3rd Fl,1 Overland Dr,LTCH,Respiratory,Coronavirus,2022-04-08,2022-05-27,Inactive,-79.347342,43.732464
-3241,Hazelton Place Retirement Residence -,111 Avenue Rd - Lower Lobby Staff Break Rm,Retirement Home,Respiratory,Coronavirus,2022-04-08,2022-04-27,Inactive,,
 3242,Sunnybrook Health Sciences Centre - Bayview Campus - B4,2075 Bayview Avenue,Hospital-Acute Care,Respiratory,Coronavirus,2022-04-08,2022-04-25,Inactive,-79.3792695,43.7235801
 3243,Fieldstone Commons Care Community - Unit 4A,1000 Ellesmere Rd,LTCH,Respiratory,Coronavirus,2022-04-07,2022-04-25,Inactive,-79.277814,43.766995
 3244,Marynard Nursing Home - 2nd Fl,28 Halton St.,LTCH,Respiratory,Coronavirus,2022-04-07,2022-04-13,Inactive,-79.4191210318182,43.64875234090909
@@ -3252,16 +3097,12 @@
 3250,Rayoak Place,1340 York Mills Rd,Retirement Home,Respiratory,Coronavirus,2022-04-06,2022-05-05,Inactive,-79.320071,43.76317
 3251,Sunnybrook Health Sciences Centre - St. John's Rehab - A1,285 Cummer Avenue,Hospital-Chronic Care,Respiratory,Coronavirus,2022-04-06,2022-04-24,Inactive,-79.40424676206896,43.789755968965515
 3252,Sunnybrook Health Sciences Centre - St. John's Rehab - A4,285 Cummer Avenue,Hospital-Chronic Care,Respiratory,Coronavirus,2022-04-06,2022-04-18,Inactive,-79.40424676206896,43.789755968965515
-3253,The Briton House - North Tower & South Tower,700 & 720 Mount Pleasant Road,Retirement Home,Respiratory,Coronavirus,2022-04-06,2022-05-04,Inactive,,
-3254,Centre for Addiction and Mental Health - Queen Site -,1001 Queen Street West - Unit PRT7,Hospital-Psychiatric,Respiratory,Coronavirus,2022-04-05,2022-04-19,Inactive,,
-3255,North York General Hospital - Seniors' Health Centre -,2 Buchan Crt - 4th Fl,LTCH,Respiratory,Coronavirus,2022-04-05,2022-04-18,Inactive,,
 3256,Sunnybrook Health Sciences Centre - St. John's Rehab - A3,285 Cummer Avenue,Hospital-Chronic Care,Respiratory,Coronavirus,2022-04-05,2022-04-15,Inactive,-79.40424676206896,43.789755968965515
 3257,Eatonville Care Centre - Etobicoke - 3rd - 5th Fls & Kitchen,420 The East Mall,LTCH,Respiratory,Coronavirus,2022-04-04,2022-04-30,Inactive,-79.560686,43.64745
 3258,"Extendicare Guildwood - West Wing, East Spur 2 & Main Kitchen",60 Guildwood Pky,LTCH,Respiratory,Coronavirus,2022-04-04,2022-06-04,Inactive,-79.203089,43.7462823
 3259,Lakeshore Lodge - 2 North,3197 Lakeshore Blvd,LTCH,Respiratory,Coronavirus,2022-04-04,2022-05-06,Inactive,-79.51846783100001,43.597066749999996
 3260,Michael Garron Hospital - B3,825 Coxwell Avenue,Hospital-Acute Care,Respiratory,Coronavirus,2022-04-04,2022-04-13,Inactive,-79.3236782,43.6896572
 3261,One Kenton Place - Basement,1-3 Kenton Dr,Retirement Home,Respiratory,Coronavirus,2022-04-04,2022-04-12,Inactive,-79.4420782,43.7785118
-3262,Sunnybrook Health Sciences Centre - Bayview Campus -,2075 Bayview Avenue - K1C & K1E,Hospital-Acute Care,Respiratory,Coronavirus,2022-04-04,2022-04-14,Inactive,,
 3263,Scarborough Health Network - Centenary - 9E,2867 Ellesmere Road,Hospital-Acute Care,Respiratory,Coronavirus,2022-04-03,2022-04-14,Inactive,-79.204964,43.78009
 3264,Weston Gardens Retirement Residence - 2nd & 4th Fl,303 Queens Dr,Retirement Home,Respiratory,Coronavirus,2022-04-02,2022-05-09,Inactive,-79.502215,43.70758
 3265,Bradgate Arms - 5th Fl,54 Foxbar Rd,Retirement Home,Respiratory,Coronavirus,2022-04-01,2022-04-24,Inactive,-79.40082,43.6866
@@ -3303,28 +3144,20 @@
 3301,Midland Gardens Care Community - 5th Fl,130 Midland Ave,LTCH,Enteric,Unable to identify,2022-03-15,2022-03-25,Inactive,-79.2469846,43.7077593
 3302,Bendale Acres - 3rd Fl,2920 Lawrence Ave E,LTCH,Respiratory,Coronavirus,2022-03-14,2022-04-26,Inactive,-79.2516534,43.7543919
 3303,Michael Garron Hospital - Withdrawal Management Unit,825 Coxwell Avenue,Hospital-Acute Care,Respiratory,Coronavirus,2022-03-14,2022-03-15,Inactive,-79.3236782,43.6896572
-3304,Fairview Nursing Home - Schlegel Villages - 2nd Fl,14 Cross St,LTCH,Respiratory,Coronavirus,2022-03-12,2022-05-09,Inactive,,
-3305,Scarborough Health Network - Centenary - 3W -,2867 Ellesmere Road - Complex Continuing Care,Hospital-Acute Care,Respiratory,Coronavirus,2022-03-11,2022-03-24,Inactive,,
 3306,"The Village of Humber Heights - Emma, Williamsburg East & West, Becker 3rd, 4th, 5th Fl & Egerton",2245 Lawrence Avenue West,Retirement Home,Respiratory,Coronavirus,2022-03-11,2022-05-30,Inactive,-79.527245,43.6972121
 3307,Cedarbrook Lodge Retirement Residence - 4th Fl,520 Markham Road,LTCH,Respiratory,Coronavirus,2022-03-10,2022-03-29,Inactive,-79.2241579,43.7554562
 3308,Isabel and Arthur Meighen Manor - Lawrence Unit,155 Millwood Road,LTCH,Enteric,Norovirus-like,2022-03-07,2022-03-23,Inactive,-79.39273938941177,43.70006920470588
-3309,Scarborough Health Network - Centenary - 9W,2867 Ellesmere Road -General Medicine Unit,Hospital-Acute Care,Respiratory,Coronavirus,2022-03-07,2022-03-18,Inactive,,
-3310,Rekai Centre - Sherbourne Place - Ground Fl -,345 Sherbourne St - Management Office & Craft Rm,LTCH,Respiratory,Coronavirus,2022-03-05,2022-03-29,Inactive,,
 3311,The O'Neill Centre- 5th Fl,33 Christie St,LTCH,Respiratory,Coronavirus,2022-03-05,2022-03-28,Inactive,-79.4186528,43.6647391
-3312,The Salvation Army - Toronto Grace Health Centre -,650 Dixon Rd - Specialized Care Centre,Hospital-Chronic Care,Respiratory,Coronavirus,2022-03-05,2022-03-20,Inactive,,
 3313,Harmony Hills Care Community - 2B,1800 O'Connor Dr,LTCH,Enteric,Norovirus-like,2022-03-04,2022-03-16,Inactive,-79.30522822012195,43.7204409
 3314,Labdara Lithuanian Nursing Home - 2nd Fl,5 Resurrection Rd,LTCH,Respiratory,Coronavirus,2022-03-04,2022-04-02,Inactive,-79.530938,43.644155
-3315,Sunnybrook Health Sciences Centre - Veterans Centre -,2075 Bayview Ave - LFSE,LTCH,Respiratory,Enterovirus/Rhinovirus,2022-03-03,2022-03-14,Inactive,,
 3316,William Osler Health System - Etobicoke - 7E Cardiology,101 Humber College Boulevard,Hospital-Acute Care,Respiratory,Coronavirus,2022-03-03,2022-03-15,Inactive,-79.5991896,43.7306053
 3317,Bayshore - 6th Fl,221 Milner Ave,Transitional Care,Respiratory,Coronavirus,2022-03-02,2022-03-20,Inactive,-79.240031,43.7887289
 3318,The Village of Humber Heights - Alderwood,2245 Lawrence Ave W,LTCH,Respiratory,Respiratory syncytial virus,2022-02-28,2022-03-07,Inactive,-79.527245,43.6972121
 3319,St. Hilda's Towers - 3rd Fl,2339 Dufferin St,Transitional Care,Respiratory,Coronavirus,2022-02-26,2022-03-18,Inactive,-79.449681,43.69459
 3320,Sunnybrook Health Sciences Centre - St. John's Rehab - A4,285 Cummer Avenue,Hospital-Chronic Care,Respiratory,Coronavirus,2022-02-26,2022-03-22,Inactive,-79.40424676206896,43.789755968965515
-3321,Scarborough Health Network - Centenary -,2867 Ellesmere Road - 10W (Mental Health Unit),Hospital-Acute Care,Respiratory,Coronavirus,2022-02-25,2022-03-08,Inactive,,
 3322,Lakeside Long Term Care Centre - 4th Fl Office Area,150 Dunn Ave,LTCH,Respiratory,Coronavirus,2022-02-23,2022-03-07,Inactive,-79.4326664,43.6356584
 3323,Seven Oaks - Office,9 Neilson Rd,LTCH,Respiratory,Coronavirus,2022-02-23,2022-03-05,Inactive,-79.2034339,43.7794412
 3324,University Health Network - Toronto General - 6 MA,200 Elizabeth Street,Hospital-Acute Care,Respiratory,Coronavirus,2022-02-23,2022-03-08,Inactive,-79.3869528,43.6583672
-3325,"True Davidson Acres - 1st, 2nd, 3rd, 4th Fl -",200 Dawes Rd - Basement/Kitchen,LTCH,Respiratory,Coronavirus,2022-02-22,2022-04-14,Inactive,,
 3326,William Osler Health System - Etobicoke - 10E Medicine,101 Humber College Boulevard,Hospital-Acute Care,Respiratory,Coronavirus,2022-02-22,2022-03-04,Inactive,-79.5991896,43.7306053
 3327,Kipling Acres - 2N & Kitchen,2233 Kipling Ave,LTCH,Respiratory,Coronavirus,2022-02-20,2022-03-08,Inactive,-79.571631,43.725014
 3328,Sts. Peter and Paul Residence,221 Milner Ave,Retirement Home,Respiratory,Coronavirus,2022-02-20,2022-03-25,Inactive,-79.240031,43.7887289
@@ -3365,21 +3198,15 @@
 3363,Sinai Health System - Hennick Bridgepoint Hospital - 7N,1 Bridgepoint Dr,Hospital-Chronic Care,Respiratory,Coronavirus,2022-01-22,2022-02-03,Inactive,-79.3554469,43.6658608
 3364,Baycrest Hospital - North York - 7 West,3560 Bathurst Street,Hospital-Chronic Care,Respiratory,Coronavirus,2022-01-20,2022-02-07,Inactive,-79.4361036,43.7292745
 3365,Humber River Hospital - Church Site - C2N,200 Church Street,Hospital-Chronic Care,Respiratory,Coronavirus,2022-01-20,2022-02-04,Inactive,-79.510442,43.709345
-3366,Scarborough Health Network - Birchmount - Scarborough -,3030 Birchmount Rd - G3C- Mental Health,Hospital-Acute Care,Respiratory,Coronavirus,2022-01-20,2022-02-03,Inactive,,
 3367,Sinai Health System - Mount Sinai - 10N,600 University Avenue,Hospital-Acute Care,Respiratory,Coronavirus,2022-01-20,2022-02-06,Inactive,-79.390445,43.657536
 3368,Scarborough Health Network - Centenary - 9E,2867 Ellesmere Road,Hospital-Acute Care,Respiratory,Coronavirus,2022-01-19,2022-02-08,Inactive,-79.204964,43.78009
-3369,Scarborough Health Network - Scarborough General -,3030 Lawrence Ave. E. - 2C-Nephorology,Hospital-Acute Care,Respiratory,Coronavirus,2022-01-19,2022-02-02,Inactive,,
-3370,Scarborough Health Network - Scarborough General -,3030 Lawrence Ave. E.- T 9-Medicine,Hospital-Acute Care,Respiratory,Coronavirus,2022-01-19,2022-01-30,Inactive,,
 3371,Unity Health Toronto - St. Joseph's - 3M,30 The Queensway,Hospital-Acute Care,Respiratory,Coronavirus,2022-01-19,2022-02-03,Inactive,-79.450101,43.639359
 3372,William Osler Health System - Etobicoke - 9W CCC,101 Humber College Boulevard,Hospital-Acute Care,Respiratory,Coronavirus,2022-01-19,2022-02-01,Inactive,-79.5991896,43.7306053
-3373,Scarborough Health Network - Scarborough General -,3030 Lawrence Ave. E. - 4E Medicine,Hospital-Acute Care,Respiratory,Coronavirus,2022-01-18,2022-02-05,Inactive,,
 3374,Trillium Health Partners-McCall Continuing Care - 3rd Fl,140 Sherway Drive,Hospital-Chronic Care,Respiratory,Coronavirus,2022-01-18,2022-01-23,Inactive,-79.562235,43.610033
 3375,Unity Health Toronto - St. Michael's - 7CC South,30 Bond Street,Hospital-Acute Care,Respiratory,Coronavirus,2022-01-18,2022-01-27,Inactive,-79.3784327,43.6542289
 3376,Amica Bayview Village - 2nd Fl,15 Barberry Pl,Retirement Home,Respiratory,Coronavirus,2022-01-17,2022-02-12,Inactive,-79.3841852,43.7658146
-3377,Centre for Addiction and Mental Health - Queen Street Site -,1001 Queen Street West - Unit 1-3,Hospital-Chronic Care,Respiratory,Coronavirus,2022-01-17,2022-01-30,Inactive,,
 3378,Pine Villa Seniors Transitional Care - 4th Fl,1035 Eglinton Avenue W,Hospital-Chronic Care,Respiratory,Coronavirus,2022-01-17,2022-01-25,Inactive,-79.4326308,43.6993415
 3379,Runnymede Healthcare Centre - 4W,625 Runnymede Road,Hospital-Chronic Care,Respiratory,Coronavirus,2022-01-17,2022-02-04,Inactive,-79.481008,43.664497
-3380,Centre for Addiction and Mental Health - Queen Street Site -,1001 Queen Street West - Unit 3-1,Hospital-Chronic Care,Respiratory,Coronavirus,2022-01-16,2022-01-28,Inactive,,
 3381,Scarborough Health Network - Scarborough General - H6T,3030 Lawrence Ave. E.,Hospital-Acute Care,Respiratory,Coronavirus,2022-01-16,2022-02-02,Inactive,-79.24729294445463,43.75528254449458
 3382,West Park Healthcare Centre - 2EC,82 Buttonwood Avenue,Hospital-Chronic Care,Respiratory,Coronavirus,2022-01-16,2022-02-02,Inactive,-79.5098225,43.687805
 3383,Unity Health Toronto - Providence - A5,3276 St. Clair Avenue East,Hospital-Chronic Care,Respiratory,Coronavirus,2022-01-15,2022-01-27,Inactive,-79.2861565,43.7135926
@@ -3387,14 +3214,11 @@
 3385,Markham Stouffville Hospital - Finch Site - 5W,2111 Finch Ave W,Hospital-Chronic Care,Respiratory,Coronavirus,2022-01-14,2022-01-27,Inactive,-79.5260221,43.7536378
 3386,Sinai Health System - Hennick Bridgepoint Hospital - 3S,1 Bridgepoint Dr,Hospital-Chronic Care,Respiratory,Coronavirus,2022-01-14,2022-02-04,Inactive,-79.3554469,43.6658608
 3387,Unity Health Toronto - Providence - B4,3276 St. Clair Avenue East,Hospital-Chronic Care,Respiratory,Coronavirus,2022-01-14,2022-01-28,Inactive,-79.2861565,43.7135926
-3388,Unity Health Toronto - St. Joseph's -,30 The Queensway - Dialysis Unit - Main & Satellite Site,Hospital-Acute Care,Respiratory,Coronavirus,2022-01-14,2022-02-04,Inactive,,
 3389,Villa Karuna Home for Seniors,602 Brimley Rd,Retirement Home,Respiratory,Coronavirus,2022-01-14,2022-02-08,Inactive,-79.2506944,43.7418442
 3390,Baycrest Hospital - 4 West,3560 Bathurst Street,Hospital-Chronic Care,Respiratory,Coronavirus,2022-01-13,2022-01-19,Inactive,-79.4361036,43.7292745
 3391,Centennial Park Place - Kitchen/Dining Room,25 Centennial Park Rd,Retirement Home,Respiratory,Coronavirus,2022-01-13,2022-01-19,Inactive,-79.5826865,43.6537573
 3392,Unity Health Toronto - Houses of Providence - HOP 2 West,3276 St. Clair Avenue East,LTCH,Respiratory,Coronavirus,2022-01-13,2022-01-27,Inactive,-79.2861565,43.7135926
-3393,Unity Health Toronto - St. Michael's -,30 Bond Street - In-Centre Dialysis Unit,Hospital-Acute Care,Respiratory,Coronavirus,2022-01-13,2022-02-04,Inactive,,
 3394,Baycrest Hospital - North York - 7 East,3560 Bathurst Street,Hospital-Chronic Care,Respiratory,Coronavirus,2022-01-12,2022-01-30,Inactive,-79.4361036,43.7292745
-3395,Trillium Health Partners - Moir Family Centre -,150 Sherway Dr - CCC Unit,Hospital-Chronic Care,Respiratory,Coronavirus,2022-01-12,2022-01-30,Inactive,,
 3396,University Health Network - Bickle Centre - North 3,130 Dunn Avenue,Hospital-Chronic Care,Respiratory,Coronavirus,2022-01-12,2022-02-12,Inactive,-79.433068,43.634967
 3397,University Health Network - Toronto Western - 3B,399 Bathurst Street,Hospital-Acute Care,Respiratory,Coronavirus,2022-01-12,2022-01-24,Inactive,-79.4059789,43.6537982
 3398,University Health Network - Toronto Western - 5A,399 Bathurst Street,Hospital-Acute Care,Respiratory,Coronavirus,2022-01-12,2022-02-04,Inactive,-79.4059789,43.6537982
@@ -3404,11 +3228,9 @@
 3402,North York General Hospital - 7N & 7W,4001 Leslie Street,Hospital-Acute Care,Respiratory,Coronavirus,2022-01-11,2022-01-28,Inactive,-79.362213,43.7699003
 3403,North York General Hospital - General Site - 4W,4001 Leslie Street,Hospital-Acute Care,Respiratory,Coronavirus,2022-01-11,2022-01-27,Inactive,-79.362213,43.7699003
 3404,Sunnybrook Health Sciences Centre - St. John's Rehab - A1,285 Cummer Avenue,Hospital-Chronic Care,Respiratory,Coronavirus,2022-01-11,2022-01-23,Inactive,-79.40424676206896,43.789755968965515
-3405,Sunnybrook Health Sciences Centre - Veterans Centre -,2075 Bayview Ave - LFSW,LTCH,Respiratory,Coronavirus,2022-01-11,2022-02-07,Inactive,,
 3406,University Health Network - University Centre - 7S,550 University Avenue,Hospital-Chronic Care,Respiratory,Coronavirus,2022-01-11,2022-01-22,Inactive,-79.389958,43.65667
 3407,University Health Network - University Centre - 8S,550 University Avenue,Hospital-Chronic Care,Respiratory,Coronavirus,2022-01-11,2022-01-25,Inactive,-79.389958,43.65667
 3408,Bradgate Arms - 3rd Fl & Kitchen,54 Foxbar Rd,LTCH,Respiratory,Coronavirus,2022-01-10,2022-01-21,Inactive,-79.40082,43.6866
-3409,Centre for Addiction and Mental Health - Queen Street Site -,1001 Queen Street West - Unit 3-5,Hospital-Chronic Care,Respiratory,Coronavirus,2022-01-10,2022-02-01,Inactive,,
 3410,Salvation Army Toronto Grace Health Centre - 4th Fl,650 Church St,Hospital-Chronic Care,Respiratory,Coronavirus,2022-01-10,2022-01-31,Inactive,-79.383202,43.670326
 3411,Scarborough Health Network - Birchmount - 4B-Stroke Unit,3030 Birchmount Rd.,Hospital-Acute Care,Respiratory,Coronavirus,2022-01-10,2022-01-29,Inactive,-79.309054,43.801891
 3412,Unity Health Toronto - Houses of Providence - HOP 4 West,3276 St. Clair Avenue East,LTCH,Respiratory,Coronavirus,2022-01-10,2022-02-10,Inactive,-79.2861565,43.7135926
@@ -3418,8 +3240,6 @@
 3416,Sinai Health System - Hennick Bridgepoint Hospital - 3N,1 Bridgepoint Dr,Hospital-Chronic Care,Respiratory,Coronavirus,2022-01-09,2022-02-04,Inactive,-79.3554469,43.6658608
 3417,Sinai Health System - Mount Sinai - 9S,600 University Avenue,Hospital-Acute Care,Respiratory,Coronavirus,2022-01-09,2022-01-18,Inactive,-79.390445,43.657536
 3418,University Health Network - Toronto Western - 9A Ortho,399 Bathurst Street,Hospital-Acute Care,Respiratory,Coronavirus,2022-01-09,2022-01-18,Inactive,-79.4059789,43.6537982
-3419,Scarborough Health Network - Scarborough General -,3030 Lawrence Ave. E. - CP3 Surgery,Hospital-Acute Care,Respiratory,Coronavirus,2022-01-08,2022-02-01,Inactive,,
-3420,Scarborough Health Network - Scarborough General -,3030 Lawrence Ave. E. - T7 Medicine,Hospital-Acute Care,Respiratory,Coronavirus,2022-01-08,2022-01-26,Inactive,,
 3421,Unity Health Toronto - St. Joseph's - 2M,30 The Queensway,Hospital-Acute Care,Respiratory,Coronavirus,2022-01-08,2022-01-22,Inactive,-79.450101,43.639359
 3422,William Osler Health System - 9E,101 Humber College Boulevard,Hospital-Acute Care,Respiratory,Coronavirus,2022-01-08,2022-01-23,Inactive,-79.5991896,43.7306053
 3423,Bethseda Home (Belgreen),67 Belgreen Ave,Retirement Home,Respiratory,Coronavirus,2022-01-07,2022-02-15,Inactive,-79.2904608,43.7953215
@@ -3435,7 +3255,6 @@
 3433,Ina Grafton Gage Home,40 Bell Estate Rd,LTCH,Respiratory,Coronavirus,2022-01-06,2022-02-16,Inactive,-79.2753435,43.7058073
 3434,Scarborough Health Network - 3W Margaret Birch Wing (MBW),2867 Ellesmere Road,Hospital-Acute Care,Respiratory,Coronavirus,2022-01-06,2022-01-23,Inactive,-79.204964,43.78009
 3435,Sunnybrook Health Sciences Centre - St. John's Rehab - A2,285 Cummer Avenue,Hospital-Chronic Care,Respiratory,Coronavirus,2022-01-06,2022-01-15,Inactive,-79.40424676206896,43.789755968965515
-3436,Sunnybrook Health Sciences Centre - Veterans Centre -,2075 Bayview Ave - LGSE,LTCH,Respiratory,Coronavirus,2022-01-06,2022-01-19,Inactive,,
 3437,Unity Health Toronto - St. Joseph's - 2LM,30 The Queensway,Hospital-Acute Care,Respiratory,Coronavirus,2022-01-06,2022-01-18,Inactive,-79.450101,43.639359
 3438,University Health Network - Lyndhurst - 2B,520 Sutherland Drive,Hospital-Chronic Care,Respiratory,Coronavirus,2022-01-06,2022-01-21,Inactive,-79.3696039,43.7189133
 3439,William Osler Health System - 7E Cardiology,101 Humber College Boulevard,Hospital-Acute Care,Respiratory,Coronavirus,2022-01-06,2022-01-23,Inactive,-79.5991896,43.7306053
@@ -3451,10 +3270,7 @@
 3449,University Health Network - Toronto Western - 5B,399 Bathurst Street,Hospital-Acute Care,Respiratory,Coronavirus,2022-01-05,2022-01-27,Inactive,-79.4059789,43.6537982
 3450,Baycrest Hospital - 5 West,3560 Bathurst Street,Hospital-Chronic Care,Respiratory,Coronavirus,2022-01-04,2022-01-14,Inactive,-79.4361036,43.7292745
 3451,Belmont House - Dietary,55 Belmont Street,Retirement Home,Respiratory,Coronavirus,2022-01-04,2022-01-31,Inactive,-79.39170138466517,43.67449825
-3452,Centre for Addiction and Mental Health - Queen Street Site -,1001 Queen Street West - Unit 3-2,Hospital-Chronic Care,Respiratory,Coronavirus,2022-01-04,2022-01-26,Inactive,,
 3453,Michael Garron Hospital - B5 Medicine,825 Coxwell Avenue,Hospital-Acute Care,Respiratory,Coronavirus,2022-01-04,2022-01-13,Inactive,-79.3236782,43.6896572
-3454,Scarborough Health Network - General Hospital -,3030 Lawrence Ave. E. - 4E Medicine,Hospital-Acute Care,Respiratory,Coronavirus,2022-01-04,2022-01-16,Inactive,,
-3455,Scarborough Health Network - General Hospital -,3030 Lawrence Ave. E. - T2 Nephrology,Hospital-Acute Care,Respiratory,Coronavirus,2022-01-04,2022-01-18,Inactive,,
 3456,St. Hilda's Towers,2339 Dufferin St,Retirement Home,Respiratory,Coronavirus,2022-01-04,2022-01-24,Inactive,-79.449681,43.69459
 3457,University Health Network - Toronto Western - 6A,399 Bathurst Street,Hospital-Acute Care,Respiratory,Coronavirus,2022-01-04,2022-01-18,Inactive,-79.4059789,43.6537982
 3458,University Health Network - Toronto Western - 8A,399 Bathurst Street,Hospital-Acute Care,Respiratory,Coronavirus,2022-01-04,2022-02-10,Inactive,-79.4059789,43.6537982
@@ -3465,14 +3281,12 @@
 3463,Lakeshore Lodge,3197 Lakeshore Blvd,LTCH,Respiratory,Coronavirus,2022-01-02,2022-02-12,Inactive,-79.51846783100001,43.597066749999996
 3464,North York General Hospital - Finch Site - 6 West,2111 Finch Ave W,Hospital-Chronic Care,Respiratory,Coronavirus,2022-01-02,2022-01-22,Inactive,-79.5260221,43.7536378
 3465,Sunnybrook Health Sciences Centre - St. John's Rehab - A4,285 Cummer Avenue,Hospital-Chronic Care,Respiratory,Coronavirus,2022-01-02,2022-01-14,Inactive,-79.40424676206896,43.789755968965515
-3466,Sunnybrook Health Sciences Centre - Veterans Centre -,2075 Bayview Ave - LGSW,LTCH,Respiratory,Coronavirus,2022-01-02,2022-01-19,Inactive,,
 3467,Trillium Health Partners - Church Site - 6B,200 Church St,Hospital-Chronic Care,Respiratory,Coronavirus,2022-01-02,2022-01-27,Inactive,-79.510442,43.709345
 3468,Unity Health Toronto - St. Joseph's - 4L,30 The Queensway,Hospital-Acute Care,Respiratory,Coronavirus,2022-01-02,2022-01-15,Inactive,-79.450101,43.639359
 3469,Unity Health Toronto - St. Joseph's - 6M,30 The Queensway,Hospital-Acute Care,Respiratory,Coronavirus,2022-01-02,2022-01-18,Inactive,-79.450101,43.639359
 3470,University Health Network - Bickle Centre - South 4,130 Dunn Avenue,Hospital-Chronic Care,Respiratory,Coronavirus,2022-01-02,2022-02-03,Inactive,-79.433068,43.634967
 3471,Carefirst Transitional Care Centre,300 Silver Star Blvd,Retirement Home,Respiratory,Coronavirus,2022-01-01,2022-01-19,Inactive,-79.2943771,43.8123724
 3472,Humber River Hospital - York Finch - 6E,2111 Finch Avenue West,Hospital-Chronic Care,Respiratory,Coronavirus,2022-01-01,2022-01-25,Inactive,-79.5260221,43.7536378
-3473,Scarborough Health Network - Scarborough General -,3030 Lawrence Ave. E - 3C - General Surgery,Hospital-Acute Care,Respiratory,Coronavirus,2022-01-01,2022-01-31,Inactive,,
 3474,The Teddington,4 Teddington Park Avenue,Retirement Home,Respiratory,Coronavirus,2022-01-01,2022-02-08,Inactive,-79.4040004,43.733129
 3475,Sinai Health System - Hennick Bridgepoint - 4 South,1 Bridgepoint Dr,Hospital-Chronic Care,Respiratory,Coronavirus,2023-11-29,,Active,-79.3554469,43.6658608
 3476,Sunnybrook Health Sciences Centre - St. John's Rehab - A3,285 Cummer Ave,Hospital-Chronic Care,Respiratory,Coronavirus,2023-11-29,,Active,-79.40424676206896,43.789755968965515
@@ -3551,9 +3365,7 @@
 3549,Centre for Addiction and Mental Health - Queen Street Site - Unit 1-4,1001 Queen St West,Hospital-Psychiatric,Respiratory,Coronavirus,2023-11-13,,Active,-79.4186199,43.6438339
 3550,Chartwell Gibson Long Term Care Residence - 3rd Fl,1925 Steeles Ave E,LTCH,Respiratory,Coronavirus,2023-11-13,,Active,-79.3758609,43.807618
 3551,Craiglee Nursing Home - 2nd Fl,102 Craiglee Dr,LTCH,Respiratory,Respiratory syncytial virus,2023-11-13,,Active,-79.2528019,43.7067792
-3552,Leaside Retirement Residence - 5th & 6th Fl,10 -14 William Morgan Drive,LTCH,Respiratory,Coronavirus,2023-11-13,,Active,,
 3553,Southlake Regional Health Centre - RCC Finch - 6 West,2111 Finch Ave W,Hospital-Chronic Care,Respiratory,Coronavirus,2023-11-13,,Active,-79.5260221,43.7536378
-3554,The Briton House - Toronto - 3rd & 4th Fl (North Tower),700 & 720 Mount Pleasant Rd,Retirement Home,Respiratory,Coronavirus,2023-11-13,,Active,,
 3555,The Village Of Humber Heights - Weston Neighbourhood,2245 Lawrence Ave W,LTCH,Respiratory,Unable to identify,2023-11-13,2023-11-27,Inactive,-79.527245,43.6972121
 3556,Toronto East Health Network - AHF - 2nd Fl West,500 Kingston Rd,Hospital-Chronic Care,Respiratory,Coronavirus,2023-11-13,,Active,-79.3026915478865,43.6778819
 3557,Baycrest Hospital - 5 West,3560 Bathurst St,Hospital-Chronic Care,Respiratory,Coronavirus,2023-11-12,2023-11-23,Inactive,-79.4361036,43.7292745
@@ -3565,7 +3377,6 @@
 3563,The Kensington Gardens - 2E (North Building),45 Brunswick Ave,LTCH,Respiratory,Coronavirus,2023-11-09,,Active,-79.404305,43.658784
 3564,Unity Health Toronto - Providence - A5,3276 St. Clair Ave East,Hospital-Chronic Care,Respiratory,Coronavirus,2023-11-09,2023-11-17,Inactive,-79.2861565,43.7135926
 3565,Belmont House - 2WW,55 Belmont St,LTCH,Respiratory,Unable to identify,2023-11-08,2023-11-23,Inactive,-79.39170138466517,43.67449825
-3566,Lakeshore Lodge - 2 South & 4 South,3197 Lakeshore Blvd W,LTCH,Respiratory,Coronavirus,2023-11-08,,Active,,
 3567,Chartwell Westbury Long Term Care Residence - 8th Fl,495 The West Mall,LTCH,Respiratory,Coronavirus,2023-11-07,2023-11-20,Inactive,-79.567866,43.648303
 3568,North York General Hospital - General Site - 3N,4001 Leslie St,Hospital-Acute Care,Respiratory,Coronavirus,2023-11-07,2023-11-17,Inactive,-79.362213,43.7699003
 3569,Scarborough Health Network - Scarborough General - CP4,3050 Lawrence Ave E,Hospital-Acute Care,Respiratory,Coronavirus,2023-11-07,,Active,-79.246316,43.7566259
@@ -3632,7 +3443,6 @@
 3630,Eatonville Care Centre,420 The East Mall,LTCH,Respiratory,Coronavirus,2023-10-24,2023-11-17,Inactive,-79.560686,43.64745
 3631,Unity Health Toronto - St. Joseph's - 4LM,30 The Queensway,Hospital-Acute Care,Respiratory,Coronavirus,2023-10-24,2023-10-30,Inactive,-79.450101,43.639359
 3632,Cummer Lodge - 2N & 4S,205 Cummer Ave,LTCH,Respiratory,Coronavirus,2023-10-23,2023-11-19,Inactive,-79.40816758965518,43.78889555517242
-3633,Leaside Retirement Residence - 3rd & 6th Fl Building 10,10 -14 William Morgan Drive,Retirement Home,Respiratory,Coronavirus,2023-10-23,2023-11-08,Inactive,,
 3634,Seven Oaks - 4th Fl,9 Neilson Rd,LTCH,Respiratory,Coronavirus,2023-10-23,2023-11-04,Inactive,-79.2034339,43.7794412
 3635,Sherbourne Place - 2nd Fl,345 Sherbourne St,LTCH,Respiratory,Coronavirus,2023-10-23,2023-11-27,Inactive,-79.37243630597754,43.662702249999995
 3636,The Jewish Home for the Aged - 2GS,3560 Bathurst St,LTCH,Respiratory,Coronavirus,2023-10-23,2023-10-31,Inactive,-79.4361036,43.7292745
@@ -3640,7 +3450,6 @@
 3638,University Health Network - Toronto Western - 4B,399 Bathurst St,Hospital-Acute Care,Respiratory,Coronavirus,2023-10-23,2023-11-11,Inactive,-79.4059789,43.6537982
 3639,University Health Network - Transitional Care Program - Queens Estate - 6th Fl,265 Queens Dr,Transitional Care,Respiratory,Coronavirus,2023-10-23,2023-10-28,Inactive,-79.504314,43.707185
 3640,Chartwell Gibson Long Term Care Residence - 3rd Fl,1925 Steeles Ave E,LTCH,Respiratory,Influenza A,2023-10-22,2023-10-31,Inactive,-79.3758609,43.807618
-3641,Lakeshore Lodge - 4th Fl,3197 Lakeshore Blvd W,LTCH,Respiratory,Coronavirus,2023-10-22,2023-10-30,Inactive,,
 3642,Shepherd Lodge - 5th Fl,3760 Sheppard Ave East,LTCH,Respiratory,Coronavirus,2023-10-22,2023-11-07,Inactive,-79.294078,43.782836
 3643,Extendicare Guildwood,60 Guildwood Pky,LTCH,Respiratory,Coronavirus,2023-10-21,2023-11-08,Inactive,-79.203089,43.7462823
 3644,"Hawthorne Place Care Centre - 1 Maple Lane, 3 Lily Way & 3 Pine Lane Unit",2045 Finch Ave W,LTCH,Respiratory,Coronavirus,2023-10-20,2023-11-15,Inactive,-79.5222631,43.7562487
@@ -3713,8 +3522,6 @@
 3711,Kensington Gardens - The Kensington Health Centre,45 Brunswick Ave,LTCH,Respiratory,Unable to identify,2023-10-02,2023-10-10,Inactive,-79.404305,43.658784
 3712,Kipling Acres - 2 North Highfield Unit,2233 Kipling Ave,LTCH,Respiratory,Rhinovirus,2023-10-02,2023-10-10,Inactive,-79.571631,43.725014
 3713,Lakeside Long Term Care Centre - 2nd Fl,150 Dunn Ave,LTCH,Respiratory,Coronavirus,2023-10-02,2023-10-16,Inactive,-79.4326664,43.6356584
-3714,Norwood Nursing Home,122 Tyndale St,LTCH,Respiratory,Rhinovirus,2023-10-02,2023-10-15,Inactive,,
-3715,The Briton House - 9th Fl,700 & 720 Mount Pleasant Rd,Retirement Home,Respiratory,Coronavirus,2023-10-02,2023-10-16,Inactive,,
 3716,The Wexford - 5th & 6th Fl,1860 Lawrence Ave E,LTCH,Respiratory,Coronavirus,2023-10-02,2023-10-27,Inactive,-79.3024148,43.7438388
 3717,Kipling Acres - 2 North,2233 Kipling Ave,LTCH,Respiratory,Coronavirus,2023-10-01,2023-10-19,Inactive,-79.571631,43.725014
 3718,Ivan Franko Home,767 Royal York Rd,LTCH,Respiratory,Coronavirus,2023-09-30,2023-10-18,Inactive,-79.50674173953753,43.637744850000004
@@ -3729,7 +3536,6 @@
 3727,William Osler Health System - 10W Respirology Unit,101 Humber College Blvd,Hospital-Acute Care,Respiratory,Coronavirus,2023-09-29,2023-10-05,Inactive,-79.5991896,43.7306053
 3728,Humber Meadows Long Term Care Home - Birch Lane North,2109 Finch Ave W,LTCH,Respiratory,Coronavirus,2023-09-28,2023-10-07,Inactive,-79.4305504,43.7763831
 3729,Seven Oaks - 1st Fl,9 Neilson Rd,LTCH,Respiratory,Coronavirus,2023-09-27,2023-10-13,Inactive,-79.2034339,43.7794412
-3730,Extendicare Guildwood,60 Guildowood Pky,LTCH,Respiratory,Rhinovirus,2023-09-26,2023-10-16,Inactive,,
 3731,Unity Health Toronto - Houses of Providence - HOP 4W - Oak & Willow,3276 St Clair Ave E,LTCH,Respiratory,Coronavirus,2023-09-26,2023-10-13,Inactive,-79.2861565,43.7135926
 3732,Valleyview Residence - Unit 2E,541 Finch Ave W,LTCH,Respiratory,Coronavirus,2023-09-26,2023-10-04,Inactive,-79.4482104,43.7727096
 3733,"Villa Colombo - 2 Fusco North, South & West",40 Playfair Ave,LTCH,Respiratory,Parainfluenza,2023-09-26,2023-10-15,Inactive,-79.45668174072816,43.71094909999999
@@ -3774,7 +3580,6 @@
 3772,Copernicus Lodge - 4 North,66 Roncesvalles Ave,LTCH,Respiratory,Rhinovirus,2023-09-14,2023-09-25,Inactive,-79.447337,43.640435
 3773,North Park Nursing Home,450 Rustic Rd,LTCH,Respiratory,Coronavirus,2023-09-14,2023-10-10,Inactive,-79.48187197868482,43.71729432043269
 3774,Carefirst Transitional Care Centre - 3rd Fl,300 Silver Star Blvd,Transitional Care,Respiratory,Coronavirus,2023-09-13,2023-09-26,Inactive,-79.2943771,43.8123724
-3775,Fairview Nursing Home,14 Cross St,LTCH,Respiratory,Coronavirus,2023-09-13,2023-10-10,Inactive,,
 3776,One Kenton Place,1-3 Kenton Dr,LTCH,Respiratory,Coronavirus,2023-09-13,2023-09-25,Inactive,-79.4420782,43.7785118
 3777,Villa Colombo Homes for the Aged - 4th Fl North & South (Fusco Building),40 Playfair Ave,LTCH,Respiratory,Coronavirus,2023-09-13,2023-09-26,Inactive,-79.45668174072816,43.71094909999999
 3778,William Osler Health System - 6W Medicine Unit,101 Humber College Blvd,Hospital-Acute Care,Respiratory,Coronavirus,2023-09-13,2023-09-18,Inactive,-79.5991896,43.7306053
@@ -3798,7 +3603,6 @@
 3796,Belmont House,52 McMurrich St,Retirement Home,Respiratory,Coronavirus,2023-09-05,2023-09-15,Inactive,-79.3903405,43.6745847
 3797,Belmont House - 4WW,55 Belmont St,LTCH,Respiratory,Enterovirus/Rhinovirus,2023-09-05,2023-10-02,Inactive,-79.39170138466517,43.67449825
 3798,Carefree Lodge - 2nd Fl,306 Finch Ave E,LTCH,Respiratory,Coronavirus,2023-09-05,2023-09-19,Inactive,-79.392388,43.7850419
-3799,Centre For Addiction And Mental Health - Unit 1 & 2,1001 Queen Ave W,Hospital-Psychiatric,Respiratory,Unable to identify,2023-09-05,2023-09-19,Inactive,,
 3800,"Presentation Manor - 1st, 3rd & 4th Fl",61 Fairfax Cres,Retirement Home,Respiratory,Coronavirus,2023-09-05,2023-09-22,Inactive,-79.2829526,43.7160464
 3801,Trillium Health Partners - McCall Continuing Care - 3rd Fl,140 Sherway Drive,Hospital-Chronic Care,Respiratory,Coronavirus,2023-09-05,2023-09-26,Inactive,-79.562235,43.610033
 3802,Westside - 4 Fl,1145 Albion Rd,LTCH,Respiratory,Unable to identify,2023-09-05,2023-09-14,Inactive,-79.5667899,43.7373503
@@ -3883,7 +3687,6 @@
 3881,St. Bernard's Residence - 2nd & 3rd Fl,685 Finch Ave W,Retirement Home,Respiratory,Rhinovirus,2023-07-26,2023-08-08,Inactive,-79.4561852,43.7709198
 3882,Extendicare Rouge Valley - BSU,551 Conlins Rd,LTCH,Respiratory,Coronavirus,2023-07-25,2023-08-24,Inactive,-79.1894286,43.8029937
 3883,Sinai Health System - Hennick Bridgepoint - 9 North,1 Bridgepoint Dr,Hospital-Chronic Care,Respiratory,Coronavirus,2023-07-25,2023-08-01,Inactive,-79.3554469,43.6658608
-3884,Fairview Nursing Home - 2nd Fl,14 Cross St,LTCH,Respiratory,Rhinovirus,2023-07-24,2023-08-05,Inactive,,
 3885,Carefree Lodge,306 Finch Ave E,LTCH,Respiratory,Enterovirus,2023-07-23,2023-08-07,Inactive,-79.392388,43.7850419
 3886,The Village Of Humber Heights - Wadsworth Neighborhood,2245 Lawrence Ave W,LTCH,Respiratory,Rhinovirus,2023-07-23,2023-08-14,Inactive,-79.527245,43.6972121
 3887,The Teddington - 5th Fl,4 Teddington Park Ave,Retirement Home,Respiratory,Coronavirus,2023-07-22,2023-07-31,Inactive,-79.4040004,43.733129
@@ -3978,7 +3781,6 @@
 3976,University Health Network - Toronto Western - 8A,399 Bathurst Street,Hospital-Acute Care,Respiratory,Coronavirus,2023-05-23,2023-05-31,Inactive,-79.4059789,43.6537982
 3977,Delmanor Wynford,187 Wynford Dr,Retirement Home,Respiratory,Coronavirus,2023-05-22,2023-05-31,Inactive,-79.326262,43.724681
 3978,Hellenic Home - 3A,2411 Lawrence Ave E,LTCH,Respiratory,Coronavirus,2023-05-22,2023-06-07,Inactive,-79.2746356,43.7493249
-3979,Fairview Nursing Home - 1st Fl,14 Cross St,LTCH,Respiratory,Respiratory syncytial virus,2023-05-21,2023-05-29,Inactive,,
 3980,Centre for Addiction and Mental Health - Queen Street Site - Unit 3-5,1001 Queen Street West,Hospital-Psychiatric,Respiratory,Coronavirus,2023-05-17,2023-05-30,Inactive,-79.4186199,43.6438339
 3981,Craiglee Nursing Home - 2 East,102 Craiglee Dr,LTCH,Respiratory,Coronavirus,2023-05-17,2023-05-31,Inactive,-79.2528019,43.7067792
 3982,Retirement Suites by the Lake - 2nd & 3rd Fl,2121 Kingston Rd,Retirement Home,Respiratory,Coronavirus,2023-05-17,2023-05-30,Inactive,-79.2561528,43.6979544
@@ -3992,11 +3794,9 @@
 3990,Sunnybrook Health Sciences Centre - LTSE & LTSW,2075 Bayview Ave,LTCH,Respiratory,Coronavirus,2023-05-11,2023-05-27,Inactive,-79.3792695,43.7235801
 3991,Norwood Nursing Home - 1st Fl,122 Tyndall Ave,LTCH,Respiratory,Coronavirus,2023-05-10,2023-05-16,Inactive,-79.42931564668473,43.63752855
 3992,Better Living at Thompson House - 3rd Fl,1 Overland Dr,LTCH,Respiratory,Coronavirus,2023-05-09,2023-05-20,Inactive,-79.347342,43.732464
-3993,"Leaside Retirement Residence - 2nd Fl, 3rd Fl (MC) & 7th Fl Building 10",10 -14 William Morgan Drive,Retirement Home,Respiratory,Coronavirus,2023-05-09,2023-06-01,Inactive,,
 3994,Belmont House,55 Belmont Street,Retirement Home,Respiratory,Coronavirus,2023-05-08,2023-05-15,Inactive,-79.39170138466517,43.67449825
 3995,Holland Bloorview Kids Rehabilitation Hospital - SODR (Rehab),150 Kilgour Rd,Hospital-Chronic Care,Respiratory,Parainfluenza,2023-05-08,2023-05-12,Inactive,-79.37434881971065,43.7182666
 3996,Centre for Addiction and Mental Health - Queen Street Site - Unit 3-3,1001 Queen Street West,Hospital-Psychiatric,Respiratory,Coronavirus,2023-05-05,2023-05-18,Inactive,-79.4186199,43.6438339
-3997,Fairview Nursing Home - 3rd Fl,14 Cross St,LTCH,Respiratory,Respiratory syncytial virus,2023-05-05,2023-05-16,Inactive,,
 3998,"Fudger House - 1E, 1W, 2E & 3E",439 Sherbourne St,LTCH,Respiratory,Coronavirus,2023-05-04,2023-06-01,Inactive,-79.373735,43.666208
 3999,Scarborough Health Network - General Hospital - T7 - Med,3050 Lawrence Ave E,Hospital-Acute Care,Respiratory,Respiratory syncytial virus,2023-05-04,2023-05-17,Inactive,-79.246316,43.7566259
 4000,"Scarborough Retirement Residence - 2nd, 4th & 7th Fl",148 Markham Rd,Retirement Home,Respiratory,Coronavirus,2023-05-04,2023-05-23,Inactive,-79.2180677,43.7407432
@@ -4038,7 +3838,6 @@
 4036,Harmony Hills Care Community - 2nd Fl,1800 O'Connor Drive,LTCH,Respiratory,Coronavirus,2023-04-18,2023-04-27,Inactive,-79.30522822012195,43.7204409
 4037,Ina Grafton Gage Home - 1st Fl,40 Bell Estate Rd,LTCH,Respiratory,Enterovirus/Rhinovirus,2023-04-18,2023-05-11,Inactive,-79.2753435,43.7058073
 4038,Sunnybrook Health Sciences Centre - St. John's Rehab - A3,285 Cummer Avenue,Hospital-Chronic Care,Respiratory,Coronavirus,2023-04-18,2023-04-26,Inactive,-79.40424676206896,43.789755968965515
-4039,The Briton House - 7th Fl (North Tower),700 & 720 Mount Pleasant Road,Retirement Home,Respiratory,Coronavirus,2023-04-18,2023-05-04,Inactive,,
 4040,Cedarbrook Lodge Retirement Residence - 5th Fl,520 Markham Road,Retirement Home,Respiratory,Coronavirus,2023-04-17,2023-04-27,Inactive,-79.2241579,43.7554562
 4041,Harold and Grace Baker Centre - A & C Wing,1 Northwestern Ave,LTCH,Respiratory,Metapneumovirus,2023-04-17,2023-04-24,Inactive,-79.4688897,43.6987718
 4042,Jewish Home for the Aged - 7RF,3560 Bathurst St,LTCH,Respiratory,Coronavirus,2023-04-17,2023-04-27,Inactive,-79.4361036,43.7292745
@@ -4107,7 +3906,6 @@
 4105,Scarborough Health Network - General Hospital - T7,3050 Lawrence Ave E,Hospital-Acute Care,Respiratory,Metapneumovirus,2023-03-23,2023-04-04,Inactive,-79.246316,43.7566259
 4106,Scarborough Health Network-Scarborough General - 4C Medicine,3050 Lawrence Ave E,Hospital-Acute Care,Respiratory,Coronavirus,2023-03-23,2023-03-31,Inactive,-79.246316,43.7566259
 4107,Chartwell Gibson Long Term Care Residence,1925 Steeles Ave E,LTCH,Respiratory,Coronavirus,2023-03-22,2023-04-14,Inactive,-79.3758609,43.807618
-4108,Copernicus Lodge - 4S,66 Roncesvales Ave,LTCH,Respiratory,Respiratory syncytial virus,2023-03-22,2023-04-01,Inactive,,
 4109,Kingsway - 5th Fl,4251 Dundas St W,Retirement Home,Respiratory,Unable to identify,2023-03-22,2023-04-01,Inactive,-79.513986,43.6591255
 4110,"The Annex - 1st, 2nd & 4th Fl",123 Spadina Rd,Retirement Home,Enteric,Unable to identify,2023-03-22,2023-03-29,Inactive,-79.405505,43.67175
 4111,Extendicare Bayview - East Unit & West Unit,550 Cummer Ave,LTCH,Respiratory,Metapneumovirus,2023-03-20,2023-04-05,Inactive,-79.3904512,43.7932278
@@ -4200,7 +3998,6 @@
 4198,Runnymede Healthcare Centre,625 Runnymede Rd,Hospital-Chronic Care,Enteric,Norovirus,2023-02-11,2023-02-20,Inactive,-79.481008,43.664497
 4199,Cedarvale Terrace - 6th Fl,429 Walmer Road,LTCH,Respiratory,Coronavirus,2023-02-10,2023-03-01,Inactive,-79.412483,43.685423
 4200,Chartwell Guildwood Retirement Residence - Memory Living,65 Livingston Rd,Retirement Home,Respiratory,Coronavirus,2023-02-10,2023-02-18,Inactive,-79.1980788,43.7451732
-4201,Scarborough Health Network - General Hospital - ICU,3050 Lawerence Ave E,Hospital-Acute Care,Other,CPE,2023-02-10,2023-03-28,Inactive,,
 4202,The Kensington Gardens - North 1W,25 Brunswick Ave,LTCH,Respiratory,Coronavirus,2023-02-10,2023-03-09,Inactive,-79.40368867487679,43.6581346
 4203,Unity Health Toronto - Providence - A5,3276 St. Clair Avenue East,Hospital-Chronic Care,Respiratory,Coronavirus,2023-02-10,2023-02-16,Inactive,-79.2861565,43.7135926
 4204,Extendicare Guildwood,60 Guildwood Pky,LTCH,Respiratory,Respiratory syncytial virus,2023-02-09,2023-03-04,Inactive,-79.203089,43.7462823
