@@ -24,11 +24,11 @@ This project is geared towards the general public to provide them with high-leve
 - Show for all years by default but include a drop-down for the user to select one or many year(s)
 - Clicking on the marker would show info about the outbreak including: Institution name and address, type of outbreak, date it started and duration (for past outbreaks)
 
-2. Graphing time series by season *not predictive*
+2. Graphing time series by season *not predictive* - Olufemi
 - Line chart or bar chart plotting total outbreaks by season
 - Drop-down to select years
 
-4. Outbreaks by outbreak setting (institution type: LTCH, hospital, retirement home, etc.)
+4. Outbreaks by outbreak setting (institution type: LTCH, hospital, retirement home, etc.) - Fanny
 - Get the sum of outbreaks by institution type and plot in a bar chart
 - Show for all years by default but include a drop-down OR the ability to filter (not sure how) for the user to select one or many year(s)
 - Hovering over a bar could show the institution type, total outbreaks, and most common causative agent
