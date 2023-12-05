@@ -1,4 +1,4 @@
-﻿CREATE TABLE "outbreaks_table" (
+﻿CREATE TABLE "outbreaks" (
     "ID" INTEGER   NOT NULL,
     "Institution_Name" VARCHAR   NOT NULL,
     "Institution_Address" VARCHAR   NOT NULL,
