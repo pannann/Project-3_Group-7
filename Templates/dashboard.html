@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Outbreaks in Toronto Healthcare Institutions</title>
+    <!-- if using html use this path -->
+    link rel="stylesheet" href="../static/css/home_style.css">
+    <!-- if using flask uncomment the following line  -->
+    <!-- <link rel="stylesheet" href="{{ url_for('static', filename='css/home_style.css') }}"> -->
+</head>
+
+<body>
+    <header>
+        <h1>Welcome to the Toronto Healthcare Outbreak Tracker</h1>
+        
+        <!-- Navigation Bar -->
+        <nav>
+            <a href="{{ url_for('home') }}" class="nav-button">Home</a>
+            <a href="{{ url_for('about') }}" class="nav-button">About</a>
+            <a href="{{ url_for('dashboard') }}" class="nav-button">Dashboard</a>
+            <!-- Add more links as needed -->
+        </nav>
+    </header>  
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <!-- If using html use this path -->
+    <script src="../static/js/avg_outbreak_length_by_institution.js"></script>
+ <!-- use the follwing path if using flask -->
+    <!-- <script src="{{ url_for('static', filename='js/avg_outbreak_length_by_institution.js') }}"></script> -->
+</body>
+</html>
