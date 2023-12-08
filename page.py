@@ -46,29 +46,7 @@ def get_data():
 
     return jsonify({'error': 'Unable to connect to the DataBase'})
 
-@app.route('/api/cleaned_outbreaks_with_coords', methods=['GET'])
-def get_data_cleaned_outbreaks_with_coords():
-    connection = connect_to_database()
-
-    if connection:
-        try:
-            query = "SELECT * FROM cleaned_outbreaks_with_coords;"
-            cursor = connection.cursor()
-            cursor.execute(query)
-
-            # Fetch all rows
-            data = cursor.fetchall()
-
-            return jsonify(data)
-
-        except Exception as error:
-            print(f"Error: Unable to fetch data from the database - {str(error)}")
-            raise 
-        finally:
-            
-            connection.close()
-
-    return jsonify({'error': 'Unable to connect to the DataBase'})
+# for outbreaks by year season
 
 @app.route('/api/outbreaks_by_year_season', methods=['GET'])
 
@@ -95,6 +73,8 @@ def get_data_outbreaks_by_year_season():
 
     return jsonify({'error': 'Unable to connect to the DataBase'})
 
+# for outbreaks by year setting
+
 @app.route('/api/outbreak_setting_by_year', methods=['GET'])
 def get_data_outbreak_setting_by_year():
     connection = connect_to_database()
@@ -120,6 +100,8 @@ def get_data_outbreak_setting_by_year():
 
     return jsonify({'error': 'Unable to connect to the DataBase'})
 
+# for outbreaks by setting all years
+
 @app.route('/api/outbreak_setting_all_years', methods=['GET'])
 def get_data_outbreak_setting_all_years():
     connection = connect_to_database()
@@ -143,6 +125,8 @@ def get_data_outbreak_setting_all_years():
             connection.close()
 
     return jsonify({'error': 'Unable to connect to the DataBase'})
+
+# for outbreaks by top 10 duration
 
 @app.route('/api/top_10_outbreak_duration', methods=['GET'])
 def get_data_top_10_outbreak_duration():
@@ -168,6 +152,8 @@ def get_data_top_10_outbreak_duration():
 
     return jsonify({'error': 'Unable to connect to the DataBase'})
 
+# for outbreaks by bottom 10 duration
+
 @app.route('/api/bottom_10_outbreak_duration', methods=['GET'])
 def get_data_bottom_10_outbreak_duration():
     connection = connect_to_database()
@@ -192,6 +178,8 @@ def get_data_bottom_10_outbreak_duration():
 
     return jsonify({'error': 'Unable to connect to the DataBase'})
 
+# for outbreaks by year
+
 @app.route('/api/outbreaks_by_year', methods=['GET'])
 def get_data_outbreaks_by_year():
     connection = connect_to_database()
@@ -215,6 +203,8 @@ def get_data_outbreaks_by_year():
             connection.close()
 
     return jsonify({'error': 'Unable to connect to the DataBase'})
+
+# for outbreaks by year type
 
 @app.route('/api/outbreaks_by_year_type', methods=['GET'])
 
