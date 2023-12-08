@@ -1,0 +1,22 @@
+Type of Outbreak,Outbreak Year,Institution Name
+Enteric,2016,40
+Enteric,2017,63
+Enteric,2018,77
+Enteric,2019,54
+Enteric,2020,33
+Enteric,2021,8
+Enteric,2022,23
+Enteric,2023,41
+Other,2018,3
+Other,2019,5
+Other,2020,1
+Other,2022,3
+Other,2023,2
+Respiratory,2016,218
+Respiratory,2017,286
+Respiratory,2018,343
+Respiratory,2019,247
+Respiratory,2020,477
+Respiratory,2021,349
+Respiratory,2022,1059
+Respiratory,2023,827
