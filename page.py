@@ -47,7 +47,7 @@ def get_data():
     return jsonify({'error': 'Unable to connect to the DataBase'})
 
 @app.route('/api/cleaned_outbreaks_with_coords', methods=['GET'])
-def get_data():
+def get_data_cleaned_outbreaks_with_coords():
     connection = connect_to_database()
 
     if connection:
@@ -72,7 +72,7 @@ def get_data():
 
 @app.route('/api/outbreaks_by_year_season', methods=['GET'])
 
-def get_data():
+def get_data_outbreaks_by_year_season():
     connection = connect_to_database()
 
     if connection:
@@ -96,7 +96,7 @@ def get_data():
     return jsonify({'error': 'Unable to connect to the DataBase'})
 
 @app.route('/api/outbreak_setting_by_year', methods=['GET'])
-def get_data():
+def get_data_outbreak_setting_by_year():
     connection = connect_to_database()
 
     if connection:
@@ -121,7 +121,7 @@ def get_data():
     return jsonify({'error': 'Unable to connect to the DataBase'})
 
 @app.route('/api/outbreak_setting_all_years', methods=['GET'])
-def get_data():
+def get_data_outbreak_setting_all_years():
     connection = connect_to_database()
 
     if connection:
@@ -145,7 +145,7 @@ def get_data():
     return jsonify({'error': 'Unable to connect to the DataBase'})
 
 @app.route('/api/top_10_outbreak_duration', methods=['GET'])
-def get_data():
+def get_data_top_10_outbreak_duration():
     connection = connect_to_database()
 
     if connection:
@@ -169,7 +169,7 @@ def get_data():
     return jsonify({'error': 'Unable to connect to the DataBase'})
 
 @app.route('/api/bottom_10_outbreak_duration', methods=['GET'])
-def get_data():
+def get_data_bottom_10_outbreak_duration():
     connection = connect_to_database()
 
     if connection:
@@ -193,7 +193,7 @@ def get_data():
     return jsonify({'error': 'Unable to connect to the DataBase'})
 
 @app.route('/api/outbreaks_by_year', methods=['GET'])
-def get_data():
+def get_data_outbreaks_by_year():
     connection = connect_to_database()
 
     if connection:
@@ -218,7 +218,7 @@ def get_data():
 
 @app.route('/api/outbreaks_by_year_type', methods=['GET'])
 
-def get_data():
+def get_data_outbreaks_by_year_type():
     connection = connect_to_database()
 
     if connection:
