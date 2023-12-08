@@ -18,7 +18,7 @@ This project is geared towards the general public to provide them with high-leve
 4. Which institutions have the longest and shortest average outbreak duration?
 
 ## Visualizations
-1. Map of currently active outbreaks and past outbreaks 
+1. Map of currently active outbreaks and past outbreaks - Fanny/Olufemi/Ahmed whoever is done with their other one first
 - "Heatmap" markers (different colours for total number of outbreaks over the period or for type of outbreaks)
 - Marker size based on length of outbreak?
 - Show for all years by default but include a drop-down for the user to select one or many year(s)
@@ -28,15 +28,15 @@ This project is geared towards the general public to provide them with high-leve
 - Line chart or bar chart plotting total outbreaks by season
 - Drop-down to select years
 
-4. Outbreaks by outbreak setting (institution type: LTCH, hospital, retirement home, etc.) - Fanny
+3. Outbreaks by outbreak setting (institution type: LTCH, hospital, retirement home, etc.) - Fanny
 - Get the sum of outbreaks by institution type and plot in a bar chart
 - Show for all years by default but include a drop-down OR the ability to filter (not sure how) for the user to select one or many year(s)
 - Hovering over a bar could show the institution type, total outbreaks, and most common causative agent
 
-5. Average outbreak length by institution
+4. Average outbreak length by institution - Ahmed
 - Show which institutions have the shortest/longest outbreak length
 
-6. Outbreaks by year
+5. Outbreaks by year - Vinay
 - Line chart plotting the sum of outbreaks by year
 - Drop-down to select years and to select type of outbreak (respiratory vs enteric)
 
