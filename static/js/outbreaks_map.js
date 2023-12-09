@@ -17,7 +17,7 @@ function createMap(outbreaks) {
     // create baseMaps object to hold street tiles layer
     let baseMaps = {
         Street: street 
-    };
+    }; 
 
     // create overlayMaps object to hold outbreaks layer
     let overlayMaps = {
@@ -27,7 +27,7 @@ function createMap(outbreaks) {
     // create map with the center as the lat/lon of Toronto
     let myMap = L.map('map', {
         center: [43.6532, -79.3832],
-        zoom: 7,
+        zoom: 10,
         layers: [street, outbreaks]
     });
 
@@ -45,7 +45,7 @@ function createMarkers(response) {
         // for each outbreak, create a marker
         let outbreak = response[i];
         // bind a popup with the outbreak's information
-        outbreakMarkers.push(L.marker([outbreak[10], outbreak[9]]).bindPopup(`<h3>${outbreak[1]}</h3><br><h4>Location: ${outbreak[2]}, ${outbreak[3]}</h4><br><h4>Type of Outbreak: ${outbreak[4]}, ${outbreak[5]}</h4><br><h4>Start: ${outbreak[6]} End: ${outbreak[7]}</h4>`));
+        outbreakMarkers.push(L.marker([outbreak[10], outbreak[9]]).bindPopup(`<h3>${outbreak[1]}</h3><hr><p>Location: ${outbreak[2]}, ${outbreak[3]}</p><hr><p>Type of Outbreak: ${outbreak[4]}, ${outbreak[5]}</p><hr><p>Start: ${outbreak[6]} End: ${outbreak[7]}</p>`));
     }
 
     // pass layer group from outbreakMarkers to createMap function
