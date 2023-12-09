@@ -1,7 +1,7 @@
 /* home_style.css */
 
 body {
-    background-color: #fefae0;
+    background-color: #e9edc9;
     font-family: 'Arial', sans-serif; 
   }
   
@@ -17,12 +17,12 @@ body {
       padding: 10px 20px;
       text-decoration: none;
       color: #fff;
-      background-color: #606c38;
-      border: 1px solid #606c38;
+      background-color: #bc6c25;
+      border: 1px solid #bc6c25;
       border-radius: 5px;
       margin-right: 10px;
     } 
 
     .nav-button:hover {
-      background-color: #808d56;
+      background-color: #dda15e;
     }
