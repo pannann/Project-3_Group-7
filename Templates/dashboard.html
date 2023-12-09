@@ -6,9 +6,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Outbreaks in Toronto Healthcare Institutions</title>
     <!-- if using html use this path -->
-    link rel="stylesheet" href="../static/css/home_style.css">
+    <!-- link rel="stylesheet" href="../static/css/home_style.css"> -->
     <!-- if using flask uncomment the following line  -->
-    <!-- <link rel="stylesheet" href="{{ url_for('static', filename='css/home_style.css') }}"> -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/home_style.css') }}">
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 </head>
 
 <body>
@@ -25,8 +26,9 @@
     </header>  
     <script src="https://d3js.org/d3.v5.min.js"></script>
     <!-- If using html use this path -->
-    <script src="../static/js/avg_outbreak_length_by_institution.js"></script>
+    <!-- <script src="../static/js/avg_outbreak_length_by_institution.js"></script> -->
  <!-- use the follwing path if using flask -->
-    <!-- <script src="{{ url_for('static', filename='js/avg_outbreak_length_by_institution.js') }}"></script> -->
+    <script src="{{ url_for('static', filename='js/avg_outbreak_length_by_institution.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/outbreak_setting.js') }}"></script>
 </body>
 </html>
