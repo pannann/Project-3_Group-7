@@ -45,13 +45,16 @@ function updatePlots(year) {
     let trace1 = {
       x: settings,
       y: setting_values,
-      type: "bar"
+      type: "bar",
+      marker: {
+        color: ['#333d29', '#414833', '#656d4a', '#a4ac86', '#b6ad90', '#a68a64', '#936639']
+      }
     };
     let bar_data = [trace1];
     let bar_layout = {
       'title': `Outbreaks by Setting for ${year}`,
       'width': 750,
-      'height': 500 
+      'height': 500
     }
     // build Plotly plot with data and layout, assigned to .settings-bar id
     Plotly.newPlot('settings-bar', bar_data, bar_layout);
