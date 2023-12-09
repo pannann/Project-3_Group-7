@@ -21,14 +21,16 @@ function createMap(outbreaks) {
 
     // create overlayMaps object to hold outbreaks layer
     let overlayMaps = {
-        'Outbreaks': outbreaks
+        'All Outbreaks': outbreaks
     };
 
     // create map with the center as the lat/lon of Toronto
     let myMap = L.map('map', {
         center: [43.6532, -79.3832],
         zoom: 10,
-        layers: [street, outbreaks]
+        layers: [
+            street
+        ]
     });
 
     // create layer control and add to map
@@ -58,7 +60,7 @@ function markerSize(start, end) {
     let end_date = new Date(end);
     let difference = Math.abs(end_date - start_date);
     let duration = difference/(1000 * 3600 * 24);
-    return duration * 5;
+    return duration / 2;
 }
 
 // function to set marker colour based on type of outbreak
@@ -67,7 +69,7 @@ function markerColour(type) {
         return "#219ebc";
     } else if (type == 'Enteric') {
         return '#9d4edd';
-    } else if (type == 'Other') {
+    } else {
         return '#ffb703';
     }
 }
