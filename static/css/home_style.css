@@ -1,14 +1,15 @@
 /* home_style.css */
 
 body {
-    background-color: #d2cedd;
+    background-color: #fefae0;
     font-family: 'Arial', sans-serif; 
   }
   
   header {
-      background-color: #405a5c;
+      background-color: #283618;
       color: #fff; /* Set text color to white for better contrast */
       padding: 10px; /* Add padding for better spacing */
+      text-align: center;
     }
 
     .nav-button {
@@ -16,12 +17,12 @@ body {
       padding: 10px 20px;
       text-decoration: none;
       color: #fff;
-      background-color: #333;
-      border: 1px solid #333;
+      background-color: #606c38;
+      border: 1px solid #606c38;
       border-radius: 5px;
       margin-right: 10px;
     } 
 
     .nav-button:hover {
-      background-color: #555;
+      background-color: #808d56;
     }
