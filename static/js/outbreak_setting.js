@@ -50,15 +50,17 @@ function updatePlots(year) {
     };
     let bar_data = [trace1];
     let bar_layout = {
-      'title': `Outbreaks by Setting for ${year}`
+      'title': `Outbreaks by Setting for ${year}`,
+      'width': 750,
+      'height': 500 
     }
-    // build Plotly plot with data and layout, assigned to .bar id
-    Plotly.newPlot('bar', bar_data, bar_layout);
+    // build Plotly plot with data and layout, assigned to .settings-bar id
+    Plotly.newPlot('settings-bar', bar_data, bar_layout);
   });
 }
 
 // function to update plot when new selection is made in the drop-down
-function optionChanged(newYear) {
+function optionChangedSettings(newYear) {
   updatePlots(newYear);
 }
 
