@@ -24,6 +24,18 @@
             <!-- Add more links as needed -->
         </nav>
     </header>  
+
+    <div class="row">
+        <div class="col-md-2">
+          <div class="well">
+            <h5>Year(s):</h5>
+            <select id="selDataset" onchange="optionChanged(this.value)"></select>
+          </div>
+        <div class="col-md-5">
+            <div id="bar"></div>
+        </div>
+
+
     <script src="https://d3js.org/d3.v5.min.js"></script>
     <!-- If using html use this path -->
     <!-- <script src="../static/js/avg_outbreak_length_by_institution.js"></script> -->
