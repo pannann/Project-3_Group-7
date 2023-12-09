@@ -7,7 +7,6 @@ const settings_url = "http://127.0.0.1:5000/api/outbreak_settings";
 //     console.log(data);
 //   });
 
-
 // function for default plot
 function init() {
   // select the drop-down element in dashboard.html and store in variable
