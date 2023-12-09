@@ -75,14 +75,14 @@ def get_data_outbreaks_by_year_season():
 
 # for outbreaks by year setting
 
-@app.route('/api/outbreak_setting_by_year', methods=['GET'])
+@app.route('/api/outbreak_settings', methods=['GET'])
 def get_data_outbreak_setting_by_year():
     connection = connect_to_database()
 
     if connection:
         try:
         
-            query = "SELECT * FROM outbreak_setting_by_year;"
+            query = "SELECT * FROM outbreak_settings;"
             cursor = connection.cursor()
             cursor.execute(query)
 
@@ -102,29 +102,29 @@ def get_data_outbreak_setting_by_year():
 
 # for outbreaks by setting all years
 
-@app.route('/api/outbreak_setting_all_years', methods=['GET'])
-def get_data_outbreak_setting_all_years():
-    connection = connect_to_database()
+# @app.route('/api/outbreak_setting_all_years', methods=['GET'])
+# def get_data_outbreak_setting_all_years():
+#     connection = connect_to_database()
 
-    if connection:
-        try:
-            query = "SELECT * FROM outbreak_setting_all_years;"
-            cursor = connection.cursor()
-            cursor.execute(query)
+#     if connection:
+#         try:
+#             query = "SELECT * FROM outbreak_setting_all_years;"
+#             cursor = connection.cursor()
+#             cursor.execute(query)
 
-            # Fetch all rows
-            data = cursor.fetchall()
+#             # Fetch all rows
+#             data = cursor.fetchall()
 
-            return jsonify(data)
+#             return jsonify(data)
 
-        except Exception as error:
-            print(f"Error: Unable to fetch data from the database - {str(error)}")
-            raise 
-        finally:
+#         except Exception as error:
+#             print(f"Error: Unable to fetch data from the database - {str(error)}")
+#             raise 
+#         finally:
             
-            connection.close()
+#             connection.close()
 
-    return jsonify({'error': 'Unable to connect to the DataBase'})
+#     return jsonify({'error': 'Unable to connect to the DataBase'})
 
 # for outbreaks by top 10 duration
 

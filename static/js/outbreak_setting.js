@@ -1,6 +1,6 @@
 // assign API URL to a constant
 
-const settings_url = "http://127.0.0.1:5000/api/outbreak_setting_by_year";
+const settings_url = "http://127.0.0.1:5000/api/outbreak_settings";
 
 // console log data from API URL
 // d3.json(settings_url).then(function(data) {
