@@ -63,5 +63,126 @@ infoLegend.onAdd = function() {
 // add the legend to the map
 infoLegend.addTo(myMap);
 
+// initialize object containing icons for types of outbreaks
+let outbreakIcons = {
+    'Respiratory': L.ExtraMarkers.icon({
+        icon: 'ion-disc-outline',
+        iconColor: 'white',
+        markerColor: 'blue',
+        shape: 'circle'
+    }),
+    'Enteric': L.ExtraMarkers.icon({
+        icon: 'ion-add-circle-outline',
+        iconColor: 'white',
+        markerColor: 'orange',
+        shape: 'penta'
+    }),
+    'Other': L.ExtraMarkers.icon({
+        icon: 'ion-help-circle-outline',
+        iconColor: 'white',
+        markerColor: 'green',
+        shape: 'star'
+    })
+};
 
+// assign API URL to a constant
+const outbreaks_url = "http://127.0.0.1:5000/api/outbreaks";
 
+// perform API call with d3
+d3.json(outbreaks_url).then(function(data) {
+    // initialize a key to access correct layers/icons
+    let outbreakType;
+    let outbreakYear;
+
+    // loop through outbreaks
+    for (let i = 0; i < data.length; i++) {
+        // store outbreak in a variable
+        let outbreak = data[i];
+
+        // assign outbreaks based on type and year
+        if (outbreak[4] == 'Respiratory' && outbreak[11] == '2016') {
+            outbreakType = 'Respiratory';
+            outbreakYear = '2016';
+        } else if (outbreak[4] == 'Respiratory' && outbreak[11] == '2017') {
+            outbreakType = 'Respiratory';
+            outbreakYear = '2017';
+        } else if (outbreak[4] == 'Respiratory' && outbreak[11] == '2018') {
+            outbreakType = 'Respiratory';
+            outbreakYear = '2018';
+        } else if (outbreak[4] == 'Respiratory' && outbreak[11] == '2019') {
+            outbreakType = 'Respiratory';
+            outbreakYear = '2019';
+        } else if (outbreak[4] == 'Respiratory' && outbreak[11] == '2020') {
+            outbreakType = 'Respiratory';
+            outbreakYear = '2020';
+        } else if (outbreak[4] == 'Respiratory' && outbreak[11] == '2021') {
+            outbreakType = 'Respiratory';
+            outbreakYear = '2021';
+        } else if (outbreak[4] == 'Respiratory' && outbreak[11] == '2022') {
+            outbreakType = 'Respiratory';
+            outbreakYear = '2022';
+        } else if (outbreak[4] == 'Respiratory' && outbreak[11] == '2023') {
+            outbreakType = 'Respiratory';
+            outbreakYear = '2023';
+        } else if (outbreak[4] == 'Enteric' && outbreak[11] == '2016') {
+            outbreakType = 'Enteric';
+            outbreakYear = '2016';
+        } else if (outbreak[4] == 'Enteric' && outbreak[11] == '2017') {
+            outbreakType = 'Enteric';
+            outbreakYear = '2017';
+        } else if (outbreak[4] == 'Enteric' && outbreak[11] == '2018') {
+            outbreakType = 'Enteric';
+            outbreakYear = '2018';
+        } else if (outbreak[4] == 'Enteric' && outbreak[11] == '2019') {
+            outbreakType = 'Enteric';
+            outbreakYear = '2019';
+        } else if (outbreak[4] == 'Enteric' && outbreak[11] == '2020') {
+            outbreakType = 'Enteric';
+            outbreakYear = '2020';
+        } else if (outbreak[4] == 'Enteric' && outbreak[11] == '2021') {
+            outbreakType = 'Enteric';
+            outbreakYear = '2021';
+        } else if (outbreak[4] == 'Enteric' && outbreak[11] == '2022') {
+            outbreakType = 'Enteric';
+            outbreakYear = '2022';
+        } else if (outbreak[4] == 'Enteric' && outbreak[11] == '2023') {
+            outbreakType = 'Enteric';
+            outbreakYear = '2023';
+        } else if (outbreak[4] == 'Other' && outbreak[11] == '2016') {
+            outbreakType = 'Other';
+            outbreakYear = '2016';
+        } else if (outbreak[4] == 'Other' && outbreak[11] == '2017') {
+            outbreakType = 'Other';
+            outbreakYear = '2017';
+        } else if (outbreak[4] == 'Other' && outbreak[11] == '2018') {
+            outbreakType = 'Other';
+            outbreakYear = '2018';
+        } else if (outbreak[4] == 'Other' && outbreak[11] == '2019') {
+            outbreakType = 'Other';
+            outbreakYear = '2019';
+        } else if (outbreak[4] == 'Other' && outbreak[11] == '2020') {
+            outbreakType = 'Other';
+            outbreakYear = '2020';
+        } else if (outbreak[4] == 'Other' && outbreak[11] == '2021') {
+            outbreakType = 'Other';
+            outbreakYear = '2021';
+        } else if (outbreak[4] == 'Other' && outbreak[11] == '2022') {
+            outbreakType = 'Other';
+            outbreakYear = '2022';
+        } else if (outbreak[4] == 'Other' && outbreak[11] == '2023') {
+            outbreakType = 'Other';
+            outbreakYear = '2023';
+        }
+
+        // create new marker with icon and coordinates
+        let newMarker = L.marker([outbreak[10], outbreak[9]], {
+            icon: outbreakIcons[outbreakType]
+        });
+
+        // add the new marker to the correct layer
+        newMarker.addTo(yearLayers[outbreakYear]);
+
+        //bind a popup to display info about the outbreak when clicked
+        newMarker.bindPopup(`<h3>${outbreak[1]}</h3><hr><p>Location: ${outbreak[2]}, ${outbreak[3]}</p><hr><p>Type of Outbreak: ${outbreak[4]}, ${outbreak[5]}</p><hr><p>Start: ${outbreak[6]} End: ${outbreak[7]}</p>`);
+    }
+});
