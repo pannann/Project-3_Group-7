@@ -49,6 +49,28 @@ let overlayMaps = {
 // create control layer and add overlays
 L.control.layers(null, overlayMaps).addTo(myMap);
 
+// initialize object containing icons for types of outbreaks
+let outbreakIcons = {
+    'Respiratory': L.ExtraMarkers.icon({
+        icon: 'ion-disc-outline',
+        iconColor: 'white',
+        markerColor: 'purple',
+        shape: 'circle'
+    }),
+    'Enteric': L.ExtraMarkers.icon({
+        icon: 'ion-add-circle-outline',
+        iconColor: 'white',
+        markerColor: 'green',
+        shape: 'circle'
+    }),
+    'Other': L.ExtraMarkers.icon({
+        icon: 'ion-help-circle-outline',
+        iconColor: 'white',
+        markerColor: 'yellow',
+        shape: 'circle'
+    })
+};
+
 // create a legend for the map
 let infoLegend = L.control({
     position: 'bottomright'
@@ -56,34 +78,31 @@ let infoLegend = L.control({
 
 // insert a div with class 'legend' when control layer is added
 infoLegend.onAdd = function() {
-    let div = L.DomUtil.create('div', 'legend');
+    let div = L.DomUtil.create('div', 'info legend');
+    // add legend title to HTML
+    let legendInfo = '<h3>Outbreak Types</h3>';
+    div.innerHTML = legendInfo;
+
+    // set categories
+    categories = ['Respiratory', 'Enteric', 'Other']
+    // loop through categories and generate a label with the colour and the type of outbreak
+    for (let i = 0; i < categories.length; i++) {
+        if (categories[i] == 'Respiratory') {
+            let colour = 'purple';
+            div.innerHTML += '<i style="background: ' + colour + '"></i> ' + categories[i] + '<br>';
+        } else if (categories[i] == 'Enteric') {
+            let colour = 'green';
+            div.innerHTML += '<i style="background: ' + colour + '"></i> ' + categories[i] + '<br>';
+        } else {
+            let colour = 'yellow';
+            div.innerHTML += '<i style="background: ' + colour + '"></i> ' + categories[i] + '<br>';
+        } 
+    }
     return div;
 };
 
 // add the legend to the map
 infoLegend.addTo(myMap);
-
-// initialize object containing icons for types of outbreaks
-let outbreakIcons = {
-    'Respiratory': L.ExtraMarkers.icon({
-        icon: 'ion-disc-outline',
-        iconColor: 'white',
-        markerColor: 'blue',
-        shape: 'circle'
-    }),
-    'Enteric': L.ExtraMarkers.icon({
-        icon: 'ion-add-circle-outline',
-        iconColor: 'white',
-        markerColor: 'orange',
-        shape: 'penta'
-    }),
-    'Other': L.ExtraMarkers.icon({
-        icon: 'ion-help-circle-outline',
-        iconColor: 'white',
-        markerColor: 'green',
-        shape: 'star'
-    })
-};
 
 // assign API URL to a constant
 const outbreaks_url = "http://127.0.0.1:5000/api/outbreaks";
