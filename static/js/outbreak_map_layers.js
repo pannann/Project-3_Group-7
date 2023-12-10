@@ -83,7 +83,7 @@ infoLegend.onAdd = function() {
     let legendInfo = '<h4>Outbreak Types</h4>';
     div.innerHTML = legendInfo;
 
-    // add categories to legend
+    // add categories to legend with name and colour matching icon colour
     div.innerHTML += '<i style="background: #ffffff"></i><span>Respiratory</span><br>';
     div.innerHTML += '<i style="background: #106cb7"></i><span>Enteric</span><br>';
     div.innerHTML += '<i style="background: #000000"></i><span>Other</span><br>';
