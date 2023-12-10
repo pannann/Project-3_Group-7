@@ -246,14 +246,8 @@ def about():
 @app.route('/dashboard')
 def dashboard():
     return render_template('dashboard.html')
-    
-    
-    
 
-# Analysis page
-@app.route('/analysis')
-def analysis():
-    return render_template('analysis.html')
+
 if __name__ == '__main__':
     app.run(debug=True)
 
