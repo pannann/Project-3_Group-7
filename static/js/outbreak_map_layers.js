@@ -54,19 +54,19 @@ let outbreakIcons = {
     'Respiratory': L.ExtraMarkers.icon({
         icon: 'ion-disc-outline',
         iconColor: 'white',
-        markerColor: 'purple',
+        markerColor: 'white',
         shape: 'circle'
     }),
     'Enteric': L.ExtraMarkers.icon({
         icon: 'ion-add-circle-outline',
         iconColor: 'white',
-        markerColor: 'green',
+        markerColor: 'blue',
         shape: 'circle'
     }),
     'Other': L.ExtraMarkers.icon({
         icon: 'ion-help-circle-outline',
         iconColor: 'white',
-        markerColor: 'yellow',
+        markerColor: 'black',
         shape: 'circle'
     })
 };
@@ -80,24 +80,14 @@ let infoLegend = L.control({
 infoLegend.onAdd = function() {
     let div = L.DomUtil.create('div', 'info legend');
     // add legend title to HTML
-    let legendInfo = '<h3>Outbreak Types</h3>';
+    let legendInfo = '<h4>Outbreak Types</h4>';
     div.innerHTML = legendInfo;
 
-    // set categories
-    categories = ['Respiratory', 'Enteric', 'Other']
-    // loop through categories and generate a label with the colour and the type of outbreak
-    for (let i = 0; i < categories.length; i++) {
-        if (categories[i] == 'Respiratory') {
-            let colour = 'purple';
-            div.innerHTML += '<i style="background: ' + colour + '"></i> ' + categories[i] + '<br>';
-        } else if (categories[i] == 'Enteric') {
-            let colour = 'green';
-            div.innerHTML += '<i style="background: ' + colour + '"></i> ' + categories[i] + '<br>';
-        } else {
-            let colour = 'yellow';
-            div.innerHTML += '<i style="background: ' + colour + '"></i> ' + categories[i] + '<br>';
-        } 
-    }
+    // add categories to legend
+    div.innerHTML += '<i style="background: #ffffff"></i><span>Respiratory</span><br>';
+    div.innerHTML += '<i style="background: #106cb7"></i><span>Enteric</span><br>';
+    div.innerHTML += '<i style="background: #000000"></i><span>Other</span><br>';
+
     return div;
 };
 
