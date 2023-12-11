@@ -83,7 +83,7 @@ d3.json(seasons_url).then(function(data){
         };
     };
 
-    // Reshuffle values unique_seasons array in order: Spring, Summer, Fall, Winter
+    // Reshuffle values in unique_seasons array in order: Spring, Summer, Fall, Winter
     let fall_season = unique_seasons[0];
     let spring_season = unique_seasons[1];
     let summer_season = unique_seasons[2];
@@ -94,7 +94,7 @@ d3.json(seasons_url).then(function(data){
     unique_seasons[2] = fall_season;
     unique_seasons[3] = winter_season;
 
-    // For loop to reshuffle values yearly_season_count array 
+    // For loop to reshuffle values in yearly_season_count array 
     // in order: spring_count, summer_count, fall_count, winter_count
     for(let i = 0; i < yearly_season_count.length; i++){
         let each_yearly_season_count = yearly_season_count[i];
