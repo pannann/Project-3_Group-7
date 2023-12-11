@@ -107,7 +107,6 @@ d3.json(seasons_url).then(function(data){
         each_yearly_season_count[1] = summer_count;
         each_yearly_season_count[2] = fall_count;
         each_yearly_season_count[3] = winter_count;
-        console.log(each_yearly_season_count)
     };
 
     // Function to call updateChart() when drop-down selection is changed
