@@ -19,11 +19,6 @@ document.addEventListener('DOMContentLoaded', function() {
                 var selectedOutbreakType = this.value;
                 updatePlot(data, selectedOutbreakType);
             });
-            // Attach an event listener to the dropdown menu
-            dropdown.addEventListener('change', function() {
-                var selectedOutbreakType = this.value;
-                updatePlot(data, selectedOutbreakType);
-            });
 
         })
         .catch(error => {
