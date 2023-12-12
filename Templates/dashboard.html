@@ -52,12 +52,12 @@
         <div class="col-md-2">
           <div class="well">
             <h5>Select a year:</h5>
-            <select id="selDataset" onchange="optionChangedSettings(this.value)"></select>
+            <select id="selDataset"></select>
           </div>
         <div class="col-md-5">
-            <div id="settings-bar"></div>
+            <canvas id="settingsChart"></canvas>
             <div style = "width: 750px; height: 500px;">
-                <canvas id="myChart"></canvas>
+                <canvas id="seasonsChart"></canvas>
             </div>
         </div>
     
@@ -66,7 +66,7 @@
     <!-- <script src="../static/js/avg_outbreak_length_by_institution.js"></script> -->
  <!-- use the follwing path if using flask -->
     <!-- <script src="{{ url_for('static', filename='js/avg_outbreak_length_by_institution.js') }}"></script> -->
-    <script src="{{ url_for('static', filename='js/outbreak_setting.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/outbreak_settings_chart.js') }}"></script>
     <script src="{{ url_for('static', filename='js/outbreak_map_layers.js') }}"></script>
     <script src="{{ url_for('static', filename='js/outbreaks_by_year_season.js') }}"></script>
 </body>
