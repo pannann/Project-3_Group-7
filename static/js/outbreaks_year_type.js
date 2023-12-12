@@ -15,26 +15,16 @@ document.addEventListener('DOMContentLoaded', function() {
             var initialOutbreakType = outbreakTypes[0];
             updatePlot(data, initialOutbreakType);
 
-            // Create a dropdown menu
-            var dropdown = document.createElement('select');
-            dropdown.id = 'outbreakDropdown';
-
-            // Add options to the dropdown
-            ['All', 'Enteric', 'Respiratory', 'Other'].forEach(function(type) {
-                var option = document.createElement('option');
-                option.value = type;
-                option.text = type;
-                dropdown.appendChild(option);
+            dropdown = d3.select("#outbreakDropdown").on("change", function(){
+                var selectedOutbreakType = this.value;
+                updatePlot(data, selectedOutbreakType);
             });
-
             // Attach an event listener to the dropdown menu
             dropdown.addEventListener('change', function() {
                 var selectedOutbreakType = this.value;
                 updatePlot(data, selectedOutbreakType);
             });
 
-            // Append the dropdown to the body
-            document.body.appendChild(dropdown);
         })
         .catch(error => {
             console.error('Error fetching data:', error);
