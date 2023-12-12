@@ -121,7 +121,7 @@ d3.json(seasons_url).then(function(data){
     let initialOutbreaks_count_by_season = yearly_season_count[1];
 
     // Plot intial chart and save into variable
-    let myChart = new Chart("myChart", {
+    let myChart = new Chart("seasonsChart", {
         type: "bar",
         data: {
             labels: unique_seasons,
