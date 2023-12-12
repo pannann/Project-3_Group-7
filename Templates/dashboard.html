@@ -61,15 +61,22 @@
                 <div style = "width: 750px; height: 500px;">
                     <canvas id="seasonsChart"></canvas>
                 </div>
+          <div class="well">
+            <h5>Select a type of outbreak:</h5>
+            <select id="outbreakDropdown"></select>
+                <div style = "width: 750px; height: 500px;">
+                    <div id="outbreaksPlot"></div>
+                </div>
+          </div>
         </div>
     
     <script src="https://d3js.org/d3.v5.min.js"></script>
     <!-- If using html use this path -->
     <!-- <script src="../static/js/avg_outbreak_length_by_institution.js"></script> -->
  <!-- use the follwing path if using flask -->
-    <!-- <script src="{{ url_for('static', filename='js/avg_outbreak_length_by_institution.js') }}"></script> -->
     <script src="{{ url_for('static', filename='js/outbreak_settings_chart.js') }}"></script>
     <script src="{{ url_for('static', filename='js/outbreak_map_layers.js') }}"></script>
     <script src="{{ url_for('static', filename='js/outbreaks_by_year_season.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/outbreaks_year_type.js') }}"></script>
 </body>
 </html>

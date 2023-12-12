@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function() {
-    const apiUrl = 'http://localhost:5000/api/outbreaks_by_year_type';
+    const apiUrl = 'http://127.0.0.1:5000/api/outbreaks_by_year_type';
 
     // Fetch the JSON data from the API endpoint
     fetch(apiUrl)
