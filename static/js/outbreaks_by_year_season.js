@@ -35,6 +35,13 @@ d3.json(seasons_url).then(function(data){
         count = 0;
     }
 
+    // select the drop-down element in dashboard.html and store in variable
+    let select = d3.select("#selDataset2");
+    // loop through years in the list and append the year to the select variable
+    unique_years.forEach((year) => {
+        select.append("option").text(year).property("value", year);
+    });
+
     // Get all seasons data in raw format and save in all_seasons array
     let all_seasons = []
     for (let i = 0; i < data.length; i++){
@@ -110,7 +117,7 @@ d3.json(seasons_url).then(function(data){
     };
 
     // Function to call updateChart() when drop-down selection is changed
-    d3.selectAll("#selDataset").on("change", function(){
+    d3.select("#selDataset2").on("change", function(){
         updateChart();
     });
 
@@ -145,7 +152,7 @@ d3.json(seasons_url).then(function(data){
 
     // function to update plot based on year selected on drop-down menu
     function updateChart(){
-        let dropdownMenu = d3.select("#selDataset");
+        let dropdownMenu = d3.select("#selDataset2");
         let select_year = dropdownMenu.property("value");
 
         for(let i = 0; i < unique_years.length; i++){
